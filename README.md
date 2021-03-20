@@ -1,3 +1,3 @@
-# PGN_URL
+# ChessPGNFiles
 
-pgn files
+My place to store various Chess PGN Files.
