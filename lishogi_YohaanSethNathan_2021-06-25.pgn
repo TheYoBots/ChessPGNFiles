@@ -1,0 +1,4185 @@
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/UjN24tuP"]
+[Date "2021.06.25"]
+[Sente "YohaanSethNathan"]
+[Gote "YoBot_v2"]
+[Result "0-1"]
+[UTCDate "2021.06.25"]
+[UTCTime "15:21:26"]
+[SenteElo "1371"]
+[GoteElo "1847"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pb6 2. Pd4 Pg6 3. Rd2 Pi6 0-1
+
+
+[Event "midnight 2p simul yay simul"]
+[Site "https://lishogi.org/6cCiR1wR"]
+[Date "2021.06.22"]
+[Sente "YohaanSethNathan"]
+[Gote "LilyLionmane"]
+[Result "0-1"]
+[UTCDate "2021.06.22"]
+[UTCTime "07:00:06"]
+[SenteElo "1223"]
+[GoteElo "1500"]
+[Variant "From Position"]
+[TimeControl "1200+60+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+[FEN "lnsgkgsnl/9/ppppppppp/9/9/9/PPPPPPPPP/1B5R1/LNSGKGSNL w - 2"]
+[SetUp "1"]
+
+1... Sd8 2. Pc4 Sf8 3. Pd4 Pe6 4. Rd2 Gc8 5. Kf2 Sd8e7 6. Kg2 Pf6 7. Kh2 Sf7 8. Gg2 Gg8 9. Ge2 Pg6 10. Gd3 Ke8 11. Sc2 Pd6 12. Sc3 Pc6 13. Pi4 Nc7 14. Pe4 Gd7 15. Pa4 Ng7 16. Re2 Pf5 17. Pe5 Pxe5 18. Rxe5 Sf7e6 19. Re3 Sf6 20. Pb4 P*e5 21. P*e4 Gf7 22. Sf2 Pxe4 23. Gxe4 P*e5 24. Gxe5 Sf6xe5 25. P*e4 Sf6 26. Pa5 Pd5 27. Rd3 Pxd4 28. Sxd4 P*d5 29. Se5 Pd4 30. Sxd4 G*c2 31. Ba3 Pa6 32. Pc5 Pxa5 33. Pb5 Pa4 34. Bb4 Nxb5 35. Pxc6 P*d6 36. Pc7+ Gxc7 37. Se5 Sf6xe5 38. Pxe5 Sxe5 39. S*d4 Se4 40. Rb3 S*c4 41. Re3 Sxe3+ 42. Sf2xe3 R*b2 43. Sc5 Rxb1+ 44. S*e5 N*c6 45. Se5xd6 Gxd6 46. Sxd6 Dxb4 47. G*d7 Kf8 48. P*e7 Db1 49. Pe8+ Kg9 50. Se7+ B*f1 51. Axf7 Bxg2+ 52. Kxg2 G*g1 53. Kh2 Gxh1 54. Ki2 Gxi1 55. Ki3 N*h5 56. Kh4 S*g5 57. Ki5 Pi6 0-1
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/TMH4ve5F"]
+[Date "2021.06.18"]
+[Sente "JapaneseChessisgr8"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.06.18"]
+[UTCTime "20:03:01"]
+[SenteElo "1688"]
+[GoteElo "1463"]
+[SenteRatingDiff "-21"]
+[GoteRatingDiff "+17"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Gf1e2 Pg6 2. Kf1 Pf6 3. Pe4 Rf8 4. Pc4 Kd8 5. Sf2 Kc8 6. Sd2 Kb8 7. Sf2e3 Gc8 8. Bd4 Ge8 9. Pe5 Gf7 10. Se4 Sg8 11. Pi4 Sg7 12. Nc3 Pi6 13. Be3 Pe6 14. Pxe6 Gxe6 0-1
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/fFbs3rey"]
+[Date "2021.06.18"]
+[Sente "YohaanSethNathan"]
+[Gote "JapaneseChessisgr8"]
+[Result "0-1"]
+[UTCDate "2021.06.18"]
+[UTCTime "20:02:22"]
+[SenteElo "1468"]
+[GoteElo "1681"]
+[SenteRatingDiff "-5"]
+[GoteRatingDiff "+7"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Kf8 2. Pd4 Pd6 3. Rd2 Rd8 4. Kf2 Pi6 5. Kg2 Sc8 6. Kh2 Pg6 7. Gg2 Sg8 8. Gc2 Pg5 9. Gd3 Sd7 10. Sc2 Se6 11. Sc3 Sg7 12. Pd5 Pxd5 13. Pe4 Sh6 14. Pe5 Sxe5 15. Pf4 Sxf4 16. Ge3 Sxe3+ 17. Re2 Axe2 18. Sf2 Axf2 19. Gxf2 R*d1 20. Gg2 Rxb1+ 21. Pi4 Pd4 22. Ki3 Dxh1 23. Gh2 N*h5 24. Kh4 N*g6 0-1
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/884PNzZ4"]
+[Date "2021.06.17"]
+[Sente "NHHoan"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.06.17"]
+[UTCTime "08:04:09"]
+[SenteElo "1262"]
+[GoteElo "1457"]
+[SenteRatingDiff "-3"]
+[GoteRatingDiff "+11"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pg6 2. Pd4 Pf6 3. Pe4 Rf8 4. Re2 Kd8 5. Pe5 Kc8 6. Pe6 Kb8 7. Pxe7+ Re8 8. Tf8 Rxf8 9. Re8+ Gd9xe8 10. Pd5 Sd8 11. Pc5 Pd6 12. Pb4 Sd7 13. Bxf6 Pxd5 14. Bxh8+ Rxh8 15. Ph4 Rf8 16. Ph5 Ge7 17. Pg4 Ge6 18. Ph6 Pd4 19. Pxh7+ Pd3+ 20. Th8 Td2 21. Kxd2 Ge5 22. Txh9 Rh8 0-1
+
+
+[Event "Rated Bullet game"]
+[Site "https://lishogi.org/PQh1iiGE"]
+[Date "2021.06.16"]
+[Sente "YohaanSethNathan"]
+[Gote "YoBot_v2"]
+[Result "0-1"]
+[UTCDate "2021.06.16"]
+[UTCTime "08:23:43"]
+[SenteElo "1377"]
+[GoteElo "1844"]
+[SenteRatingDiff "-6"]
+[GoteRatingDiff "+2"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Gg8 2. Pd4 Pg6 3. Rd2 Pi6 4. Kf2 Pi5 5. Kg2 Sf8 6. Kh2 Kf9 7. Gg2 Sd8 8. Gc2 Kg9 9. Gd3 Pb6 10. Bc3 Pe6 11. Pe4 Sd8e7 12. Sc2 Pc6 13. Re2 Pd6 14. Ge3 Ge9 15. Pf4 Nc7 16. Sd3 Pa6 17. Pb4 Pb5 18. Pxb5 Pd5 19. Pb6 Rxb6 20. P*b4 Pxd4 21. Sxd4 P*d5 22. Sxd5 Nxd5 23. Bd2 Bxa1+ 24. Gd3 Hxb1 25. Gd4 P*d3 0-1
+
+
+[Event "Casual Standard game"]
+[Site "https://lishogi.org/CdrUkeha"]
+[Date "2021.06.15"]
+[Sente "RandomMoverBot"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.06.15"]
+[UTCTime "11:51:30"]
+[SenteElo "1142"]
+[GoteElo "1316"]
+[SenteTitle "BOT"]
+[Variant "From Position"]
+[TimeControl "600+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+[FEN "+R+R+R+R+R+R+R+R+R/PPPPPPPPP/lnsgkgsnl/1r5b1/ppppppppp/9/PPPPPPPPP/1B5R1/LNSGKGSNL b - 1"]
+[SetUp "1"]
+
+1. Rd2 Pb4 2. Sg2 Pxb3+ 3. Pi4 Pxi4 4. Ke2 Txb2 5. La2 Txb1 6. Gd1e1 Txc1 7. Pa4 Pxa4 8. Pg4 Pxg4 9. Pe4 Pxe4 10. Pd4 Pxd4 11. La3 Pxa3+ 12. Ng3 Rb3+ 13. Rc2 Dxc2 14. Gd2 Db3 15. Gc2 Dxc2 16. Ke1 Dd1 17. Kf2 Pd3+ 18. Ph4 Pxh4 19. Gg1 Be3+ 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/bFL2fBk2"]
+[Date "2021.06.14"]
+[Sente "YohaanSethNathan"]
+[Gote "Random"]
+[Result "0-1"]
+[UTCDate "2021.06.14"]
+[UTCTime "10:46:51"]
+[SenteElo "1377"]
+[GoteElo "1134"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 Sf8 2. Ph5 Pg6 3. Ph6 Bxc3+ 4. Bxc3 Pe6 5. Pxh7+ Se7 6. Th8 Sf6 7. Txh9 Rc8 8. Tg9 Pi6 9. Tg8 Ke8 10. Tf8 Ke7 11. Txf9 Rf8 12. Txf8 Gc8 13. Txf7 Kd6 14. Txf6 P*h4 15. Txg6 Sb8 16. Th6 Ph3+ 17. Txi6 Ke7 18. Ti7 Th4 19. Ti8 Pb6 20. Txi9 Pe5 21. Th9 Ke6 22. Th8 Txi3 23. Ri2 Kd5 24. Rxi3 Kc5 25. Ri5 Sb7 26. Rxe5 Kc6 27. Bd4 P*i9 28. Rc5 Kd6 29. Th7 Pb5 30. Pe4 Gb8 31. Th6 Sc6 32. Tg6 Sxc5 33. Tg5 R*c8 34. Tf5 Rh8 35. Te5 Kc6 36. Td5 Kxd5 37. Pe5 P*e9 38. Pf4 Pa6 39. Gf1e2 Rh9 40. Ge3 Pc6 41. Ge4 Kxe4 42. Ge2 Rxh1+ 43. Ge3 Kd5 44. Pf5 G*i4 45. Gf4 N*i7 46. Gg5 Dh5 47. Gf6 Kd6 48. Ge6 Kc7 49. Bxc5 Pe8 50. Bd6 Kb6 51. Bxb8+ Di5 52. Gxd7 Gh4 53. Gxe8 La8 54. Ge7 Pc5 55. Gd7 Gg4 56. Gc7 Gg5 57. Gb7 Ka5 58. Hc7 Nxc7 59. Gxc7 Gf4 60. Gc6 B*i6 61. Gxc5 Dh5 62. Gd5 Ge4 63. Gd4 Dh4 64. Gxe4 Dxg3 65. Gf4 P*c5 66. Gf3 Di3 67. Gg3 Di5 68. Gg4 Kb6 69. Gh4 Pi8 70. Gxi5 Bh7 71. Gi6 Bg8 72. Gh7 Pc4 73. Gxg8 Ka5 74. Gh8 Pb4 75. Gxi8 Nh5 76. Gi7 Ng3= 77. Pxb4 Nh1+ 78. Pb5 La7 79. Pb6 Mxg1 80. Pb7+ S*b2 81. Txa7 Sc3+ 82. Txa6 Kxa6 83. Sc2 P*h4 84. Sxc3 Mh1 85. Sxc4 Ph3+ 86. Sc5 Kb5 87. Gh7 Ka5 88. Gg7 Tg3 89. Gf7 Th3 90. Ge7 Th2 91. Gd7 Ka6 92. Gc7 Th3 93. Gc6 Mxi1 94. Gb6 Ka5 95. Gb5 Kxb5 96. Sb4 Ka6 97. Pd4 G*h8 98. Pd5 L*a5 99. Pd6 Lxa3+ 100. Pd7+ P*g8 101. Tc7 Tg3 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/NxaPLm1Q"]
+[Date "2021.06.14"]
+[Sente "Random"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.06.14"]
+[UTCTime "10:46:17"]
+[SenteElo "1134"]
+[GoteElo "1377"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pf4 Pb6 2. Pg4 Pb5 3. Gc2 Pb4 4. Ng3 Pxb3+ 5. Pf5 Txb2 6. Gb3 Txc1 7. Ke2 Tc2 8. Kf3 Txc3 9. Rg2 Txb3 10. Rc2 Tb2 11. Kf4 Txc2 12. Pd4 Tc3 13. Kf3 Tc4 14. Nh5 Txd4 15. La2 Rb3+ 16. Nxi7+ Dxa2 17. Pa4 Dxb1 18. P*c5 Db2 19. Li2 Db4 20. Sg2 Dxa4 21. Pg5 Db4 22. Ge1 Dc4 23. Gd1 Dxc5 24. Sh1 Dc3 25. Ge2 Dxe3 26. Kg4 Dxe2 27. Mxh7 De4 28. Kh5 Dxf5 29. P*d5 Te4 30. Kh4 Te5 31. Mxh8 Txd5 32. B*i1 Te4 33. Bd6 Te5 34. Sg2 Tf4 35. Bb4 Tg4 36. Kh5 Dxg5 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/s5YY9ZhN"]
+[Date "2021.06.14"]
+[Sente "YohaanSethNathan"]
+[Gote "Random"]
+[Result "1-0"]
+[UTCDate "2021.06.14"]
+[UTCTime "10:45:58"]
+[SenteElo "1377"]
+[GoteElo "1134"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Gg8 2. Ph5 Pd6 3. Ph6 Kf9 4. Pxh7+ Sd8 5. Txh8 Pd5 6. Txh9 Se9 7. Txi9 Ra8 8. Ti8 Pg6 9. Txi7 Pc6 10. Th7 Rb8 11. Th8 Pf6 12. Txg8 Ke8 13. Txg9 Kf7 14. Rh7+ Ke6 15. Tg8 Pa6 16. Tg7 Sd8 17. Txg6 Ra8 18. Df7 Ke5 19. Dxf6 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/rMV9cluc"]
+[Date "2021.06.14"]
+[Sente "Random"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.06.14"]
+[UTCTime "10:45:40"]
+[SenteElo "1134"]
+[GoteElo "1377"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pd4 Pb6 2. Kf2 Pb5 3. Li2 Pb4 4. Gd1e1 Pxb3+ 5. Sd2 Txb2 6. Pf4 Txb1 7. Pd5 Txa1 8. Gg2 Ta2 9. Pf5 Txa3 10. Ke2 Tb3 11. Pe4 Tb2 12. Sc1 Rb3+ 13. Ge1f2 Txc1 14. Pi4 Db2 15. Ke1 Dd2 16. Kf1 Td1 17. Pi5 Te1 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/Mlben2tF"]
+[Date "2021.06.14"]
+[Sente "YohaanSethNathan"]
+[Gote "Random"]
+[Result "1-0"]
+[UTCDate "2021.06.14"]
+[UTCTime "10:45:04"]
+[SenteElo "1377"]
+[GoteElo "1134"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Rf8 2. Ph5 Ph6 3. Pxh6 Pa6 4. Ph7+ Li8 5. Txh8 Ke8 6. Txh9 Pc6 7. Ti9 Pc5 8. Txi8 La8 9. Txi7 Gg8 10. Th7 Rf9 11. Txg8 Sc8 12. Txg9 Pe6 13. Txf9 Nc7 14. Tg9 Gc9 15. Tg8 Sd9 16. Txg7 Ke9 17. Txf7 Pb6 18. Tf6 Nd5 19. Txe6 Kd8 20. Txd7 Ke9 21. Td6 Pa5 22. Txd5 Kf9 23. Txc5 La7 24. Txb6 Sc8 25. Txa7 Sc7 26. Ta6 Sd6 27. Txa5 Gb9 28. Tb5 Ga9 29. Tc5 Gb9 30. Txd6 Gc8 31. Td7 Kf8 32. Td8 Kf7 33. Txc8 Kg7 34. Tc7 Kg8 35. Pe4 Kf7 36. Pc4 Kg8 37. Bf6 Kg9 38. Bd8+ Kf9 39. Rh8+ 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/nZnTIe0M"]
+[Date "2021.06.14"]
+[Sente "Random"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.06.14"]
+[UTCTime "10:43:43"]
+[SenteElo "1134"]
+[GoteElo "1377"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Li2 Pb6 2. Pe4 Pb5 3. Kd2 Pb4 4. La2 Pxb3+ 5. Sc2 Txb2 6. Rg2 Txb1 7. Rh2 Ta1 8. Pi4 Txa2 9. Ke1 Txa3 10. Sf2 Tb3 11. Gd2 Txc2 12. Sg1 Txc3 13. Gc2 Txd3 14. Gf2 Txc2 15. Sg2 Tc3 16. Sf1 Rb2+ 17. Pi5 Pg6 18. Rg2 Pf6 19. Pf4 Pf5 20. Pxf5 Bd4 21. P*a8 Bxf2+ 22. Sxf2 Tc2 23. B*b4 Db1 24. Ke2 Dd1 25. Kf3 Td2 26. Kg4 Te2 27. Li3 Txf2 28. Li4 Dxh1 29. Be1 Dxg2 30. Pi6 Txe1 31. Pxi7+ Lxi7 32. P*b1 Lxi4 33. Kf4 Li2+ 34. Kg4 Uh2 35. Kf4 Uxh3 36. Pf6 Uxg3 37. Ke5 Df3 38. Pxa9+ De3 39. L*e2 Dxe2 40. Kf5 Uf3 41. Pf7+ Ue3 42. Kxg6 Uxe4 43. P*g1 Ue5 44. Kg5 Gf8 45. Kf6 Gxf7 46. Kg5 Gf6 47. Kh4 R*e3 48. Kh5 Ri3+ 49. Pb2 De4 50. Pb3 Ud4 51. Pg2 Ge6 52. Kg6 Gd6 53. Pg3 De6 54. Kh5 Di5 55. Kg4 Di5f5 56. Kh3 De6e4 57. Ta8 Df5f3 58. Ki2 De4f4 59. Txb9 Df4xg3 60. N*h3 Df3f2 61. Ki1 Dg3g1 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/eDkVWjST"]
+[Date "2021.06.14"]
+[Sente "YohaanSethNathan"]
+[Gote "Random"]
+[Result "1-0"]
+[UTCDate "2021.06.14"]
+[UTCTime "10:42:24"]
+[SenteElo "1377"]
+[GoteElo "1134"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Gc8 2. Ph5 Pf6 3. Ph6 Sf8 4. Pxh7+ Kd8 5. Txh8 Pd6 6. Txh9 Pg6 7. Txi9 La8 8. Ti8 Pe6 9. Txi7 Pg5 10. Th7 Pe5 11. Th6 Ge8 12. Th5 Pf5 13. Txg5 Ke7 14. Txf5 Ge9 15. Txe5 Sg9 16. Txd6 Kf8 17. Txc7 Kg7 18. Txc8 Pb6 19. Txb8 Sg8 20. Txb9 Sh9 21. Txc9 Gd8 22. Tc8 Gd9 23. Tb8 Kf6 24. Txa8 Gc9 25. Txa7 Kg5 26. Tb7 Kf5 27. Txb6 Kg5 28. Tc6 Gb8 29. Tc7 Kf6 30. Txb8 Si8 31. Tc8 Si7 32. Td9 Ke7 33. Td8 Kf7 34. Te8 Sh8 35. Td8 Sh7 36. Td7 Kf6 37. Td6 Sh6 38. Td5 Kg6 39. Td4 Kf5 40. Te4 Ke6 41. Tf4 Sg7 42. Tg4 Sf6 43. Th5 Kf5 44. Tg6 Sg7 45. Txg7 Ke6 46. Tg8 Kd6 47. Rh7+ Kc6 48. Pc4 Kd6 49. Bg7+ Kc7 50. Hf8 Kb6 51. De7 Kb5 52. He9 Ka6 53. Dd7 Kb5 54. Hc7 Ka6 55. Dd6 Kb5 56. Db6 Kxc4 57. Dc6 Kxb3 58. Dc2 Kb4 59. He5 P*c4 60. Pd4 P*h5 61. Pd5 Kb5 62. Hd4 Ka5 63. Hc5 Pc3= 64. Dxc3 Ka6 65. Hb4 Ka7 66. Dc6 Kb8 67. Hc5 Ka8 68. Hb6 Kb9 69. Dc7 Ph4 70. Ha7 Ka9 71. Db8 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/YFHTBcAO"]
+[Date "2021.06.14"]
+[Sente "Random"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.14"]
+[UTCTime "10:40:42"]
+[SenteElo "1134"]
+[GoteElo "1377"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Gd2 Pb6 2. La2 Pb5 3. Ke2 Pb4 4. Pf4 Pxb3+ 5. Pd4 Txb2 6. Sg2 Txc1 7. Ke1 Txb1 8. Ri2 Ta1 9. Pe4 Txa2 10. Pe5 Txa3 11. Pg4 Tb3 12. Gd1 Txc3 13. Gd1e2 Rb2+ 14. Gd2 Tc2 15. Ke2 Txd2 16. Kf3 Dc2 17. Ke4 Dc1 18. Ng3 Dxf1 19. Pf5 Df2 20. Pg5 Dxg2 21. Pg6 Dxg3 22. Kd5 Td3 23. Rg2 Txd4 24. Kxd4 Dxg2 25. P*d1 Dxh3 26. Kc4 Dxi3 27. Kc5 Dxi1 28. Kd5 Dxd1 29. Ke4 Dd6 30. Pe6 Dxe6 31. Kf3 Dxf5 32. Ke2 Dxg6 33. Ke3 Pf6 34. Kd4 Pf5 35. Ke5 Pf4 36. Kxf4 Pe6 37. P*g3 Pe5 38. Pg4 Pe4 39. Ke5 Pe3+ 40. Kd5 Te2 41. Ke4 Td2 42. Pg5 Td3 43. Kd5 Dxg5 44. Ke6 Dd5 45. Kxd5 Pd6 46. Ke4 Td4 47. Kf5 Td5 48. R*f1 Pg6 49. Re1 Be5 50. Rxe5 Txe5 51. Kxe5 Gd9e8 52. Kxd6 Ge7 53. Kc5 Gd6 54. Kd4 Gc6 55. B*e6 Pa6 56. P*a2 Pa5 57. Bf7+ Pa4 58. P*e7 Pa3+ 59. Hxg6 Sg8 60. P*h1 Sg7 61. Hf6 Sg6 62. Hh4 Sh5 63. Ph2 Sxh4 64. Kd3 Sh3+ 65. Pxa3 Axh2 66. P*c1 Ag2 67. Pe8= Kxe8 68. Kd2 Gd5 69. Ke3 Gd4 70. Kf3 Af2 71. Kg3 Af3 72. Kh4 Ge4 73. Kh3 Gf4 74. Ki3 Ag3 75. Ki4 Gg4 76. Pa4 Ah3 77. Pa5 Gh4 78. Ki5 Gi3 79. Pa6 Pi6 80. Kh5 Ph6 81. Kg4 Gh2 82. Kf5 Gg2 83. Pa7= Gg3 84. Ke6 Gg4 85. Kf5 Ag3 86. Pa8= 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/tHniZLBk"]
+[Date "2021.06.14"]
+[Sente "YohaanSethNathan"]
+[Gote "Random"]
+[Result "1-0"]
+[UTCDate "2021.06.14"]
+[UTCTime "10:40:09"]
+[SenteElo "1377"]
+[GoteElo "1134"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Li8 2. Ph5 Sg8 3. Ph6 Pb6 4. Pxh7+ Rb7 5. Txh8 Pi6 6. Txg8 Gd9e8 7. Txh9 Pc6 8. Th8 Gf9f8 9. Txi8 Rb8 10. Ti7 Gf9 11. Txi6 Rc8 12. Th6 Pd6 13. Th7 Gg9 14. Txg7 Gd7 15. Rh8+ Rb8 16. Dxg9 Ke8 17. Tg8 Rc8 18. Tf8 Kd8 19. Df9 Kc7 20. De9 Ge6 21. De8 Kb8 22. Dxe7 Re8 23. Dxe8 Kc7 24. Dxf7 Ge7 25. De6 Ge8 26. Txe8 Pd5 27. Te7 Pc5 28. Dxd5 Sb8 29. Td7 Kb7 30. Dxc5 Sc7 31. Txc7 Ka6 32. Tc6 La8 33. Txb6 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/aebr8pOZ"]
+[Date "2021.06.14"]
+[Sente "Random"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.06.14"]
+[UTCTime "10:39:23"]
+[SenteElo "1134"]
+[GoteElo "1377"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ri2 Pb6 2. Gg2 Pb5 3. Kf2 Pb4 4. Pe4 Pxb3+ 5. Pd4 Txb2 6. Ph4 Txc1 7. Pf4 Txd1 8. Sh2 Tc1 9. Pi4 Txb1 10. Pg4 Txa1 11. Pd5 Ta2 12. Sg1 Txa3 13. Gf3 Tb3 14. Ke3 Txc3 15. Kf2 Tc4 16. Kg3 Tc5 17. Sg2 Txd5 18. Pi5 Txe4 19. Ph5 Txf3 20. Kxf3 Rb5 21. P*a2 Rb3+ 22. Ke4 Dxa2 23. Pi6 Da3 24. Pf5 Da4 25. Kf3 Da5 26. Pxi7= Dxf5 27. Ke3 Dxg4 28. P*c8 Dxh5 29. Kf3 Dxh1 30. Kf2 Dxi2 31. Ke3 Dxi1 32. Sh1 Dxh1 33. Kd4 Bxi7 34. Ke4 Bc1+ 35. Kd4 He3 36. Kd5 Dd1 37. Ke5 Dd4 38. Kf5 Hf4 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/fVZl3QwX"]
+[Date "2021.06.14"]
+[Sente "YohaanSethNathan"]
+[Gote "Random"]
+[Result "1-0"]
+[UTCDate "2021.06.14"]
+[UTCTime "10:38:37"]
+[SenteElo "1377"]
+[GoteElo "1134"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Sf8 2. Ph5 Gg9 3. Ph6 Pg6 4. Pxh7+ Pg5 5. Txh8 Sg7 6. Txg9 Sf6 7. Txh9 Sd8 8. Txi9 Kf9 9. Ti8 Gc8 10. Txi7 Pg4 11. Ti6 Sg5 12. Rh7+ Sf4 13. Dh6 Gc9 14. Pxf4 Pe6 15. Pxg4 Se7 16. Pg5 Kg8 17. Pg6 Rc8 18. Pg7+ Kg9 19. Txf7 Pc6 20. Txe7 Gd9 21. Txe6 Pb6 22. Txd7 Rh8 23. Dh7 Gc9 24. Dxh8 Kf9 25. Dh7 Gc8 26. De7 Kg8 27. Txc8 Nc7 28. Tb9 Nd5 29. De5 Pb5 30. Dxd5 Kg7 31. Dxc6 Kf7 32. Dxb5 Pa6 33. Db8 Kf6 34. Dxa9 Ke7 35. Dxa6 Kf8 36. Dd6 Kg8 37. Pc4 Kg9 38. Bg7+ Kh9 39. Dd9 Ki8 40. Di9 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/4Tx8SNOh"]
+[Date "2021.06.14"]
+[Sente "Random"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.06.14"]
+[UTCTime "10:38:01"]
+[SenteElo "1134"]
+[GoteElo "1377"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pd4 Pb6 2. Pc4 Pb5 3. Ph4 Pb4 4. Gd2 Pxb3+ 5. Pe4 Txb2 6. Pf4 Txc1 7. Pi4 Txb1 8. La2 Ta1 9. Gf1e2 Txa2 10. Gf2 Txa3 11. Gg2 Ta4 12. Pd5 Tb4 13. Pc5 Tc4 14. Sf2 Txc5 15. Ni3 Txd5 16. Ge3 Txe4 17. Kd2 Txe3 18. Kc2 Txf2 19. Kd2 Txg2 20. Nh5 Txh2 21. Pg4 Th3 22. Kc1 Txh4 23. Li3 Txh5 24. Kc2 Txg4 25. Kd3 Txf4 26. Ke2 Tg4 27. Ke1 Th3 28. Ke2 Txi3 29. Kf1 Txi4 30. Ke1 Ph6 31. Kd2 Pg6 32. Kc2 Bd4 33. Kd3 Ba1+ 34. Ke4 Rb2+ 35. Kf3 Db5 36. Kg2 Hd4 37. Kf1 De5 38. Kg2 Df5 39. Kh1 He3 40. Kh2 Df3 41. Kh1 Dh3 42. Ki1 Hf2 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/nljoY6lX"]
+[Date "2021.06.14"]
+[Sente "YohaanSethNathan"]
+[Gote "Random"]
+[Result "1-0"]
+[UTCDate "2021.06.14"]
+[UTCTime "10:36:53"]
+[SenteElo "1377"]
+[GoteElo "1134"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Sf8 2. Ph5 Pb6 3. Ph6 Rd8 4. Pxh7+ Gg8 5. Txh8 Gc8 6. Txh9 Rd9 7. Txi9 Sd8 8. Ti8 Pc6 9. Txi7 Gc9 10. Th7 Pd6 11. Txg7 Gc8 12. Txg8 Sg7 13. Tf8 Kxf8 14. Pg4 Pb5 15. Pg5 Kg9 16. Pg6 P*h9 17. Pxg7+ Gb7 18. Txf7 Pc5 19. Txe7 Kf9 20. Te6 Sd7 21. Txd6 Se8 22. Td7 Pc4 23. Txe8 Kg8 24. Te7 Rg9 25. Td7 Pa6 26. Td6 Pxc3= 27. Bxc3 P*f7 28. Td5 Kf9 29. Bg7+ Pb4 30. Te5 Pf6 31. Te6 Ga7 32. Txf6 Pa5 33. Tf7 Rxg7 34. Tf8 Kxf8 35. Pf4 P*c7 36. Rg2 Rg9 37. Rxg9+ Ke7 38. Dxh9 B*c5 39. Dxb9 Kf6 40. Dxa9 Ke7 41. Dxa7 Ke8 42. Dxc7 Kf8 43. Dxc5 Kf9 44. Dxa5 Ke9 45. Dxb4 Kd9 46. De4 Kd8 47. Pf5 Kc9 48. Pf6 Kb8 49. De5 Kc7 50. Pf7+ Kb7 51. Te7 Ka8 52. Dd5 Ka7 53. Td7 Kb8 54. Dc5 Ka8 55. Tc7 Ka9 56. Db5 Ka8 57. Tb7 Kb9 58. Da5 Kc9 59. Da8 Kd9 60. Tc8 Ke9 61. Td8 Kf8 62. Te8 Kf7 63. Te7 Kg6 64. Da6 Kf5 65. De6 Kg5 66. Tf7 Kg4 67. Tf6 Kg5 68. Tf5 Kh4 69. Dg6 Kh3 70. Dg5 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/XWS87fBj"]
+[Date "2021.06.14"]
+[Sente "Random"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.06.14"]
+[UTCTime "10:35:03"]
+[SenteElo "1134"]
+[GoteElo "1377"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pe4 Pb6 2. Gc2 Pb5 3. Pc4 Pb4 4. Kd1 Pxb3+ 5. Rg2 Txb2 6. Gb3 Txc1 7. Kd2 Txb1 8. Re2 Tb2 9. Ri2 Txb3 10. Gg2 Txa3 11. Gf2 Ta2 12. Pd4 Txa1 13. Kc2 Ta2 14. Sh2 Ta3 15. Gf1 Ta4 16. Pe5 Tb4 17. Kd2 Txc4 18. Pf4 Txd4 19. Ge1 Td5 20. Gd1 Txe5 21. Gc2 Txf4 22. Gb3 Txg3 23. Kc1 Txh2 24. Kd1 Txh1 25. Ra2 Txi1 26. Ri2 Txi2 27. Ga4 Txi3 28. Kc1 Txh3 29. Gb5 Th4 30. Kb2 Tg4 31. Kb3 Tg5 32. Gb4 Tf5 33. Kb2 Te5 34. Ka3 Td5 35. Ga4 Tc5 36. Gb5 Txb5 37. Ka2 Tb6 38. Ka1 Pa6 39. Kb1 Pa5 40. Kc1 Pc6 41. Kb2 Ta6 42. Ka2 Rb5 43. Ka3 Rb4 44. Kxb4 Tb6 45. R*b1 Tb5 46. Kb3 Tb4 47. Kxb4 Nc7 48. P*d5 Nb5 49. Kxb5 Sc8 50. Rd1 Sc7 51. N*e3 Sb6 52. Kxb6 Gc8 53. S*g5 Pg6 54. Rd4 Pxg5 55. Pd6 Pxd6 56. Rd5 Gd7 57. Re5 Pd5 58. Rxe7= Gxe7 59. P*h3 Ge6 60. Nf5 Ge5 61. Kxc6 Gxf5 62. Kxd5 Gf4 63. P*f6 Gg4 64. Kd6 Gxh3 65. P*c3 Pxf6 66. Kd5 Pf5 67. Kd6 Pf4 68. Pc4 Pf3+ 69. Kd7 Te3 70. Kc6 Te4 71. Kd6 Td4 72. Kc6 Txc4 73. Kb5 Tb4 74. Kc6 Ta4 75. Kb7 Bc3+ 76. Kc8 Hd4 77. Kb7 He5 78. Kb6 Hd6 79. Kb7 Hd7 80. Kb6 La8 81. Kc5 Ta3 82. Kb6 Ta2 83. Kc5 Pa4 84. Kb4 Pa3+ 85. Kc3 Ta3b2 86. Kb4 Ta3 87. Kc5 Tb2b3 88. Kd4 Ta4 89. Ke3 Tb3b4 90. Kd3 Tc4 91. Kxc4 Tb4 92. Kxb4 La2+ 93. P*b3 Ua3 94. P*g2 Uxb3 95. Kc5 Uc3 96. Kb4 Ud3 97. Kc5 Gxg2 98. Kc4 Gg3 99. Kb4 Gg4 100. Kc4 Ud4 101. Kb3 Hb5 102. Kb2 Ud3 103. Ka1 Hc4 104. Kb2 Hb3 105. Kc1 Uc2 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/tiHH3D2e"]
+[Date "2021.06.14"]
+[Sente "YohaanSethNathan"]
+[Gote "Random"]
+[Result "1-0"]
+[UTCDate "2021.06.14"]
+[UTCTime "10:34:20"]
+[SenteElo "1377"]
+[GoteElo "1134"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Ra8 2. Ph5 Rg8 3. Ph6 Pe6 4. Pxh7+ Sf8 5. Txh8 Pd6 6. Txg8 Gc8 7. Txh9 Pg6 8. Th8 Pf6 9. Txi9 Gb8 10. Ti8 Gc8 11. Txi7 Sb8 12. Ti6 Gg9 13. Th6 Pc6 14. Txg6 Sg7 15. Txf6 Kf8 16. Txg7 Ke9 17. Tg6 Kd9 18. Tf6 Ke9 19. Txe6 Pc5 20. Txd6 Gc7 21. Td5 Gg8 22. Txc5 Gd6 23. Txd6 Sc9 24. Te6 Sb8 25. Tf6 Ke8 26. Tg6 Kf8 27. Th7 Kg9 28. Th8 Kf9 29. Txg8 Kxg8 30. Pg4 P*c7 31. Rh6 Kf8 32. Rg6 Kf7 33. Ri6 Kg8 34. Ri8+ Kg9 35. Dxb8 Pb6 36. Dxb9 Kf8 37. Dxa9 Kg7 38. Dxa7 Kg8 39. Dxc7 Kh9 40. Dxb6 Ki9 41. Dc6 Kh8 42. De6 Ki8 43. Pc4 Kh9 44. Be5 Ki8 45. Bf6 Kh9 46. Bg7+ Ki8 47. Df6 Kh9 48. Df7 Ki8 49. Df8 Kh9 50. Hh8 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/BDj4bD5s"]
+[Date "2021.06.14"]
+[Sente "Random"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.06.14"]
+[UTCTime "10:33:22"]
+[SenteElo "1134"]
+[GoteElo "1377"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pa4 Pb6 2. Gf1e2 Pb5 3. Sf2 Pb4 4. Ge2d2 Pxb3+ 5. Pa5 Txb2 6. Na3 Tb1 7. Kf1 Txa1 8. Li2 Ta2 9. Pc4 Txa3 10. Pc5 Ta4 11. Ke2 Txa5 12. Gd1c2 Tb5 13. Se1 Txc5 14. Gb3 Tc4 15. Gc2 Txd3 16. Kxd3 Pc6 17. P*d1 Rxb3+ 18. Kd2 Da3 19. Ph4 Da2 20. Pi4 Da4 21. Ph5 Da2 22. Li3 Da1 23. Pg4 Dxc1 24. Kc3 Dxc2 25. Kd4 Dc1 26. Sd2 Dxd1 27. Rh3 Dxd2 28. Ke4 De2 29. Kd5 Dxe3 30. Pf4 Df3 31. Rh2 Dxf4 32. Pg5 Dg4 33. Rh3 Dxg5 34. Kc4 Dxh5 35. Rf3 Dxi4 36. Kb3 Dxi3 37. Ka4 Dxf3 38. Kb5 Df1 39. Ka4 Dxh1 40. Kb4 Dh3 41. Ka5 De3 42. Kb4 Dc3 43. Kxc3 Pc5 44. R*f1 Pc4 45. Kb3 Pc3+ 46. Kxc3 Pd6 47. P*b7 Pe6 48. Rc1 Pe5 49. Kd2 Pe4 50. Rc7= Pe3+ 51. Kc2 Nxc7 52. Pb8= Nd5 53. Pb9+ Te4 54. Tb8 Td4 55. Ta8 Nc3+ 56. Kb1 Lxa8 57. Kc1 Td3 58. Kb1 Mc2 59. Ka2 Tc3 60. Ka1 Mb2 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/nnipBc0N"]
+[Date "2021.06.14"]
+[Sente "YohaanSethNathan"]
+[Gote "Random"]
+[Result "1-0"]
+[UTCDate "2021.06.14"]
+[UTCTime "10:31:47"]
+[SenteElo "1377"]
+[GoteElo "1134"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Rg8 2. Ph5 Gd8 3. Ph6 Pf6 4. Pxh7+ Rf8 5. Txh8 Rf7 6. Txg9 Gxg9 7. Rh7+ Li8 8. Dxg7 Rxg7 9. Pg4 R*e2 10. Gf1xe2 Gd9 11. Pf4 Pe6 12. Pg5 P*g2 13. Pg6 Pa6 14. Pxg7+ Gc8 15. Sxg2 Kd8 16. Sg3 Gf9 17. Sg4 Sb8 18. Sg5 Pa5 19. Sxf6 Kc9 20. Sf7+ La7 21. Tf8 Kd9 22. Txf9 La6 23. Af8 Pd6 24. Ae8 Kxe8 25. Te9 Kxe9 26. Pf5 P*g6 27. Pf6 Sa9 28. Pf7+ S*f9 29. Tg7 Pg5 30. Tg6 Sb8 31. Txg5 Pd5 32. Tf5 Sa9 33. Txe6 Gc9 34. Te5 Ng7 35. Txd5 Gc8 36. Te5 Gc9 37. Tf6 Pc6 38. Txg7 Se8 39. Tg6 Pa4 40. Th6 Sf7 41. Txi7 Kf8 42. Txi8 Sf6 43. Ti7 Pxa3= 44. Th7 Sg5 45. Th6 Sh4 46. Th5 P*e9 47. Txh4 Pa2+ 48. Th3 Na7 49. Pi4 Sa8 50. Lxa2 Kg7 51. Lxa6 Nb5 52. La7+ Gd8 53. Uxa8 Pb6 54. Ub8 Kf7 55. Ub7 Pe8 56. Uxb6 Na3+ 57. Ub5 Kf6 58. Uc5 Kf5 59. Uxc6 Gc7 60. Uc5 Gb6 61. Ub5 Gc6 62. Bxa3 Kf4 63. Bc5 Gc7 64. Uc6 Gd6 65. Uc7 Ke5 66. Bxd6 Ke6 67. Uc6 Pe7 68. Bc7+ Kf5 69. Ud7 Kg5 70. Uxe7 Kf5 71. Ue6 Kg6 72. Ue5 Kh5 73. Th4 Kh6 74. Th5 Kh7 75. Th6 Kxh6 76. Uf5 P*i7 77. He5 Ki6 78. Uf6 Kh5 79. Hf4 Ki6 80. Uf5 Kh7 81. Ug5 Kg7 82. Hg4 Kg8 83. Hf5 Kg7 84. Ug6 Kg8 85. Hf6 Pi6 86. Ug7 Kh9 87. Hf7 Ki9 88. Ug8 Ki8 89. Hg7 Ki7 90. Uh8 Pi5 91. Uh7 Ki6 92. Hg6 Pxi4 93. Uh6 Ki5 94. Hg5 Pi3+ 95. Uh5 Ki4 96. Hg4 P*e4 97. Uh4 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/gyqD9pDp"]
+[Date "2021.06.14"]
+[Sente "Random"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.06.14"]
+[UTCTime "10:30:41"]
+[SenteElo "1134"]
+[GoteElo "1377"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pb4 Pb6 2. Rf2 Pb5 3. Rg2 Pxb4 4. Rc2 Pb3+ 5. Kf2 Txb2 6. Kg2 Txc2 7. Gxc2 Rxb1+ 8. Gf2 Dxc2 9. Pd4 Dxc1 10. Gf1 Pc6 11. P*b4 Nc7 12. Sh2 Nb5 13. Kg1 Nxc3+ 14. Kf2 Md3 15. Pg4 Dd2 16. Kg3 De2 17. Gxe2 Mxe2 18. Pd5 Mxe3 19. R*c8 Mxf3 20. Kh4 Mf4 21. Pg5 Mg4 22. Ki4 Mg3 23. Ph4 Mh3 24. Ra8+ Mxh2 25. Dc8 Mxh1 26. Df8 Gxf8 27. Li2 Mh2 28. Pa4 Mxi2 29. Pb5 Mxi3 30. Kxi3 Pf6 31. Pg6 Pxg6 32. N*g4 Pf5 33. Nf6 Gf7 34. La2 Gxf6 35. Pa5 Gg5 36. Ph5 Gg4 37. Ph6 Gg5 38. Pa6 Pxh6 39. Ki4 Ph5 40. Ki3 Ph4 41. La4 Gg4 42. La5 Ph3+ 43. Ki4 Th4 44. Ki5 Gg5 45. Kh6 Th5 46. Kh7 Th6 47. Kxh6 Sg8 48. P*c3 Sg7 49. Ki5 Sh6 50. Ki4 Gh5 51. Ki3 Si5 52. Pb6 Gh4 53. Kh2 Si4 54. Pc4 Gh3 55. Kh1 Si3+ 56. Pxa7= Gh2 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/XhuXUUKP"]
+[Date "2021.06.14"]
+[Sente "Random"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.14"]
+[UTCTime "10:28:21"]
+[SenteElo "1134"]
+[GoteElo "1377"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Kf2 Pb6 2. Gd2 Pb5 3. La2 Pb4 4. Pxb4 Rxb4 5. Pe4 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/Tn9oNGvI"]
+[Date "2021.06.14"]
+[Sente "YohaanSethNathan"]
+[Gote "Random"]
+[Result "1-0"]
+[UTCDate "2021.06.14"]
+[UTCTime "10:28:02"]
+[SenteElo "1377"]
+[GoteElo "1134"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Pa6 2. Ph5 Gd8 3. Ph6 Gc8 4. Pxh7+ Pd6 5. Txh8 Gd8 6. Txg9 La8 7. Txf9 Kd9 8. Tg9 Pe6 9. Txh9 Sc8 10. Tg9 Pe5 11. Tg8 Pi6 12. Rh9+ Ke8 13. Tf8 Kxf8 14. Dh8 Ke9 15. Pg4 Pi5 16. Ng3 Kf9 17. Nh5 Pb6 18. Nxg7+ P*h4 19. Df8 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/uf3lzZ4q"]
+[Date "2021.06.14"]
+[Sente "Random"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.06.14"]
+[UTCTime "10:27:02"]
+[SenteElo "1134"]
+[GoteElo "1377"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pa4 Pb6 2. Sf2 Pb5 3. Gf1e2 Pb4 4. Li2 Pxb3+ 5. La3 Txb2 6. Pg4 Txc1 7. Pf4 Txd1 8. Kf1 Td2 9. Pg5 Txe2 10. Kg1 Td2 11. Kf1 Te2 12. Kg1 Td2 13. Pi4 Rxb1+ 14. Se1 Txe1 15. Pd4 Te2 16. Kg2 De1 17. Pa5 Df1 18. Kg3 Df2 19. Rxf2 Txf2 20. Li3 Te2 21. Kf3 Txe3 22. Kg3 Te4 23. Pi5 Txd4 24. R*d5 Txc3 25. Pa6 Tc4 26. Rf5 Pc6 27. Kg2 Nc7 28. Kg3 Nd5 29. Kf3 Pe6 30. Kf2 Pf6 31. Pg6 Pxf5 32. Ke1 Pxf4 33. Pxg7= Pf3+ 34. P*d8 Tf2 35. Kd2 Td4 36. Ng3 Te3 37. Kc2 Tf2e2 38. Ph4 Te2d2 39. Kb3 Te3d3 40. Kb4 Tc3 41. Ka5 Tc4 42. Ka4 Tc5 43. Nh5 Tb5 44. Kb3 Pc5 45. Pg8+ Pc4 46. Ng7+ Td3 47. Txf9 Kxf9 48. G*h2 Tc3 49. Ka2 Tb4 50. Li4 Tb4b3 51. Ka1 Tb3b2 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/PiavyVsx"]
+[Date "2021.06.12"]
+[Sente "YohaanSethNathan"]
+[Gote "Random"]
+[Result "1-0"]
+[UTCDate "2021.06.12"]
+[UTCTime "14:25:43"]
+[SenteElo "1377"]
+[GoteElo "1134"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 La8 2. Ph5 Sd8 3. Ph6 Pxh6 4. Rxh6 Rc8 5. Rxh8+ Gf8 6. Pg4 Gf9 7. Pg5 Rb8 8. Pg6 Pa6 9. Pxg7+ Gg8 10. Txg8 P*h7 11. Txg9 Pd6 12. Dxh9 Ge8 13. Dh8 Pc6 14. Dg8 Kd9 15. Tf9 Na7 16. Df8 Rc8 17. Dxe8 Kc9 18. Te9 Nb5 19. Td9 Kb9 20. Dxd8 Ka9 21. Dxc8 Pa5 22. Tc9 Nxc3+ 23. Tb9 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/Gjdc8Xpu"]
+[Date "2021.06.12"]
+[Sente "Random"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.06.12"]
+[UTCTime "14:24:51"]
+[SenteElo "1134"]
+[GoteElo "1377"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Rg2 Pb6 2. Ph4 Pb5 3. Sf2 Pb4 4. Pe4 Pxb3+ 5. Se3 Txb2 6. Rg1 Txc1 7. Sf4 Txd1 8. Kf2 Tc1 9. La2 Txb1 10. Rg2 Tb2 11. Gg1 Tc2 12. Ke1 Rb1+ 13. Ke2 Td2 14. Kxd2 Db2 15. Ke1 Pc6 16. P*b6 Pc5 17. Rh2 Pc4 18. Gf2 Pxc3+ 19. Li2 Tc2 20. Sg5 Db1 21. Ke2 Dc1 22. Gf1 Dd1 23. Kf2 Td2 24. Sf4 Te2 25. Kg2 Dxf1 26. Kh3 Df2 27. Rxf2 Txf2 28. Se3 Txf3 29. Sf2 Te3 30. R*c6 Txe4 31. Rc2 Td4 32. Rc8+ Txd3 33. Sg1 Td2 34. Dd8 Gxd8 35. Kg2 Pd6 36. Kf1 Pd5 37. Sg2 Sc8 38. Pa4 Sd7 39. Pa5 Se6 40. Kf2 Se5 41. Kf1 Se4 42. Ph5 Se3+ 43. Pi4 Ae2 44. Kg1 Te1 45. Li3 Af1 46. Kh2 Af2 47. Sf3 Tf1 48. Pb7+ Tg1 49. Ta8 Tg2 50. Kh3 Axf3 51. Ki2 Axg3 52. Txa9 Th2 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/Kr8YLghh"]
+[Date "2021.06.12"]
+[Sente "YohaanSethNathan"]
+[Gote "Random"]
+[Result "1-0"]
+[UTCDate "2021.06.12"]
+[UTCTime "14:23:52"]
+[SenteElo "1377"]
+[GoteElo "1134"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Ra8 2. Ph5 Pd6 3. Ph6 Rf8 4. Pxh7+ Pi6 5. Txh8 Ni7 6. Txg9 Kd8 7. Txf9 Kc8 8. Txf8 Pf6 9. Rh9+ Ge9 10. Txe9 Nh5 11. Te8 Kd7 12. Dd9 Ke6 13. Dd7 Kf5 14. Txe7 Sb8 15. Tf7 Pd5 16. Dd6 Pg6 17. De6 Kg5 18. Txf6 Pb6 19. Tf5 Kh4 20. Df6 Pc6 21. Dxg6 Nxi3+ 22. Dg5 Kh3 23. Tf4 Sb7 24. Sg2 Ki4 25. Dg4 Ki5 26. Dh4 Kxh4 27. Sh3 Kh5 28. Pg4 R*g9 29. Pg5 P*e2 30. Gf1xe2 Pi5 31. Pe4 Mh2 32. Tg4 Kh6 33. Sh4 Rg6 34. Sh5 Ki7 35. Sxg6 Ki6 36. Sg7+ Nc7 37. Ag6 Sc8 38. Ah6 Kxh6 39. Pg6 Ki7 40. Pg7+ S*f6 41. Tg5 Sxg5 42. Tg6 Ki8 43. Txg5 Pa6 44. Ng3 La7 45. Nh5 P*h4 46. Ng7+ Ph3+ 47. Tg6 Mi2 48. Th7 Kh9 49. Th8 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/U4VN92CK"]
+[Date "2021.06.12"]
+[Sente "Random"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.06.12"]
+[UTCTime "14:22:54"]
+[SenteElo "1134"]
+[GoteElo "1377"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pb6 2. Sd2 Pb5 3. Ph4 Pb4 4. Pa4 Pxb3+ 5. Re2 Txb2 6. Li2 Txb1 7. Gc1 Txc1 8. Rg2 Rb1+ 9. La3 Tc2 10. Ke2 Dd1 11. Kf2 Dxd2 12. Ge2 Dxe2 13. Kxe2 Td2 14. Kxd2 Pg6 15. R*h2 Bd4 16. Ke2 Bc3+ 17. Pc5 Pc6 18. Kf1 Pxc5 19. P*b3 Pc4 20. Pg4 Hxb3 21. Ke2 Pc3+ 22. Pg5 Hc2 23. Rg3 Td2 24. Kf2 Hd1 25. Pa5 Te2 26. Kg2 He1 27. Pi4 Tf2 28. Kh3 Hf1 29. Rh2g2 Hxg2 30. Sxg2 Txf3 31. B*e6 Txg3 32. Ki3 Txg2 33. Bg4 Pxg5 34. Ng3 Pxg4 35. Nh5 Pg3+ 36. Ng7+ Th3 37. Kxh3 Pf6 38. P*c4 Pf5 39. Pe4 Pf4 40. Pa6 Pf3+ 41. Pe5 Tf3g3 42. Ki3 Tg2h2 43. La5 Th2h3 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/4yMA9lvm"]
+[Date "2021.06.12"]
+[Sente "YohaanSethNathan"]
+[Gote "Random"]
+[Result "1-0"]
+[UTCDate "2021.06.12"]
+[UTCTime "14:22:27"]
+[SenteElo "1377"]
+[GoteElo "1134"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Rg8 2. Ph5 Gd9e8 3. Ph6 Sb8 4. Pxh7+ Kf8 5. Txh8 Pb6 6. Txg8 Ke9 7. Txg9 Sb7 8. Txf9 Kd9 9. Rxh9+ Pe6 10. Tf8 Kd8 11. De9 Kc8 12. Txe8 Kb8 13. Td8 Sa8 14. Dc9 Kb7 15. Dc8 Ka6 16. Db8 Pg6 17. Txd7 Li8 18. Txc7 Pg5 19. Db7 Ka5 20. Tc6 Pf6 21. Dxb6 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/o7S9pwBA"]
+[Date "2021.06.12"]
+[Sente "YohaanSethNathan"]
+[Gote "Random"]
+[Result "1-0"]
+[UTCDate "2021.06.12"]
+[UTCTime "14:21:25"]
+[SenteElo "1377"]
+[GoteElo "1134"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Rg8 2. Ph5 Pi6 3. Ph6 Ra8 4. Pxh7+ Gd8 5. Txh8 Pb6 6. Txg9 Gc8 7. Txf9 Kxf9 8. Rxh9+ Kf8 9. Pg4 P*h7 10. Pg5 Pb5 11. Pg6 Li8 12. Pxg7+ Ke8 13. Dh8 Ke9 14. Tf8 Kd8 15. Dg8 Kd9 16. Dg9 Kd8 17. De9 1-0
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/jop1i0Jd"]
+[Date "2021.06.11"]
+[Sente "dugong161"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.11"]
+[UTCTime "14:53:17"]
+[SenteElo "1926"]
+[GoteElo "1460"]
+[SenteRatingDiff "+2"]
+[GoteRatingDiff "-3"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 Pb6 2. Ph5 Pb5 3. Ph6 Pb4 4. Pxh7+ Pxb3+ 5. Txh8 Txb2 6. Txg9 Txc1 7. Txf9 Kxf9 8. Rxh9+ Kf8 9. Dxi9 Txd1 10. Kxd1 Pc6 11. Kc2 Rxb1+ 12. Kxb1 Nc7 13. Kc2 Nb5 14. Dxd9 Nxc3+ 15. Kxc3 Pc5 16. Dxc9 Pc4 17. Kxc4 Pd6 18. Kc3 Pd5 19. Dd8 Kf9 20. Db8 Kg9 21. Dxa9 Kh8 22. Dxa7 Kh7 23. Dxe7 1-0
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/aWccPVay"]
+[Date "2021.06.11"]
+[Sente "YohaanSethNathan"]
+[Gote "dugong161"]
+[Result "0-1"]
+[UTCDate "2021.06.11"]
+[UTCTime "14:52:40"]
+[SenteElo "1463"]
+[GoteElo "1923"]
+[SenteRatingDiff "-3"]
+[GoteRatingDiff "+3"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pg6 2. Bc3 Bxc3+ 3. Gd2 Pb6 4. Gxc3 Pb5 5. Pc5 Pb4 6. Pxb4 Rb7 7. Pd4 Rb8 8. Pd5 Sc8 9. Pe4 Sb7 10. Re2 Pc6 11. Pf4 Pxc5 12. Gc4 Sb6 13. Gxc5 Sxc5 14. Pb5 Sb4 15. Pb6 Rxb6 16. Re3 Rb8 17. Rc3 Sb3+ 18. Rd3 Ac3 19. Re3 Ad3 20. Rf3 Ad4 21. Rf2 Ae3 22. Re2 Axe2 23. Kxe2 Rxb1+ 24. Gf2 Dxc1 25. Kf3 Dxa1 26. Kg4 Dxg1 27. Kf3 Dxh1 28. Ke2 Dxi1 29. Kf3 Dxi3 30. Ke2 Dxh3 31. Kf3 Dxg3 0-1
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/90blpkmV"]
+[Date "2021.06.11"]
+[Sente "dugong161"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.11"]
+[UTCTime "14:52:10"]
+[SenteElo "1921"]
+[GoteElo "1467"]
+[SenteRatingDiff "+2"]
+[GoteRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 Pb6 2. Ph5 Pb5 3. Ph6 Pb4 4. Pxh7+ Pxb3+ 5. Txh8 Txb2 6. Txg9 Txb1 7. Txf9 Kxf9 8. Rxh9+ Ke8 9. Dxi9 Pe6 10. Dxd9 Ke7 11. Dxc9 Kf6 12. Dxb9 Kg6 13. Dxa9 Kh7 14. Dxb8 Kg6 15. Dxa7 Kh7 16. Dxc7 Kg8 17. Db7 Kh7 18. Dxb1 Kg8 19. Db7 Kh7 20. Dxd7 Kg8 21. Dxe6 Kh7 22. Dxf7 Pi6 23. De7 Kh6 24. De5 Kh7 25. Dg5 Pg6 26. Dh4 1-0
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/pTrbE6yx"]
+[Date "2021.06.11"]
+[Sente "YohaanSethNathan"]
+[Gote "dugong161"]
+[Result "0-1"]
+[UTCDate "2021.06.11"]
+[UTCTime "14:51:14"]
+[SenteElo "1471"]
+[GoteElo "1919"]
+[SenteRatingDiff "-4"]
+[GoteRatingDiff "+2"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 Pg6 2. Ph5 Bg7 3. Ph6 Pxh6 4. Rxh6 Bxh6 5. Pg4 Bg7 6. Pg5 Pxg5 7. Pf4 Pb6 8. Pf5 Pb5 9. Pf6 Pb4 10. Pe4 Sf8 11. Pe5 Bxf6 12. Pc4 Bg7 13. Bd4 Pxb3+ 14. Bc5 Pc6 15. Bxe7+ Sxe7 16. Pe6 Tb2 17. Pxe7+ Txb1 18. Te8 Gd9xe8 19. Pc5 Pxc5 20. Pd4 Pc4 21. Pd5 Pc3+ 22. Pd6 Tc2 23. Gd2 Tc2xc1 24. Ge3 Td1 25. Kxd1 Tc1 26. Ke2 Rb3+ 27. Kd2 Dxe3 28. Kxc1 Dd3 0-1
+
+
+[Event "Classical Shield Arena"]
+[Site "https://lishogi.org/QyF0iT2Y"]
+[Date "2021.06.11"]
+[Sente "YohaanSethNathan"]
+[Gote "Adamastor"]
+[Result "0-1"]
+[UTCDate "2021.06.11"]
+[UTCTime "12:08:30"]
+[SenteElo "1308"]
+[GoteElo "1442"]
+[SenteRatingDiff "-85"]
+[GoteRatingDiff "+22"]
+[Variant "Standard"]
+[TimeControl "1200+10+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pg6 2. Pd4 Pg5 3. Rd2 Rg8 4. Gf2 Gf9e8 5. Kf1 Kd8 6. Kg2 Kc8 7. Kh2 Gd9d8 8. Gg2 Sb8 9. Gc2 Sf8 10. Gd3 Sg7 11. Pe4 Pf6 12. Ge3 Pi6 13. Pi4 Bi7 14. Pf4 Ph6 15. Sc2 Rh8 16. Sc3 Sg6 17. Ge3f3 Ph5 18. Re2 Rh6 19. Bc1 Ng7 20. Re1 Ph4 21. Pxh4 Rxh4 22. P*h3 Rh6 23. Rf1 Sh5 24. Re1 Pf5 25. Rf1 Pxf4 26. Gxf4 P*f5 27. Gxg5 Rh9 28. P*f3 P*g6 29. Gf6 Bxc1+ 30. Rxc1 B*g5 31. B*d2 Bxd2+ 32. Sxd2 B*g5 33. B*e3 Bxf6 34. Pf4 Pxf4 35. Bxf4 Bxd4 36. Be3 Bxa1+ 37. P*d4 Hb2 38. Rf1 P*f5 39. P*f4 Pxf4 40. Rxf4 P*f5 41. Rf1 Rh8 42. P*f4 Pxf4 43. Rxf4 P*f5 44. Rf2 Hxb1 45. P*f3 L*h9 46. Rf1 Hxe4 47. Rf2 P*h4 48. Pxh4 Sxh4 49. P*h3 Sxh3+ 50. Gxh3 Rxh3+ 0-1
+
+
+[Event "Classical Shield Arena"]
+[Site "https://lishogi.org/NZ8a48XW"]
+[Date "2021.06.11"]
+[Sente "YohaanSethNathan"]
+[Gote "Rain_Rain_Rain"]
+[Result "0-1"]
+[UTCDate "2021.06.11"]
+[UTCTime "12:01:54"]
+[SenteElo "1322"]
+[GoteElo "1982"]
+[SenteRatingDiff "-14"]
+[GoteRatingDiff "+10"]
+[Variant "Standard"]
+[TimeControl "1200+10+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pg6 2. Pd4 Pb6 3. Rd2 Pb5 4. Bc3 Sd8 5. Gc2 Pe6 6. Pe4 Kf8 7. Gd3 Kg8 8. Kf2 Se7 9. Kg2 Pc6 10. Kh2 Sg9f8 11. Gg2 Pi6 12. Re2 Gd9e8 13. Sc2 Pd6 14. Ge3 Nc7 15. Pf4 Pa6 16. Pa4 Pf6 17. Pi4 Pd5 18. Pxd5 Nxd5 19. Bd4 Pb4 20. P*d3 Pxb3+ 21. Sxb3 Rxb3+ 22. P*b2 Nxe3+ 23. Bxe3 Dxd3 24. Gf2 Dxe2 25. Gxe2 R*d1 26. R*g2 Rxb1+ 27. Bb6 Pf5 28. Bc7+ S*f1 29. Rf2 Sxe2+ 30. Rxe2 G*f3 31. Rg2 Gxg2 32. Sxg2 G*f2 33. S*f3 Dg1 34. Ki3 Gxf3 35. Sxf3 N*h5 36. Ki2 R*h2 0-1
+
+
+[Event "Eastern Blitz Arena"]
+[Site "https://lishogi.org/UWlRTdPs"]
+[Date "2021.06.11"]
+[Sente "samueltheo"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.11"]
+[UTCTime "07:25:55"]
+[SenteElo "1351"]
+[GoteElo "1166"]
+[SenteRatingDiff "+15"]
+[GoteRatingDiff "-27"]
+[Variant "Standard"]
+[TimeControl "480+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pg6 2. Pd4 Pf6 3. Rd2 Rf8 4. Kf2 Kd8 5. Kg2 Kc8 6. Kh2 Kb8 7. Sg2 Gc8 8. Gd1e2 Ge8 9. Pi4 Pi6 10. Sc2 Gf7 11. Bc3 Sg8 12. Sd3 Sg7 13. Se4 Pe6 14. Pf4 Rf9 15. Gf3 Rf8 16. Pg4 Re8 17. Pd5 Rf8 18. Pd6 Pxd6 19. Rxd6 P*d7 20. Rd2 Rd8 21. Sd5 Ge7 22. Bb4 Bg9 23. Nc3 Pd6 24. Se4 Bf8 25. P*d5 Pxd5 26. Nxd5 Ge8 27. Bxf8+ Gxf8 28. B*b4 B*d6 29. Bxd6 Rxd6 30. B*b4 Rd8 31. Pf5 Gd7 32. P*d6 Gxd6 33. Pxf6 Gd7 34. Sf5 B*d6 35. Bxd6 Gxd6 36. B*b4 B*e5 37. Ki2 Bxa1+ 38. Nxc7+ Nxc7 39. Pc5 Nb5 40. Pc6 L*c8 41. Rxd6 Rxd6 42. Bxd6 P*c7 43. Sxe6 R*d8 44. Pxc7+ Lxc7 45. R*d7 Rxd7 46. Sxd7+ Sc8 47. R*d8 R*c9 48. Bxc7+ Kb9 49. G*b8 1-0
+
+
+[Event "Eastern Blitz Arena"]
+[Site "https://lishogi.org/6Uw9lHbS"]
+[Date "2021.06.11"]
+[Sente "Atya"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.11"]
+[UTCTime "07:19:17"]
+[SenteElo "1710"]
+[GoteElo "1173"]
+[SenteRatingDiff "+6"]
+[GoteRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "480+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pg6 2. Ph4 Pf6 3. Sf2 Rf8 4. Pf4 Kd8 5. Sf3 Kc8 6. Se4 Pe6 7. Kd2 Kb8 8. Kc2 Gc8 9. Sd2 Gg8 10. Gc1 Gf7 11. Ge1 Sg8 12. Rf2 Sg7 13. Pf5 Pxf5 14. Sxf5 P*f6 15. Se4 Re8 16. Pg4 Pe5 17. Bxe5 Rxe5 18. Sxe5 Sf8 19. P*f5 Pxf5 20. P*f6 Gxf6 21. Sxf6 Bxf6 22. Rxf5 S*f7 23. Nc3 Bxh4 24. R*f9 B*e7 25. Rxh9+ Sf6 26. Rb5 P*f3 27. P*f1 Pf2+ 28. Pxf2 P*f3 29. Pxf3 P*f5 30. Dxi9 Bd6 31. L*b4 Bxi1+ 32. N*c5 L*b6 33. Rxb6 Pxb6 34. L*b7 Gxb7 35. Nxb7+ Kxb7 36. Dh9 Hxh1 37. Dxc9 R*c8 38. Lxb6 Kxb6 39. G*b5 Kb7 40. S*b6 Ka8 41. G*b7 1-0
+
+
+[Event "Rapid Shield Arena"]
+[Site "https://lishogi.org/5k9DiboJ"]
+[Date "2021.06.10"]
+[Sente "YohaanSethNathan"]
+[Gote "kenji"]
+[Result "1-0"]
+[UTCDate "2021.06.10"]
+[UTCTime "17:08:41"]
+[SenteElo "1294"]
+[GoteElo "1268"]
+[SenteRatingDiff "+22"]
+[GoteRatingDiff "-31"]
+[Variant "Standard"]
+[TimeControl "600+0+10(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pg6 2. Pd4 Pb6 3. Rd2 Sd8 4. Kf2 Gd9e8 5. Kg2 Kf8 6. Kh2 Kg8 7. Gg2 Pe6 8. Gc2 Sf8 9. Gd3 Pb5 10. Bc3 Sf8e7 11. Sc2 Pc6 12. Pe4 Pc5 13. Pxc5 Sd6 14. Gc4 Pe5 15. Pxe5 Sxe5 16. Re2 P*e4 17. P*e3 Pxe3+ 18. Rxe3 P*e4 19. Re2 Se7 20. P*e3 Pxe3+ 21. Rxe3 P*e4 22. Re2 Pd6 23. Re1 Pf6 24. P*e2 Pf5 25. Sf2 Bg9 26. Pa4 Pi6 27. Pa5 Se6 28. Sd3 Ng7 29. La2 Sd7 30. Pb4 Pxb4 31. Gxb4 Pf4 32. Pxf4 Sxf4 33. Sxe4 P*f3 34. Sf2xf3 Sxf3+ 35. Sxf3 P*c4 36. Bd2 S*c3 37. Nxc3 Rxb4 38. S*b1 Pxc3+ 39. Bxc3 Rb3+ 40. Sb2 Db6 41. P*b4 Pd5 42. Pxd5 Bxc5 43. S*d4 Bxb4 44. Bxb4 Dxb4 45. B*c3 Db6 46. P*b4 Df6 47. Pe3 1-0
+
+
+[Event "Rapid Shield Arena"]
+[Site "https://lishogi.org/nVG0uAje"]
+[Date "2021.06.10"]
+[Sente "samueltheo"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.10"]
+[UTCTime "16:54:55"]
+[SenteElo "1390"]
+[GoteElo "1313"]
+[SenteRatingDiff "+63"]
+[GoteRatingDiff "-19"]
+[Variant "Standard"]
+[TimeControl "600+0+10(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pg6 2. Pd4 Pf6 3. Sd2 Rf8 4. Pe4 Kd8 5. Se3 Kc8 6. Kd2 Kb8 7. Kc2 Gc8 8. Gc1 Gg8 9. Sg1f2 Gf7 10. Ge1 Pe6 11. Ph4 Bg7 12. Pg4 Sg8 13. Sg3 Pi6 14. Pi4 Pa6 15. Pa4 La8 16. Sg3f4 Ka9 17. Ng3 Ph6 18. Ph5 Sh7 19. Pxh6 Sxh6 20. P*h5 Si7 21. Pg5 P*h6 22. Pxh6 Sxh6 23. P*h5 Si7 24. Pxg6 Gxg6 25. P*g5 P*h3 26. Rxh3 Gf5 27. Pg6 Bh8 28. Nxf5 Pxf5 29. Sg5 P*h7 30. G*g7 Bxg7 31. Pxg7+ Re8 32. Txh7 G*h8 33. Txi7 Gxi7 34. Ph6 P*h7 35. Pxh7+ Gxh7 36. Rxh7+ P*h8 37. Dg7 N*g4 38. Df7 Rd8 39. B*i3 Pi5 40. Sg6 Pxi4 41. Bxd8+ Sxd8 42. S*d9 Gc9 43. G*c8 Gxc8 44. Sxc8+ G*b8 45. Axd8 Nh2+ 46. S*c9 B*h4 47. Sxb8+ Kxb8 48. G*c8 Ka7 49. R*b8 Bxe1+ 50. Rxb9+ S*c3 51. Bxc3 Hxc3 52. Kxc3 B*e1 53. Gd2 G*c1 54. B*c5 Pb6 55. Bxb6 1-0
+
+
+[Event "Rated Bullet game"]
+[Site "https://lishogi.org/uufTYZ8Y"]
+[Date "2021.06.10"]
+[Sente "YohaanSethNathan"]
+[Gote "Mira_Konohata"]
+[Result "0-1"]
+[UTCDate "2021.06.10"]
+[UTCTime "07:49:23"]
+[SenteElo "1379"]
+[GoteElo "2242"]
+[SenteRatingDiff "-2"]
+[GoteRatingDiff "+1"]
+[Variant "Standard"]
+[TimeControl "120+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pb6 2. Pd4 Pb5 3. Rd2 Pg6 4. Bc3 Sd8 5. Kf2 Kf8 6. Kg2 Kg8 7. Kh2 Pe6 8. Gg2 Gd9e8 9. Gc2 Se7 10. Gd3 Pi6 11. Sc2 Bg7 12. Pe4 Pi5 13. Pa4 Kh8 14. Li2 Sg8 15. Ki1 Ph6 16. Sh2 Sh7 17. Ge3 Gg8 18. Pf4 Pf6 19. Rf2 Ge8f7 20. Rf1 Ph5 21. Rf2 Bh6 22. Rf1 Ng7 23. Rf2 Pc6 24. Rf1 Rc8 25. Rf2 Pc5 26. Ba5 Sf8 27. Gd3 Pa6 28. Bb6 Pxc4 29. Rf1 Pb4 30. Pxb4 P*b7 31. P*c7 Rc9 32. Bc5 Rxc7 33. Gxc4 P*c6 34. Bxf8+ Gf7xf8 35. Rf3 B*e2 36. Gc3 Bxf3+ 37. Gxf3 Pf5 38. Pg4 R*f1 39. Gg3 Pxf4 40. Gg2 Pf3+ 41. Gg1 Rxg1+ 42. Sxg1 Bf4 43. Sh2 Bxh2+ 0-1
+
+
+[Event "Eastern Blitz Arena"]
+[Site "https://lishogi.org/vSmiSDde"]
+[Date "2021.06.10"]
+[Sente "ntkwmk"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.10"]
+[UTCTime "07:19:50"]
+[SenteElo "1619"]
+[GoteElo "1183"]
+[SenteRatingDiff "+3"]
+[GoteRatingDiff "-10"]
+[Variant "Standard"]
+[TimeControl "480+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Pg6 2. Pc4 Pf6 3. Sf2 Rf8 4. Kd2 Kd8 5. Kc2 Kc8 6. Gf1e2 Kb8 7. Pe4 Gc8 8. Se3 Gg8 9. Pa4 Gf7 10. Pa5 Pi6 11. Ph5 Sg8 12. Pf4 Sg7 13. Pg4 Pe6 14. Ng3 Re8 15. Pf5 Pxf5 16. Nxf5 P*f6 17. Nxg7+ Gxg7 18. Gd1d2 Pf5 19. Pg5 Pxg5 20. P*g6 Gg8 21. S*f9 Bxb2+ 22. Sxb2 Rf8 23. Sxg8+ Rxg8 24. Ph6 Pxh6 25. Rxh6 S*h8 26. G*f7 B*i7 27. Gxg8 Bxh6 28. Gxh8 R*g1 29. Gxh9 Bi5 30. Gxi9 Be1+ 31. Gxe1 Rxe1+ 32. S*d1 Dxi1 33. R*h9 G*d9 34. Rxd9+ Dxi3 35. N*c5 N*d8 36. L*b4 L*b6 37. Lxb6 Pxb6 38. L*b7 Gxb7 39. Nxb7+ Kxb7 40. Dxc9 L*c3 41. Sxc3 N*d4 42. Sc3xd4 L*c3 43. Nxc3 Pg4 44. Dxb9 Kc6 45. G*c5 1-0
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/nfpawixc"]
+[Date "2021.06.10"]
+[Sente "YohaanSethNathan"]
+[Gote "Catsatemycookies"]
+[Result "1-0"]
+[UTCDate "2021.06.10"]
+[UTCTime "07:09:20"]
+[SenteElo "1451"]
+[GoteElo "1500"]
+[SenteRatingDiff "+20"]
+[GoteRatingDiff "-200"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pb6 2. Pd4 Pb5 3. Rd2 Rb7 4. Kf2 Pb4 5. Kg2 Pxb3+ 6. Kh2 Txb2 7. Gg2 Txb1 8. Pg4 Txc1 9. Ph4 Txd1 10. Ph5 Txd2 11. Sf2 Rb2+ 12. Gg1 Te2 13. Gg2 Txf2 14. Gxf2 Dxf2 15. Kh3 G*g3 16. Kh4 R*h2 17. Kg5 B*h4 18. Kf4 1-0
+
+
+[Event "Rated Bullet game"]
+[Site "https://lishogi.org/aMx03HG7"]
+[Date "2021.06.10"]
+[Sente "Gear"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.10"]
+[UTCTime "06:27:59"]
+[SenteElo "2047"]
+[GoteElo "1384"]
+[SenteRatingDiff "+0"]
+[GoteRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "15+1+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pg6 2. Pe4 Pf6 3. Pd4 Rf8 4. Sf2 Kd8 5. Se3 Kc8 6. Sc2 Kb8 7. Sd3 Gc8 8. Pd5 Gg8 9. Kd2 Gf7 10. Kc2 Sg8 11. Rf2 Sg7 12. Gg2 Ph6 13. Rf1 Pe6 14. Ge2 Re8 15. Pa4 Rf8 16. Ba3 Pa6 17. Nc3 Bg9 18. Se3d4 Rf9 19. Bxg9+ Rxg9 20. Rb1 Re9 21. Pb4 Ge7 22. Pb5 Pd6 23. Pb6 Pxb6 24. Pxd6 Gxd6 25. Rxb6 P*b7 26. Rxd6 Re7 27. Rd5 Rd7 28. P*d6 Rd9 29. B*f7 Rd8 30. G*e7 Rf8 31. Bxh9+ Rf9 32. Hg8 1-0
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/M47ZP4IW"]
+[Date "2021.06.10"]
+[Sente "NHHoan"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.06.10"]
+[UTCTime "06:23:38"]
+[SenteElo "1234"]
+[GoteElo "1438"]
+[SenteRatingDiff "-2"]
+[GoteRatingDiff "+13"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pg6 2. Pd4 Pf6 3. Pe4 Rf8 4. Pf4 Kd8 5. Pg4 Kc8 6. Ph4 Kb8 7. Ph5 Gc8 8. Ph6 Pxh6 9. Rxh6 Pg5 10. Rxh8+ Rxh8 11. Pxg5 Sf8 12. Pe5 Sf7 13. Pd5 Pf5 14. Pc5 Rxh1+ 15. Pxf5 Dxi1 16. Sf2 Dxi3 17. Gf1e2 Di4 18. Sc2 Dh4 19. Gd1d2 Dh5 0-1
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/KZdiVdrW"]
+[Date "2021.06.10"]
+[Sente "YohaanSethNathan"]
+[Gote "NHHoan"]
+[Result "1-0"]
+[UTCDate "2021.06.10"]
+[UTCTime "06:22:50"]
+[SenteElo "1424"]
+[GoteElo "1237"]
+[SenteRatingDiff "+14"]
+[GoteRatingDiff "-3"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pg6 2. Pd4 Pf6 3. Rd2 Pe6 4. Kf2 Pd6 5. Kg2 Pc6 6. Kh2 Pb6 7. Gg2 Pb5 8. Pg4 Pb4 9. Pxb4 Rc8 10. Pd5 Rb8 11. Pxd6 Rxb4 12. Pe4 Rxc4 13. Pf4 Rb4 14. Pf5 Rxb2+ 15. Pg5 Dxd2 16. Sxd2 B*f4 17. Gg3 R*f2 18. Sg2 1-0
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/us9HHXh8"]
+[Date "2021.06.10"]
+[Sente "NHHoan"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.06.10"]
+[UTCTime "06:22:13"]
+[SenteElo "1240"]
+[GoteElo "1406"]
+[SenteRatingDiff "-3"]
+[GoteRatingDiff "+18"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pg6 2. Pd4 Pf6 3. Pe4 Rf8 4. Pf4 Kd8 5. Pg4 Kc8 6. Ph4 Kb8 7. Ph5 Gc8 8. Ph6 Pxh6 9. Rxh6 Rf7 10. Rxh8+ Sxh8 11. B*h5 Rh7 0-1
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/EiWosIe8"]
+[Date "2021.06.10"]
+[Sente "YohaanSethNathan"]
+[Gote "NHHoan"]
+[Result "1-0"]
+[UTCDate "2021.06.10"]
+[UTCTime "06:21:18"]
+[SenteElo "1386"]
+[GoteElo "1244"]
+[SenteRatingDiff "+20"]
+[GoteRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pg6 2. Pd4 Pf6 3. Rd2 Pe6 4. Kf2 Pd6 5. Kg2 Pc6 6. Kh2 Pb6 7. Gg2 Pb5 8. Pf4 Pb4 9. Pg4 Pxb3+ 10. Bc3 Txc3 11. Rb2 Txb2 12. Sxb2 Rxb2+ 13. Gd2 Dxd2 14. Pe4 Dd3 15. Pf5 Dxe4 16. Pg5 1-0
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/8fIMMO49"]
+[Date "2021.06.10"]
+[Sente "NHHoan"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.06.10"]
+[UTCTime "06:20:39"]
+[SenteElo "1248"]
+[GoteElo "1361"]
+[SenteRatingDiff "-4"]
+[GoteRatingDiff "+25"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pg6 2. Pe4 Pf6 3. Pd4 Rf8 4. Ph4 Kd8 5. Ph5 Kc8 6. Ph6 Kb8 7. Pxh7+ Gc8 8. Txh8 Rxh8 9. Rxh8+ Sxh8 0-1
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/wRBhvQRA"]
+[Date "2021.06.10"]
+[Sente "YohaanSethNathan"]
+[Gote "NHHoan"]
+[Result "1-0"]
+[UTCDate "2021.06.10"]
+[UTCTime "06:12:23"]
+[SenteElo "1330"]
+[GoteElo "1252"]
+[SenteRatingDiff "+31"]
+[GoteRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pg6 2. Pd4 Pf6 3. Rd2 Pe6 4. Kf2 Pc6 5. Kg2 Pd6 6. Kh2 Pb6 7. Gg2 Pb5 8. Sf2 Pb4 9. Pf4 Pxb3+ 10. Sf3 Txb2 11. Sxb2 Rxb2+ 12. Rxb2 Bg7 13. Rxb9+ Bh6 14. Dxa9 Bxf4 15. Dxa7 Bxe3+ 16. Dc7 1-0
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/5qNISFo4"]
+[Date "2021.06.09"]
+[Sente "RandomMoverBot"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.06.09"]
+[UTCTime "19:45:38"]
+[SenteElo "1105"]
+[GoteElo "1320"]
+[SenteRatingDiff "-4"]
+[GoteRatingDiff "+10"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Rf2 Pg6 2. Kd2 Pf6 3. Rh2 Rf8 0-1
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/1LfBU3SB"]
+[Date "2021.06.09"]
+[Sente "dugong161"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.09"]
+[UTCTime "19:43:53"]
+[SenteElo "1964"]
+[GoteElo "1323"]
+[SenteRatingDiff "+1"]
+[GoteRatingDiff "-3"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 Pg6 2. Ph5 Pf6 3. Ph6 Pxh6 4. Rxh6 P*h7 5. Rh2 Bg7 6. Sg2 Ph6 7. Sh3 Pg5 8. Sh4 Pg4 9. Pi4 Pf5 10. Pxg4 Pe6 11. P*h5 Pd6 12. Pxh6 Bxh6 13. Sh5 Bg7 14. Pi5 Bf6 15. Pi6 Bg7 16. Pxi7+ Bf8 17. Ti8 Ke8 18. Txi9 Be7 19. Txh9 Bf8 20. Txg9 Bxg9 21. Sg6 Bf8 22. Sg7+ Be7 23. Af8 Bxf8 24. Rh8+ Ke7 25. Dxf8 Kxf8 26. N*g5 Gf9e8 27. Nh7+ Gf7 28. Mg7 Gxg7 29. L*f6 1-0
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/dzyVhafk"]
+[Date "2021.06.09"]
+[Sente "YohaanSethNathan"]
+[Gote "dugong161"]
+[Result "0-1"]
+[UTCDate "2021.06.09"]
+[UTCTime "19:43:19"]
+[SenteElo "1325"]
+[GoteElo "1963"]
+[SenteRatingDiff "-2"]
+[GoteRatingDiff "+1"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pg6 2. Pd4 Bxd4 3. Rd2 Bc3+ 4. Bxc3 Pb6 5. Pb4 Pb5 6. Pxb5 Sc8 7. Pb6 Rxb6 8. Pc5 Rb8 9. Pc6 Sb7 10. P*d4 Pxc6 11. Pd5 Sb6 12. Pd6 Sb5 13. Bd4 Gd8 14. Bb6 Pxd6 15. Bc7+ Gxc7 16. Rd3 Pc5 17. Rd2 Pc4 18. Rd4 Pc3+ 19. Rc4 Sxc4 20. Gc2 Sb3+ 21. Gxc3 Axc3 22. Sc2 Axc2 23. Nc3 Ab1 24. Ke2 Axa1 25. Kd3 Aa2 0-1
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/K9M7dVm5"]
+[Date "2021.06.09"]
+[Sente "dugong161"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.09"]
+[UTCTime "19:42:42"]
+[SenteElo "1962"]
+[GoteElo "1328"]
+[SenteRatingDiff "+1"]
+[GoteRatingDiff "-3"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 Pg6 2. Ph5 Bg7 3. Ph6 Pxh6 4. Sg2 Pg5 5. Sh3 Pf6 6. Sh4 Pg4 7. Pi4 Ph5 8. Sxh5 Bi5 9. Pxi5 Pi6 10. Pxg4 Sh8 11. Pxi6 Gf8 12. Sh6 Kd8 13. Sh7+ Pd6 14. Axh8 Pc6 15. Axh9 Kc7 16. Axi9 Kb6 17. Ah9 Rc8 18. Ag9 Rd8 19. Af9 Ge9 20. Axf8 Rxf8 21. Rh7+ Pe6 22. Pi7+ Rf7 23. Dg7 Pe5 24. Dxf7 Pf5 25. Df6 Pe4 26. Dxf5 1-0
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/6GGk1LCi"]
+[Date "2021.06.09"]
+[Sente "YohaanSethNathan"]
+[Gote "dugong161"]
+[Result "0-1"]
+[UTCDate "2021.06.09"]
+[UTCTime "19:42:08"]
+[SenteElo "1331"]
+[GoteElo "1960"]
+[SenteRatingDiff "-3"]
+[GoteRatingDiff "+2"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pg6 2. Pd4 Bxd4 3. Rg2 Bc3+ 4. Bxc3 Pb6 5. Bb4 Pb5 6. Bxe7+ Sd8 7. Pf4 Sxe7 8. Pf5 Gd9e8 9. Pf6 Pxf6 10. Pe4 Gf9f8 11. Pe5 Pb4 12. Pe6 Pxb3+ 13. Rf2 Sxe6 14. Rf4 Gf8f7 15. Rf3 Tb2 16. Re3 Txb1 17. Re2 Txa1 18. Gd2 Tb1 19. Gd1 Txc1 20. Gxc1 Rb3+ 21. Gc2 Dxa3 22. Gb3 Da1 23. Kf2 Db1 24. Kf3 Dxb3 25. Re3 Db4 0-1
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/xajOtCWz"]
+[Date "2021.06.09"]
+[Sente "dugong161"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.09"]
+[UTCTime "19:41:32"]
+[SenteElo "1959"]
+[GoteElo "1333"]
+[SenteRatingDiff "+1"]
+[GoteRatingDiff "-2"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 Pg6 2. Ph5 Pf6 3. Ph6 Pxh6 4. Rxh6 P*h7 5. Rh2 Bg7 6. Sg2 Ph6 7. Sh3 Pg5 8. Sh4 Ph5 9. Sxh5 Pf5 10. Sh6 Pf4 11. Sxg7+ Pe6 12. Pxf4 Ke8 13. Gf2 Ke7 14. Ah8 Kd6 15. Axh9 Ke7 16. Axg9 Kd6 17. Axf9 Ke7 18. Ae9 Kd6 19. Axd9 Ke7 20. Axc9 Kd6 21. Axb9 Ke7 22. Axb8 Kd6 23. Axa9 Ke7 24. Aa8 Kd6 25. Axa7 Ke7 26. Axb7 Kf8 27. Axc7 Ke8 28. Axd7 Kxd7 29. Rh5 Ke7 30. Rxg5 Kd6 31. Rg9+ Ke7 32. Dxi9 Kd6 33. Dxi7 1-0
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/PT2ZQdqg"]
+[Date "2021.06.09"]
+[Sente "YohaanSethNathan"]
+[Gote "dugong161"]
+[Result "0-1"]
+[UTCDate "2021.06.09"]
+[UTCTime "19:40:56"]
+[SenteElo "1336"]
+[GoteElo "1958"]
+[SenteRatingDiff "-3"]
+[GoteRatingDiff "+1"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pg6 2. Pd4 Bxd4 3. Bc3 Bxc3+ 4. Nxc3 Pb6 5. Pb4 Pb5 6. Pxb5 Rb6 7. Pc5 Rxb5 8. Nxb5 Sc8 9. Nxc7+ Sb7 10. Mc8 Gxc8 11. Pc6 Gc7 12. Pxc7+ Sc6 13. Pe4 Nxc7 14. Pe5 Nb5 15. Pe6 Nc3+ 16. Pf4 Md2 17. Kxd2 Pxe6 18. Ke3 Sd5 19. Kd3 Pd6 20. Ke2 Sd4 21. Kd2 Pd5 22. Kc2 Pe5 23. Kb3 Pe4 24. Ka4 Sc5 25. Kb5 Sb6 26. Kc6 Pa6 27. Kxb6 La8 28. Kb5 P*b7 29. Kc5 La7 0-1
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/lSIrdZm7"]
+[Date "2021.06.09"]
+[Sente "dugong161"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.09"]
+[UTCTime "19:40:26"]
+[SenteElo "1957"]
+[GoteElo "1340"]
+[SenteRatingDiff "+1"]
+[GoteRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 Pg6 2. Ph5 Pf6 3. Ph6 Pxh6 4. Rxh6 P*h7 5. Rh2 Bg7 6. Sg2 Ph6 7. Sh3 Pg5 8. Sh4 Pf5 9. Sh5 Pxh5 10. Rxh5 S*h6 11. Rh2 Pg4 12. P*h5 Pxg3+ 13. Nxg3 Bxc3+ 14. Bxc3 Pc6 15. Pxh6 Rc8 16. Ph7+ Pc5 17. Th8 Pc4 18. Txg9 Kd8 19. Txh9 1-0
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/V97h4CQ4"]
+[Date "2021.06.09"]
+[Sente "YohaanSethNathan"]
+[Gote "dugong161"]
+[Result "0-1"]
+[UTCDate "2021.06.09"]
+[UTCTime "19:39:49"]
+[SenteElo "1343"]
+[GoteElo "1955"]
+[SenteRatingDiff "-3"]
+[GoteRatingDiff "+2"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 Pg6 2. Ph5 Bg7 3. Ph6 Pxh6 4. Rh5 Gd9e8 5. Rf5 Gf9f8 6. Pg4 Sg8 7. Rf4 Pf6 8. Pe4 Pb6 9. Pe5 Pb5 10. Re4 Pb4 11. Re3 Pxb3+ 12. Pc4 Txb2 13. Pd4 Txb1 14. Rc3 Txa1 15. Rc2 Tb1 16. Rd2 Txc1 17. Rf2 Rb1+ 18. Ke2 Txd1 19. Ke3 Te1 20. Kf4 Txf1 21. Ke4 Txg1 22. Ke3 Txh1 23. Ke4 Txi1 24. Ke3 Ti2 25. Ke4 Th2 0-1
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/84RkH7wP"]
+[Date "2021.06.09"]
+[Sente "dugong161"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.09"]
+[UTCTime "19:39:18"]
+[SenteElo "1954"]
+[GoteElo "1346"]
+[SenteRatingDiff "+1"]
+[GoteRatingDiff "-3"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 Pg6 2. Ph5 Bg7 3. Ph6 Pxh6 4. Rh3 Ph5 5. Rh2 Ph4 6. Gd1e2 Ph3+ 7. Rxh3 Bh6 8. Rh2 Sh8 9. Gf1f2 Sh7 10. Gg2 Pg5 11. Gh3 Pg4 12. Gh4 Pxg3+ 13. Nxg3 Pf6 14. Gh5 Bg5 15. Gxg5 Pf5 16. Gh6 Pf4 17. Gxh7 Pe6 18. Pxf4 Pe5 19. Gh8 Kd8 20. Gxh9 Ke7 21. Gxi9 Kd6 22. Gh9 1-0
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/NASvBOOI"]
+[Date "2021.06.09"]
+[Sente "YohaanSethNathan"]
+[Gote "dugong161"]
+[Result "0-1"]
+[UTCDate "2021.06.09"]
+[UTCTime "19:38:42"]
+[SenteElo "1350"]
+[GoteElo "1953"]
+[SenteRatingDiff "-4"]
+[GoteRatingDiff "+1"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pg6 2. Pd4 Bxd4 3. Bc3 Bxc3+ 4. Gd2 Pb6 5. Gxc3 Pb5 6. Pb4 Pxb4 7. Gxb4 Gc8 8. Pc5 Gb7 9. Gb5 Gb6 10. Gxb6 Rxb6 11. Pc6 Rxb1+ 12. Pxc7+ Nxc7 13. Ke2 Dxc1 14. Kd3 Dxa1 15. Ke4 Dxa3 16. Kd4 Da4 17. Kd3 Da5 18. Ke2 Dd5 19. Kf2 Dd6 20. Ke2 G*d2 0-1
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/hML96XD3"]
+[Date "2021.06.09"]
+[Sente "dugong161"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.09"]
+[UTCTime "19:38:16"]
+[SenteElo "1951"]
+[GoteElo "1353"]
+[SenteRatingDiff "+2"]
+[GoteRatingDiff "-3"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 Pb6 2. Ph5 Pb5 3. Ph6 Pb4 4. Pxh7+ Pxb3+ 5. Txh8 Txb2 6. Txg9 Gxg9 7. Rxb2 Rxb2+ 8. Sxb2 Pc6 9. B*d4 Pc5 10. Bxg7+ Ke8 11. Pg4 Kd8 12. Hxi9 Kc7 13. Hxh9 Kd8 14. Hxg9 Kc7 15. Hxi7 Kc8 16. Hh7 Kc7 17. Hg7 1-0
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/aJKpBu9H"]
+[Date "2021.06.09"]
+[Sente "YohaanSethNathan"]
+[Gote "dugong161"]
+[Result "0-1"]
+[UTCDate "2021.06.09"]
+[UTCTime "19:37:48"]
+[SenteElo "1357"]
+[GoteElo "1950"]
+[SenteRatingDiff "-4"]
+[GoteRatingDiff "+1"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pb6 2. Pd4 Pb5 3. Bc3 Pb4 4. Pxb4 Rxb4 5. Bxb4 Pc6 6. Bxe7+ Nc7 7. Hxc9 Gxc9 8. Pg4 Gd8 9. Pg5 Gf9e8 10. Pg6 Pxg6 11. Ph4 Bxd4 12. Ph5 Bxa1+ 13. Rh3 Hxb1 14. Rh2 Hxc1 15. Rh3 Hxd1 16. Kxd1 Nd5 17. Rh2 Nc3+ 18. Rh3 G*d2 0-1
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/aqvEov0g"]
+[Date "2021.06.09"]
+[Sente "dugong161"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.09"]
+[UTCTime "19:37:19"]
+[SenteElo "1948"]
+[GoteElo "1361"]
+[SenteRatingDiff "+2"]
+[GoteRatingDiff "-4"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 Pb6 2. Ph5 Pb5 3. Ph6 Pb4 4. Pxh7+ Pxb3+ 5. Txh8 Txb2 6. Txg9 Txb1 7. Txf9 Kxf9 8. Sd2 Tc1 9. Gf1e2 Txd1 10. Kxd1 Rb1+ 11. Sc1 Dxa1 12. G*c2 Dxa3 13. Rxh9+ Kf8 14. Dxi9 Da4 15. Di8 1-0
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/akVd1AGV"]
+[Date "2021.06.09"]
+[Sente "YohaanSethNathan"]
+[Gote "dugong161"]
+[Result "0-1"]
+[UTCDate "2021.06.09"]
+[UTCTime "19:36:42"]
+[SenteElo "1366"]
+[GoteElo "1946"]
+[SenteRatingDiff "-5"]
+[GoteRatingDiff "+2"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pg6 2. Pd4 Bxd4 3. Bxd4 Sg8 4. Rd2 Sg7 5. Bxg7+ Nxg7 6. Pe4 Pb6 7. Pe5 Pb5 8. Pf4 Pb4 9. Pf5 Pxb3+ 10. Rd4 Tb2 11. Rd5 Txb1 12. Rxd7+ Txa1 13. Dxd9 Kxd9 14. Pe6 Ke8 15. Pxe7+ Kxe7 16. Pf6 Kf8 17. Pxf7+ Kxf7 18. Sf2 Kg8 19. Sf3 Gf8 20. Sf4 Gf7 21. Se5 Ge6 22. Sf4 Ge5 23. Sxe5 Re8 0-1
+
+
+[Event "Daily Rapid Arena"]
+[Site "https://lishogi.org/vJ7y7Lny"]
+[Date "2021.06.09"]
+[Sente "YohaanSethNathan"]
+[Gote "DreamPwner"]
+[Result "0-1"]
+[UTCDate "2021.06.09"]
+[UTCTime "19:11:16"]
+[SenteElo "1315"]
+[GoteElo "1880"]
+[SenteRatingDiff "-2"]
+[GoteRatingDiff "+1"]
+[Variant "Standard"]
+[TimeControl "600+0+10(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pb6 2. Pd4 Pb5 3. Bc3 Sc8 4. Rd2 Kf8 5. Sb2 Pg6 6. Kf2 Kg8 7. Kg2 Gd9e8 8. Kh2 Pd6 9. Gg2 Sd7 10. Ge2 Se6 11. Gd3 Gf9f8 12. Pe4 Pa6 13. Pa4 Rd8 14. Pi4 Pd5 15. Pxd5 Sxd5 16. P*d4 Se6 17. Re2 Pc6 18. Rc2 Pc5 19. Pxc5 P*d5 20. Pxd5 Sxd5 21. P*d4 P*c4 22. Bd2 Sxd4 23. Gxd4 Rxd4 24. P*d3 Rxd3+ 25. Rxc4 Dxc4 26. Bf4 Bxb2+ 27. Bxa9+ Dc2 28. S*f2 R*c1 29. Hxb9 S*f1 30. L*b8 Hd4 31. N*e3 Hxe3 32. Sxe3 Sxg2+ 33. Sxg2 Dxg2 34. Kxg2 G*g1 35. Kf2 Rf1+ 0-1
+
+
+[Event "Rated Rapid game"]
+[Site "https://lishogi.org/cE3p18Y8"]
+[Date "2021.06.09"]
+[Sente "Luis"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.06.09"]
+[UTCTime "16:48:46"]
+[SenteElo "1362"]
+[GoteElo "1279"]
+[SenteRatingDiff "-7"]
+[GoteRatingDiff "+36"]
+[Variant "Standard"]
+[TimeControl "600+0+10(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Pg6 2. Ph5 Bg7 3. Pc4 Pf6 4. Sg2 Rf8 5. Sh3 Kd8 6. Sh4 Pi6 7. Gf2 Kc8 8. Pg4 Kb8 9. Pg5 Pxg5 10. Sxg5 Bh8 11. Ph6 Pxh6 12. Sxh6 P*g4 13. Sh7+ Pg3+ 14. Gxg3 Gg8 15. Axg8 Rxg8 16. G*h7 Rf8 17. Gxh8 Rxh8 18. Bxf6 Rxh2+ 19. Bxi9+ Dxg3 20. Hxh9 Dg1 21. Kd2 R*f2 22. Ge2 G*d1 23. Kc3 Rxe2+ 24. N*c6 Pxc6 25. B*e5 Nc7 26. Hxg9 Gxc1 27. Hxe7 Gc2 28. Kd4 Dg4 29. Pf4 G*d5 0-1
+
+
+[Event "Benjaminshuit Mukaibisha simul"]
+[Site "https://lishogi.org/eR8ZjSmv"]
+[Date "2021.06.09"]
+[Sente "YohaanSethNathan"]
+[Gote "benjaminshuit"]
+[Result "0-1"]
+[UTCDate "2021.06.09"]
+[UTCTime "16:39:38"]
+[SenteElo "1322"]
+[GoteElo "1512"]
+[Variant "Standard"]
+[TimeControl "1200+60+30(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pg6 2. Pd4 Bg7 3. Rd2 Rh8 4. Kf2 Sf8 5. Kg2 Kd8 6. Kh2 Kc8 7. Gg2 Kb8 8. Ge2 La8 9. Gd3 Ka9 10. Li2 Sb8 11. Ki1 Gc8 12. Sh2 Ge8 13. Sc2 Ge8d8 14. Sc3 Pe6 15. Pe4 Se7 16. Pf4 Pc6 17. Rf2 Ph6 18. Pb4 Ph5 19. Bc1 Ph4 20. Pf5 Pxh3+ 21. Sxh3 P*h4 22. Sxh4 Rxh4 23. P*h3 Rh8 24. Bf4 Sd6 25. Gh2 S*g1 26. Rg2 Sxh2+ 27. Rxh2 Bh6 28. Bxh6 Rxh6 29. B*f4 Rh8 30. Be3 B*f1 31. S*g2 Bxd3+ 32. Bd2 G*f2 33. Pa4 Hxe4 34. Bg5 Gxg2 35. Rxg2 Hxg2 36. Bxd8+ G*h2 0-1
+
+
+[Event "Daily Bullet Arena"]
+[Site "https://lishogi.org/auh4aceI"]
+[Date "2021.06.09"]
+[Sente "fripSide"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.09"]
+[UTCTime "14:55:29"]
+[SenteElo "1791"]
+[GoteElo "1408"]
+[SenteRatingDiff "+20"]
+[GoteRatingDiff "-24"]
+[Variant "Standard"]
+[TimeControl "120+2+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pg6 2. Pc5 Pf6 3. Rc2 Gc8 4. Kf2 Gg8 5. Gd1e2 Gf7 6. Sg2 Sg8 7. Kg1 Sg7 8. Pf4 Kd9 9. Sd2 Gd8 10. Pe4 Sc8 11. Se3 Pd6 12. Pc6 Pxc6 13. Rxc6 P*c7 14. Rxd6 Sd7 15. Rd4 Pb6 16. Rc4 Pb5 17. Pg4 Sd6 18. Nc3 Ph6 19. Pa4 Pa6 20. Pd4 Pe6 21. Ba3 Se7 22. Kh2 Pi6 23. Pi4 Ph5 24. Gf3 Sh6 25. Ng3 Pg5 26. Pxg5 Sxg5 27. P*g4 Sh6 28. Pf5 Pxf5 29. Nxf5 Sf6 30. Sf4 Se7 31. Nxe7+ Gf7xe7 32. Pe5 P*f6 33. Pxe6 N*f9 34. Pxe7+ Gxe7 35. Nd5 Bg9 36. P*e6 Re8 37. Pxe7+ Nxe7 38. Nxe7+ Bxe7 39. Bxe7+ Rxe7 40. P*e6 Rxe6 41. B*f7 Re8 42. S*d7 B*f9 43. G*d8 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/MoT0GDfc"]
+[Date "2021.06.09"]
+[Sente "Random"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.06.09"]
+[UTCTime "12:37:14"]
+[SenteElo "1128"]
+[GoteElo "1408"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Gd2 Pb6 2. Pe4 Pb5 3. Pf4 Pb4 4. Li2 Pxb3+ 5. La2 Txb2 6. Pe5 Txc1 7. Gd1 Txd1 8. Kf2 Rb2+ 9. Kf3 Dd2 10. Ph4 Dxd3 11. Kg4 Pg6 12. Gg2 Bxe5 13. Sf2 Td2 14. Rh3 Te2 15. Gf3 Txf2 16. Ge4 Dxe4 17. Pi4 Dxf4 18. Kh5 Dxg3 19. Li3 Dxh3 20. Pi5 Dxh4 21. Kxh4 Bg3+ 22. Ki4 Tf3 23. R*a4 Ph6 24. Nxg3 Ph5 25. Rc4 Ph4 26. B*e3 Ph3+ 27. Bxa7+ Th3xg3 28. P*d1 Tf4 29. Pd2 Tf4g4 30. Ha6 Tg3h3 31. Hc8 Tg4h4 32. Rxh4 Txh4 33. Kxh4 Pg5 34. P*f2 Ng7 35. Hd8 Kxd8 36. P*h2 R*h5 37. Ki4 R*h4 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/NqFJDpWu"]
+[Date "2021.06.09"]
+[Sente "YohaanSethNathan"]
+[Gote "Random"]
+[Result "1-0"]
+[UTCDate "2021.06.09"]
+[UTCTime "12:36:50"]
+[SenteElo "1408"]
+[GoteElo "1128"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Gf8 2. Ph5 Re8 3. Ph6 Kd8 4. Pxh7+ Gf9 5. Txh8 Gg8 6. Txh9 Re9 7. Txg9 La8 8. Txg8 Sb8 9. Rh9+ Ke8 10. Tg9 Pg6 11. Dh8 1-0
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/xFsYntVN"]
+[Date "2021.06.09"]
+[Sente "YoBot_v2"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.09"]
+[UTCTime "12:33:39"]
+[SenteElo "1902"]
+[GoteElo "1366"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Pg6 2. Pc4 Pf6 3. Pf4 Rf8 4. Kd2 Gg8 5. Pa4 Gf7 6. Ph5 Sg8 7. Ph6 Sg7 8. Pxh7+ Re8 9. Pf5 Pxf5 10. Txh8 Sxh8 11. Bxh8+ Rxh8 12. Rxh8+ Gf8 13. R*g9 Gf9 14. Rxf9= Kxf9 15. G*f8 1-0
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/U1U50svo"]
+[Date "2021.06.09"]
+[Sente "RandomMoverBot"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.06.09"]
+[UTCTime "12:33:08"]
+[SenteElo "1105"]
+[GoteElo "1366"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Sf2 Pb6 2. Pa4 Pb5 3. Sc2 Pb4 0-1
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/dZYYgFJ4"]
+[Date "2021.06.09"]
+[Sente "Best-bot"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.06.09"]
+[UTCTime "12:32:16"]
+[SenteElo "1634"]
+[GoteElo "1366"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pf4 Pg6 2. Gd1e2 Pf6 3. Pc4 Rf8 4. Rf2 Kd8 5. Sg2 Kc8 6. Sf3 Kb8 7. Se4 Gg8 8. Kd2 Gf7 9. Sc2 Sg8 10. Kc1 Sg7 11. Pi4 Ph6 12. Gf1e1 Pg5 13. Sc3 Sg6 14. Ge2d2 Bg7 15. Sb4 Pf5 16. Bxg7= Pe6 0-1
+
+
+[Event "Blitz Shield Arena"]
+[Site "https://lishogi.org/NmKy1Eb7"]
+[Date "2021.06.09"]
+[Sente "ZzzJapan"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.09"]
+[UTCTime "12:00:42"]
+[SenteElo "1421"]
+[GoteElo "1213"]
+[SenteRatingDiff "+28"]
+[GoteRatingDiff "-30"]
+[Variant "Standard"]
+[TimeControl "480+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pg6 2. Ph4 Pf6 3. Sf2 Rf8 4. Kd2 Kd8 5. Gf1e2 Kc8 6. Pf4 Kb8 7. Sf3 Gc8 8. Pg4 Gg8 9. Ng3 Gf7 10. Se4 Pe6 11. Pi4 Sg8 12. Pa4 Pi6 13. Sc2 Ph6 14. Kc1 Sg7 15. Ph5 Pxh5 16. Pf5 Pxf5 17. Nxf5 Sh6 18. Bxh8+ Rxh8 19. P*f6 Gxf6 20. B*g9 Rg8 21. Be7+ B*g7 22. Nxg7+ Rxg7 23. Hxf6 N*f4 24. Ge2d2 Ri7 25. Hh8 Rf7 26. Rf2 Pg5 27. Hxi9 Pxg4 28. Hxh9 Pg3+ 29. Rf1 Tg2 30. Rf3 Ph4 31. Hxf7 P*g4 32. Rxf4 Pg3+ 33. He7 Ph3+ 34. Rf9+ Pa6 35. R*h8 Ka7 36. B*c5 Pb6 37. N*b5 Kb7 38. Hxc9 Gxc9 39. Dxc9 Pxb5 40. G*b6 1-0
+
+
+[Event "Casual Standard game"]
+[Site "https://lishogi.org/HENdrgoP"]
+[Date "2021.06.09"]
+[Sente "YohaanSethNathan"]
+[Gote "YoBot_v2"]
+[Result "0-1"]
+[UTCDate "2021.06.09"]
+[UTCTime "11:18:06"]
+[SenteElo "1366"]
+[GoteElo "1902"]
+[GoteTitle "BOT"]
+[Variant "From Position"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+[FEN "4k4/9/9/9/9/9/PPPPPPPPP/1B5R1/LNSGKGSNL b - 1"]
+[SetUp "1"]
+
+1. Pc4 Kf8 2. Pd4 Ke7 3. Rd2 Kd7 4. Kf2 Kc6 5. Kg2 Kb5 6. Kh2 Kxc4 7. Rc2 Kb5 8. Rc3 P*c6 9. Rd3 Pc5 10. Rc3 Pc4 11. Rd3 Kc6 12. Rd2 Kb6 13. Rc2 Kc5 14. Bc3 Pxc3= 15. Rxc3 Kd6 16. Rd3 B*c4 17. Rc3 Bxf1+ 18. Sg2 Hf2 19. Sf1 Hxf1 0-1
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/saNg6cPt"]
+[Date "2021.06.09"]
+[Sente "YohaanSethNathan"]
+[Gote "YoBot_v2"]
+[Result "0-1"]
+[UTCDate "2021.06.09"]
+[UTCTime "11:16:43"]
+[SenteElo "1366"]
+[GoteElo "1902"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Gg8 2. Pd4 Pg6 3. Rd2 Pi6 4. Kf2 Pi5 5. Kg2 Sd8 6. Kh2 Sf8 7. Gg2 Kf9 8. Sc2 Kg9 9. Sc3 Ge9 10. Gc2 Pe6 11. Gd3 Pa6 12. Re2 Pb6 13. Rd2 Pb5 14. Rd1 Sd8e7 15. Rd2 Bg7 16. Rd1 Kh8 17. Rd2 Li8 18. Rd1 Pf6 19. Rd2 Pc6 20. Rd1 Ki9 21. Rd2 Gf9 22. Rd1 Nc7 23. Rd2 Pf5 24. Rd1 Gf9g9 25. Rd2 Pd6 26. Rd1 Gg9h8 27. Rd2 Pd5 28. Rd1 Pxd4 29. Rd2 Pxd3= 30. Rxd3 P*d6 31. Rd2 Pb4 32. Rd1 Pxb3+ 33. Rd2 Txb2 34. Rxb2 Rxb2+ 35. P*d3 Dxb1 36. Pd4 R*c2 0-1
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/XbOXpwt6"]
+[Date "2021.06.09"]
+[Sente "YoBot_v2"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.09"]
+[UTCTime "11:16:10"]
+[SenteElo "1902"]
+[GoteElo "1366"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 Pg6 2. Pc4 Pf6 3. Sc2 Rf8 4. Ph5 Kd8 5. Sf2 Bg7 6. Pe4 Kc8 7. Pa4 Kb8 8. Se3 Gc8 9. Kd2 Gg8 10. Pa5 Gf7 11. Gf2 Sg8 12. Kc1 Re8 13. Pg4 Rf8 14. Pb4 Rf9 15. Sb3 Rf8 16. Gc2 Rf9 17. Bc3 Rf8 18. Kb2 Rf9 19. Ng3 Rf8 20. Bd2 Rf9 21. Sd4 Rf8 22. Ph6 Rf9 23. Pxh7+ Rf8 24. Txg7 Rf9 25. Txg8 Re9 26. Rh8+ Re8 27. B*d9 Re9 28. Bxf7+ Rd9 29. Hxd9 Gd8 30. R*f8 1-0
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/DTPqkO0y"]
+[Date "2021.06.09"]
+[Sente "YohaanSethNathan"]
+[Gote "ZzzJapan"]
+[Result "1-0"]
+[UTCDate "2021.06.09"]
+[UTCTime "11:14:26"]
+[SenteElo "1309"]
+[GoteElo "1338"]
+[SenteRatingDiff "+57"]
+[GoteRatingDiff "-72"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pg6 2. Pd4 Pb6 3. Rd2 Pb5 4. Kf2 Sd8 5. Kg2 Kf8 6. Kh2 Sg8 7. Gg2 Kg9 8. Bc3 Gd9e8 9. Gc2 Pi6 10. Gd3 Pd6 11. Pa4 Sd7 12. Na3 Pc6 13. Nxb5 Nc7 14. Nxc7+ Rb6 15. Mb8 Rxb8 16. Ba5 Rc8 17. Be9+ Ge8xe9 18. Pd5 Pxd5 19. Gd4 Pxd4 20. Rd3 Pxd3+ 21. Sc2 Txc2 22. Sf2 Td2 23. Sg1 Te2 24. Sf2 Txf2 25. Gxf2 Bxa1+ 26. Gg2 1-0
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/bC6GG194"]
+[Date "2021.06.09"]
+[Sente "ZzzJapan"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.09"]
+[UTCTime "11:13:39"]
+[SenteElo "1225"]
+[GoteElo "1391"]
+[SenteRatingDiff "+113"]
+[GoteRatingDiff "-82"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pg6 2. Ph4 Pf6 3. Ph5 Rf8 4. Sf2 Bg7 5. Pf4 Kd8 6. Sf3 Kc8 7. Gf1e2 Kb8 8. Kd2 Gc8 9. Sc2 Gg8 10. Kc1 Gf7 11. Pg4 Sg8 12. Ng3 Pi6 13. Se4 Ni7 14. Rf2 Nxh5 15. Pa4 Nxg3+ 16. Pi4 Pg5 17. Rf1 Mg2 18. Rf3 Mg1 19. Rh3 Mg2 20. Rf3 Mh2 21. Rg3 Mg2 22. Rf3 Pxg4 23. Rh3 1-0
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/YTqa7mml"]
+[Date "2021.06.09"]
+[Sente "YohaanSethNathan"]
+[Gote "ZzzJapan"]
+[Result "1-0"]
+[UTCDate "2021.06.09"]
+[UTCTime "11:12:56"]
+[SenteElo "1328"]
+[GoteElo "1319"]
+[SenteRatingDiff "+63"]
+[GoteRatingDiff "-94"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pg6 2. Pd4 Pb6 3. Rd2 Sd8 4. Kf2 Kf8 5. Kg2 Sg8 6. Kh2 Kg9 7. Gg2 Gd9e8 8. Sc2 Pd6 9. Sd3 Sd7 10. Bc3 Se6 11. Gc2 Pc6 12. Pe4 Nc7 13. Pf4 Rd8 14. Gf3 Nb5 15. Pg4 Pd5 16. Sg2 Nxc3+ 17. Pxd5 Sxd5 18. Gxc3 1-0
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/AUtzGXXr"]
+[Date "2021.06.09"]
+[Sente "YohaanSethNathan"]
+[Gote "Best-bot"]
+[Result "1-0"]
+[UTCDate "2021.06.09"]
+[UTCTime "11:11:03"]
+[SenteElo "1328"]
+[GoteElo "1634"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pg6 2. Pd4 Gf9e8 3. Rd2 Rd8 4. Kf2 Pd6 5. Kg2 Kf9 6. Kh2 Gd9e9 7. Gg2 Kg8 8. Gc2 Pa6 9. Gd3 Sf8 10. Sc2 Pf6 11. Sc3 Sg7 12. Re2 Sh6 13. Rd2 1-0
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/aidUQKso"]
+[Date "2021.06.09"]
+[Sente "Best-bot"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.09"]
+[UTCTime "11:10:29"]
+[SenteElo "1634"]
+[GoteElo "1328"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pg6 2. Bxh8= Rxh8 3. B*d5 Pf6 4. Bxb7+ Sc8 5. Hb8 Gc9 6. Hxc9 Sd9 7. Hxb9 La8 8. Hxd7 Pc6 9. Hxe7 Pc5 10. N*d7 1-0
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/sQqGVxFY"]
+[Date "2021.06.09"]
+[Sente "YohaanSethNathan"]
+[Gote "Best-bot"]
+[Result "1-0"]
+[UTCDate "2021.06.09"]
+[UTCTime "11:10:00"]
+[SenteElo "1328"]
+[GoteElo "1634"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pg6 2. Pd4 Pe6 3. Rd2 Gf8 4. Kf2 Sd8 5. Kg2 Kf9 6. Kh2 Se7 7. Gg2 Sg8 8. Gc2 Kg9 9. Gc3 Sg7 10. Gd3 Re8 11. Sc2 1-0
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/kYLyHUgS"]
+[Date "2021.06.09"]
+[Sente "YohaanSethNathan"]
+[Gote "JapaneseChessisgr8"]
+[Result "1-0"]
+[UTCDate "2021.06.09"]
+[UTCTime "11:08:13"]
+[SenteElo "1245"]
+[GoteElo "1741"]
+[SenteRatingDiff "+83"]
+[GoteRatingDiff "-29"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pi6 2. Pd4 Pd6 3. Rd2 Rd8 4. Kf2 Kf8 5. Kg2 Sc8 6. Kh2 Gd9e9 7. Gg2 Kg8 8. Sc2 Pg6 9. Sc3 Sf8 10. Ge2 Sg7 11. Rd3 Pg5 12. Rd2 Pf6 13. Rd3 Sg6 14. Rd2 Pf5 15. Rd3 Sd7 16. Rd2 Pe6 17. Rd3 Pe5 18. Rd1 Se6 19. Rd2 Re8 20. Rd1 Bg7 21. Rd2 Pi5 22. Rd1 Gd8 23. Rd2 Ge9 24. Rd1 Rf8 25. Rd2 Pf4 26. Rd1 Pb6 27. Rd2 Pxf3+ 28. Rd1 Txe2 29. Rd2 Txd2 30. Bc1 Txc1 31. Sb4 Txb1 32. Sc3 Txa1 33. Sb4 Rf1+ 34. Sc3 De2 35. Sb4 Dxe3 36. Sc3 Dxc3 37. Gf2 1-0
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/BQ25PlTC"]
+[Date "2021.06.09"]
+[Sente "JapaneseChessisgr8"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.09"]
+[UTCTime "11:07:26"]
+[SenteElo "1741"]
+[GoteElo "1245"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pg6 2. Gf1e2 Pf6 3. Sf2 Rf8 4. Pe4 Kd8 5. Sd2 Kc8 6. Kf1 Kb8 7. Bd4 Gc8 8. Nc3 Sd8 9. Pe5 Sg8 10. Ge3 Sg7 11. Pf4 Rg8 12. Ph4 Ge8 13. Ge4 Rf8 14. Ph5 Bg9 15. Nb5 Bh8 16. Rh4 Bg9 17. Sf3 Bh8 18. Ge2 Bg9 19. Kf2 Bh8 20. Kf1 Bg9 21. Pi4 Bh8 22. Bc5 Bg9 23. Pa4 Bh8 24. Pd4 Bg9 25. Pd5 Bh8 26. Se3 Bg9 27. Bd4 Bh8 28. Pi5 Bg9 29. Li3 Bh8 30. Gd3 Bg9 31. Rh2 Bh8 32. Rf2 Bg9 33. Rb2 Bh8 34. Rg2 Bg9 35. Rb2 Bh8 36. Rg2 Bg9 37. Rb2 Bh8 38. Rd2 1-0
+
+
+[Event "Rated Bullet game"]
+[Site "https://lishogi.org/rex6SXvo"]
+[Date "2021.06.09"]
+[Sente "Gear"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.09"]
+[UTCTime "08:20:21"]
+[SenteElo "2045"]
+[GoteElo "1414"]
+[SenteRatingDiff "+1"]
+[GoteRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "15+1+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pg6 2. Pd4 Pf6 3. Sd2 Rf8 4. Pe4 Kd8 5. Sf2 Kc8 6. Sf2e3 Kb8 7. Sd3 Gc8 8. Pd5 Bg7 9. Kd2 Sg8 10. Rf2 Sf7 11. Kc2 Ge8 12. Gg2 Pi6 13. Rf1 Pa6 14. Pa4 Pi5 15. Ge2 Ge8d8 16. Pb4 Pe6 17. Pb5 Ge7 18. Ba3 Pd6 19. Nc3 Re8 20. Pxd6 Gd8 21. Se3d4 Gc8 22. Nd5 1-0
+
+
+[Event "Eastern HyperRapid Arena"]
+[Site "https://lishogi.org/texud83b"]
+[Date "2021.06.09"]
+[Sente "Hiwasubarashi"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.06.09"]
+[UTCTime "08:16:11"]
+[SenteElo "1176"]
+[GoteElo "1255"]
+[SenteRatingDiff "-19"]
+[GoteRatingDiff "+24"]
+[Variant "Standard"]
+[TimeControl "600+0+0(1)"]
+[ECO "?"]
+[Termination "Abandoned"]
+
+ 0-1
+
+
+[Event "Eastern HyperRapid Arena"]
+[Site "https://lishogi.org/vRHPQgzh"]
+[Date "2021.06.08"]
+[Sente "YohaanSethNathan"]
+[Gote "NHHoan"]
+[Result "1-0"]
+[UTCDate "2021.06.08"]
+[UTCTime "08:04:33"]
+[SenteElo "1227"]
+[GoteElo "1167"]
+[SenteRatingDiff "+28"]
+[GoteRatingDiff "-14"]
+[Variant "Standard"]
+[TimeControl "600+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pg6 2. Pd4 Pb6 3. Rd2 Pe6 4. Kf2 Pe5 5. Kg2 Re8 6. Gd1e2 Pe4 7. Pxe4 Rxe4 8. P*e3 Re5 9. Kh2 Pd6 10. Gg2 Pd5 11. Pxd5 Rxd5 12. P*d4 Re5 13. Sc2 Pb5 14. Bc3 Ng7 15. Sd3 Nf5 16. Pe4 Re6 17. Pb4 Pxb4 18. Bxb4 P*e3 19. Ge2f2 P*d5 20. Pf4 Nxg3+ 21. Gg2xg3 Pc6 22. Gxe3 P*b5 23. Bc3 Pa6 24. Pxd5 Bxc3+ 25. Nxc3 Pb4 26. Sc2 Pa5 27. N*d4 Re7 28. B*e5 Sf8 29. Bxa9+ B*b8 30. Hxb9 Gc8 31. Ha8 Gc7 32. Nxc6 Gxc6 33. Hxc6 Rc7 34. Hd6 Rc6 35. Hxc6 1-0
+
+
+[Event "Eastern Blitz Arena"]
+[Site "https://lishogi.org/o8Xu9sGk"]
+[Date "2021.06.08"]
+[Sente "YohaanSethNathan"]
+[Gote "TaIto818"]
+[Result "0-1"]
+[UTCDate "2021.06.08"]
+[UTCTime "07:32:31"]
+[SenteElo "1222"]
+[GoteElo "1702"]
+[SenteRatingDiff "-9"]
+[GoteRatingDiff "+1"]
+[Variant "Standard"]
+[TimeControl "480+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pg6 2. Pd4 Rg8 3. Rd2 Sf8 4. Kf2 Kd8 5. Kg2 Kc8 6. Kh2 Pg5 7. Gg2 Gf9e8 8. Bc3 Pg4 9. Pxg4 Be5 10. Gg3 Rxg4 11. Sg2 Rg8 12. Pf4 Pe6 13. Pe4 Bg7 14. P*g4 Se7 15. Ge2 Sf6 16. Ge3 Gd9d8 17. Sc2 Bh6 18. Rf2 Pe5 19. Pxe5 P*g5 20. Pxg5 Sxg5 21. P*g4 Sxg4 22. Gxg4 Rxg4 23. P*g3 Rg5 24. S*e2 Rxe5 25. Pa4 P*e4 26. Gf3 G*e3 27. Gxe3 Pxe3+ 28. G*e4 Rxe4 29. Sxe3 Rxe3+ 30. P*e2 Dxf2 31. Pi4 S*g1 32. Ki3 Dxg2 33. Kh4 G*g5 34. Ki3 Dh2 0-1
+
+
+[Event "Eastern Blitz Arena"]
+[Site "https://lishogi.org/78Jm3Iw2"]
+[Date "2021.06.08"]
+[Sente "YohaanSethNathan"]
+[Gote "ecirs"]
+[Result "0-1"]
+[UTCDate "2021.06.08"]
+[UTCTime "07:22:33"]
+[SenteElo "1223"]
+[GoteElo "2223"]
+[SenteRatingDiff "-1"]
+[GoteRatingDiff "+0"]
+[Variant "Standard"]
+[TimeControl "480+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pb6 2. Pd4 Pb5 3. Bc3 Pg6 4. Rd2 Sd8 5. Sc2 Pe6 6. Kf2 Kf8 7. Kg2 Kg8 8. Kh2 Bg7 9. Gg2 Se7 10. Ge2 Kh8 11. Pe4 Li8 12. Ge3 Ki9 13. Rf2 Sh8 14. Rd2 Gg9 15. Pf4 Sf6 16. Ge3f3 Bf8 17. Ge3 Pb4 18. Pxb4 Bxb4 19. Bxb4 Rxb4 20. P*b3 Rb8 21. Rd3 B*b2 22. B*c3 Bc1+ 23. Bb4 Hxc2 24. Rc3 Hxb1 25. Rd3 Gg8 26. Pc5 N*a6 27. Bd2 S*c4 28. Pb4 Sxd3+ 29. Gxd3 Hxd3 30. S*c1 R*d1 31. Pd5 Nxb4 32. Pc6 Pxc6 33. Pd6 Pxd6 34. Pe5 Sxe5 35. Pf5 Nc2+ 36. Sxc2 Hxc2 37. Ba5 Rb8b1+ 38. Pf6 Sxf6 39. Bb6 He4 40. N*f3 Dxb6 41. Li2 Db2 42. Pi4 Hxf3 43. Ki3 N*h5 44. Kh4 Sg5 45. Ki5 Pi6 0-1
+
+
+[Event "Casual Standard game"]
+[Site "https://lishogi.org/WIm1dIHs"]
+[Date "2021.06.07"]
+[Sente "YohaanSethNathan"]
+[Gote "YoBot_v2"]
+[Result "1-0"]
+[UTCDate "2021.06.07"]
+[UTCTime "18:26:15"]
+[SenteElo "1414"]
+[GoteElo "1840"]
+[GoteTitle "BOT"]
+[Variant "From Position"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+[FEN "k8/9/9/9/9/9/9/9/8K b - 1"]
+[SetUp "1"]
+
+1. Kh2 Kb8 2. Kg3 Kb9 3. Kf4 Kc8 4. Kf5 Kb7 5. Kf6 Kc7 6. Ke7 Kc6 7. Ke8 Kb7 8. Ke9 1-0
+
+
+[Event "Daily HyperRapid Arena"]
+[Site "https://lishogi.org/xGLLggrg"]
+[Date "2021.06.07"]
+[Sente "kenji"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.07"]
+[UTCTime "17:29:12"]
+[SenteElo "1231"]
+[GoteElo "1266"]
+[SenteRatingDiff "+40"]
+[GoteRatingDiff "-39"]
+[Variant "Standard"]
+[TimeControl "600+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pg6 2. Ph4 Pf6 3. Sf2 Rf8 4. Gf1e2 Kd8 5. Pg4 Kc8 6. Pd4 Kb8 7. Kd2 Gc8 8. Kc2 Bg7 9. Pe4 Gg8 10. Sd2 Gf7 11. Sg3 Pe6 12. Se3 Ge7 13. Pg5 Gf7 14. Ph5 Sg8 15. Pa4 Pxg5 16. Se3f4 Gg6 17. Kc1 Sf7 18. Kc2 Pf5 19. Se3 Ph6 20. Ba3 Pxh5 21. Bxf8+ Bxf8 22. R*f9 Bd6 23. Rxf7+ Bxg3+ 24. Nxg3 Gh6 25. Nxf5 S*g6 26. Df8 Sxf5 27. Dxf5 N*g4 28. Rg2 B*h2 29. B*e7 Bxi1+ 30. S*d9 Nh2+ 31. Sxc8+ Sxc8 32. S*c9 Ka8 33. G*b8 1-0
+
+
+[Event "Daily HyperRapid Arena"]
+[Site "https://lishogi.org/YwyiRvf6"]
+[Date "2021.06.07"]
+[Sente "kusu4560"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.07"]
+[UTCTime "17:21:45"]
+[SenteElo "1745"]
+[GoteElo "1271"]
+[SenteRatingDiff "+2"]
+[GoteRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "600+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. La2 Pg6 2. Ba1 Pf6 3. Rb2 Rf8 4. Sc2 Kd8 5. Pi4 Kc8 6. Kf2 Kb8 7. Kg2 Gc8 8. Sf2 Bg7 9. Pe4 Gg8 10. Se3 Gf7 11. Gf2 Pe6 12. Ge1 Sd8 13. Ge1f1 Se7 14. Kh2 Sd6 15. Pc4 Pe5 16. Pxe5 Sxe5 17. P*e4 Sd6 18. Sc3 Se7 19. Pb4 P*e6 20. Sc3d4 Pd6 21. Gf1g2 Sg8 22. Pb5 Rd8 23. Pb6 Re8 24. Pxb7+ Gxb7 25. P*b6 Gxb6 26. Rxb6 P*b7 27. Rb2 Sd8 28. Sc5 Sd7 29. Rb3 Pc6 30. Sc5d4 Rc8 31. Pe5 Pxe5 32. Sxe5 P*e6 33. Se5d4 Rd8 34. Pc5 Pxc5 35. Sxc5 P*c6 36. P*b6 Pxb6 37. Sxb6 P*b7 38. Sxb7+ Kc9 39. G*c8 Rxc8 40. Axc8 Kxc8 41. R*b8 Kc9 42. Rxg8+ Be9 43. Rb8+ Kd9 44. S*d8 Bxd8 45. Db8xd8 1-0
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/NMAcXLHR"]
+[Date "2021.06.07"]
+[Sente "YohaanSethNathan"]
+[Gote "yobi_shogi"]
+[Result "0-1"]
+[UTCDate "2021.06.07"]
+[UTCTime "17:19:54"]
+[SenteElo "1284"]
+[GoteElo "1500"]
+[SenteRatingDiff "-39"]
+[GoteRatingDiff "+99"]
+[Variant "Standard"]
+[TimeControl "30+0+1(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pe6 2. Pd4 Re8 3. Rd2 Pg6 4. Kf2 Pe5 5. Kg2 Pi6 6. Kh2 Bi7 7. Gg2 Bxe3+ 8. Gf2 He4 9. Sc2 Gc8 10. Sd3 Hf5 11. Ge3 Sd8 12. Pf4 He6 13. Gf3 Kd9 14. Pg4 Ph6 15. Sg2 Ph5 0-1
+
+
+[Event "Rated Bullet game"]
+[Site "https://lishogi.org/dMaE19UX"]
+[Date "2021.06.07"]
+[Sente "polunga"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.07"]
+[UTCTime "10:12:10"]
+[SenteElo "1500"]
+[GoteElo "1496"]
+[SenteRatingDiff "+170"]
+[GoteRatingDiff "-82"]
+[Variant "Standard"]
+[TimeControl "180+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pg6 2. Rd2 Pf6 3. Kf2 Rf8 4. Sg2 Kd8 5. Bc3 Kc8 6. Rb2 Kb8 7. Pb4 Gc8 8. Pb5 Gg8 9. Sd2 Bg7 10. Pg4 Rf7 11. Sg3 Sf8 12. Gg2 Pe6 13. Pb6 Pxb6 14. Rxb6 P*b7 15. Rxe6 Se7 16. Re5 Gd8 17. Rb5 Gc8 18. Pa4 Pc6 19. Pa5 Gc7 20. Pg5 Pxg5 21. Rxg5 Ph6 22. Pc5 Pxc5 23. Rxc5 P*c6 24. Rc4 Gd6 25. Rg4 Pc5 26. Sh4 Gh7 27. Sg5 Se6 28. P*g6 Bh8 29. Rh4 P*g7 30. Sxh6 Pxg6 31. Sxh7+ Bg9 32. Ag8 P*h7 33. Axg9 Rg7 34. Axh9 Se5 35. N*c6 Kc8 36. P*b8 Sxb8 37. B*e9 Sc7 38. G*d8 Sxd8 39. Bxd8+ 1-0
+
+
+[Event "Rated Bullet game"]
+[Site "https://lishogi.org/fvQmEWUR"]
+[Date "2021.06.07"]
+[Sente "YohaanSethNathan"]
+[Gote "Absylicus"]
+[Result "1-0"]
+[UTCDate "2021.06.07"]
+[UTCTime "10:05:58"]
+[SenteElo "1374"]
+[GoteElo "1500"]
+[SenteRatingDiff "+122"]
+[GoteRatingDiff "-224"]
+[Variant "Standard"]
+[TimeControl "15+1+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pe6 2. Pd4 Pf6 3. Rd2 Pg6 4. Kf2 Pf5 5. Kg2 Bxd4 6. Kh2 Bxe3+ 7. Re2 Hxe2 8. Gf1xe2 1-0
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/6yu3FHnx"]
+[Date "2021.06.07"]
+[Sente "YohaanSethNathan"]
+[Gote "Tepin"]
+[Result "0-1"]
+[UTCDate "2021.06.07"]
+[UTCTime "09:58:35"]
+[SenteElo "1298"]
+[GoteElo "1765"]
+[SenteRatingDiff "-14"]
+[GoteRatingDiff "+2"]
+[Variant "Standard"]
+[TimeControl "45+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pb6 2. Pd4 Pb5 3. Rd2 Pb4 4. Sc2 Pxb3+ 5. Sxb3 Rxb3+ 6. Gc1 Dxe3 7. Ge2 Db3 8. Rd3 Dxc4 9. Rc3 Db4 10. Rxc7+ Nxc7 11. P*c3 P*b3 12. Ge2d2 Pxb2+ 13. Gxb2 Dxb2 14. Gd3 Dxb1 15. Ke2 R*e1 16. Kd2 Dd1 0-1
+
+
+[Event "Eastern HyperRapid Arena"]
+[Site "https://lishogi.org/FkYs98Ew"]
+[Date "2021.06.07"]
+[Sente "YohaanSethNathan"]
+[Gote "Adamastor"]
+[Result "0-1"]
+[UTCDate "2021.06.07"]
+[UTCTime "08:10:19"]
+[SenteElo "1296"]
+[GoteElo "1459"]
+[SenteRatingDiff "-25"]
+[GoteRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pg6 2. Pd4 Bg7 3. Rd2 Rh8 4. Kf2 Ph6 5. Kg2 Ph5 6. Kh2 Ph4 7. Pxh4 Rxh4 8. P*h3 Rh8 9. Gg2 Kd8 10. Bc3 Sc8 11. Ge2 Gf9e8 12. Sc2 Pd6 13. Sd3 Gd7 14. Se4 Sf8 15. Gd3 Pf6 16. Pf4 Sf7 17. Pf5 Pxf5 18. Sxf5 P*f6 19. Se4 Kc9 20. P*f5 Pxf5 21. Sxf5 P*f6 22. Se4 Kb8 23. P*f5 Pxf5 24. Sxf5 P*f6 25. Se4 Pc6 26. P*f5 Pxf5 27. Sxf5 P*f6 28. Se4 Nc7 29. P*f5 Pxf5 30. Sxf5 P*f6 31. Se4 Pb6 32. Sf2 Sb7 33. P*f5 Pxf5 34. Sxf5 P*f6 35. Se4 Gc8 36. P*f5 Pxf5 37. Sxf5 P*f6 38. Se4 Pi6 39. Pi4 Li7 40. P*f5 Pxf5 41. Sxf5 P*f6 42. Se4 Ri8 43. P*f5 Pxf5 44. Sxf5 P*f6 45. Se4 Pg5 46. P*f5 Pxf5 47. Sxf5 P*f6 48. Se4 Sg6 49. Sf2f3 Pa6 50. Pg4 Pxg4 51. Sxg4 P*g5 52. Sg4f3 Sh5 53. P*g3 Pi5 54. Pxi5 P*i4 55. P*f5 Lxi5 56. Pxf6 Bxf6 57. P*f5 Pi3+ 58. Lxi3 Lxi3+ 59. Nxi3 Bg7 60. Nxh5 L*i9 61. Nxg7+ Ri2+ 62. Kg1 Nxg7 63. S*h1 Di1 64. B*h2 Nh5 65. Bxi1 Lxi1+ 66. R*i5 Uxh1 67. Kxh1 P*h6 68. Ri8+ Pg4 69. Sxg4 N*f4 70. Gf3 S*g2 71. Kh2 B*g1 72. Ki2 P*i3 73. Ki1 Sxf3= 74. Rh2 G*g2 75. Rxg2 Nxg2+ 76. G*h1 Mxh1 77. Kxh1 G*h2 0-1
+
+
+[Event "Rated Bullet game"]
+[Site "https://lishogi.org/22SZvH11"]
+[Date "2021.06.07"]
+[Sente "Mira_Konohata"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.07"]
+[UTCTime "07:48:03"]
+[SenteElo "2186"]
+[GoteElo "1379"]
+[SenteRatingDiff "+2"]
+[GoteRatingDiff "-5"]
+[Variant "Standard"]
+[TimeControl "15+1+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Pg6 2. Ph5 Sg8 3. Pc4 Bg7 4. Sf2 Pf6 5. Kd2 Rf8 6. Kc2 Kd8 7. Pe4 Kc8 8. Gf1e2 Kb8 9. Pa4 Gc8 10. Pa5 Pe6 11. Se3 Ge8 12. Bc3 Ge7 13. Kb2 Pd6 14. Pd4 Gc8d7 15. Gd3 Pc6 16. Sc2 Sc8 17. Pg4 Pf5 18. Rg2 Gf6 19. Pb4 Pe5 20. Pxe5 Gxe5 21. Pg5 Rf6 22. Pxg6 Bf8 23. Pd5 Pxd5 24. Bxe5 Bd6 25. Bxf6 Bxi1+ 26. R*g9 Hxh1 27. Bc9+ Kc7 28. Rxg8+ Hxg2 29. Hxc8 Kb6 30. S*b5 1-0
+
+
+[Event "Casual Standard game"]
+[Site "https://lishogi.org/WLejlQfg"]
+[Date "2021.06.06"]
+[Sente "lishogi AI level 8"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.06"]
+[UTCTime "15:28:57"]
+[SenteElo "?"]
+[GoteElo "1379"]
+[Variant "From Position"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+[FEN "k8/9/9/9/9/9/9/9/8K b - 1"]
+[SetUp "1"]
+
+1. Kh1 Kb9 2. Kg1 Kb8 3. Kf2 Kc9 4. Ke1 Kc8 5. Kf1 Kd9 6. Ke2 Ke8 7. Kf1 Kd7 8. Ke2 Ke6 9. Kd3 Kf7 10. Kc2 Ke8 11. Kd3 Kd7 12. Ke2 Ke8 13. Kf1 Kd7 14. Ke2 Ke8 15. Kf1 Kf7 16. Kf2 Kg6 17. Ke3 1-0
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/yhvVN0fv"]
+[Date "2021.06.06"]
+[Sente "YohaanSethNathan"]
+[Gote "YoBot_v2"]
+[Result "0-1"]
+[UTCDate "2021.06.06"]
+[UTCTime "12:09:09"]
+[SenteElo "1298"]
+[GoteElo "1899"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Gg8 2. Pd4 Pb6 3. Rd2 Pg6 4. Pe4 Pi6 5. Kf2 Pb5 6. Kg2 Sd8 7. Kh2 Pb4 8. Gg2 Pxb3+ 9. Bc3 P*b4 10. Bxb4 Txb4 11. Rc2 Bxd4 12. Rd2 Bxa1+ 13. Re2 Kf8 14. Re1 Hxb1 15. Re2 Txc4 16. Re1 B*b4 17. Re2 Bxa3+ 18. Re1 N*d3 19. Rf1 Nxc1+ 20. Rf2 Mxd1 21. Re2 Rb3+ 22. Re3 Dxe3 0-1
+
+
+[Event "Casual Blitz game"]
+[Site "https://lishogi.org/qMi1RF01"]
+[Date "2021.06.06"]
+[Sente "YohaanSethNathan"]
+[Gote "YoBot_v2"]
+[Result "0-1"]
+[UTCDate "2021.06.06"]
+[UTCTime "11:40:45"]
+[SenteElo "1223"]
+[GoteElo "1772"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "300+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Gg8 2. Pd4 Pg6 3. Rd2 Pi6 4. Kf2 Pi5 5. Kg2 Sd8 6. Kh2 Sf8 7. Gg2 Kf9 8. Bc3 Kg9 9. Gc2 Pe6 10. Gd3 Sd8e7 11. Pe4 Pa6 12. Re2 Pd6 13. Sb2 Bg7 14. Pa4 Ge8 15. Pb4 Pb6 16. Sb3 Pc6 17. Pf4 Nc7 18. Gf3 Pb5 19. Pg4 Pd5 20. Pxd5 Pxb4 21. Sxb4 Bxc3= 22. Gxc3 Nxd5 23. Gb3 B*d1 24. Rd2 Bxf3+ 25. Rxd5 P*d6 26. Rd3 Hxf4 27. B*g3 Hxe4 28. Rf3 Hxf3 29. N*e1 R*e2 30. P*f2 Hxg4 31. P*d3 Rxe1+ 32. Li2 Hxg3 33. Kxg3 Dxg1 34. B*g2 B*h2 35. Kf3 S*f4 36. Ke2 G*e3 0-1
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/kxbBTbC5"]
+[Date "2021.06.06"]
+[Sente "YohaanSethNathan"]
+[Gote "YoBot_v2"]
+[Result "0-1"]
+[UTCDate "2021.06.06"]
+[UTCTime "11:38:03"]
+[SenteElo "1298"]
+[GoteElo "1899"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Gg8 2. Pd4 Sd8 3. Rd2 Pi6 4. Pe4 Pb6 5. Kf2 Pi5 6. Kg2 Pb5 7. Rd3 Pb4 8. Sc2 Pxb3= 9. Gd2 Pxb2+ 10. Sc3 Txa1 11. Sb2 Rxb2+ 12. Gc2 Dxc2 13. Rd2 Dxd2 14. Gf2 S*f1 0-1
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/uQmW8d2J"]
+[Date "2021.06.05"]
+[Sente "YoBot_v2"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.05"]
+[UTCTime "11:12:19"]
+[SenteElo "1899"]
+[GoteElo "1298"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 Pg6 2. Pc4 Pf6 3. Sg2 Rf8 4. Kd2 Kd8 5. Pa4 Kc8 6. Pa5 Kb8 7. Kc2 Gc8 8. Gf1e2 Gg8 9. Pg4 Gg7 10. Pf4 Rf7 11. Sf3 Rf8 12. Se4 Rf7 13. Ng3 Rf8 14. Ph5 Rf7 15. Sd2 Rf8 16. Rh1 Rf7 17. Bc3 Rf8 18. Pf5 Rf7 19. Pxf6 Rxf6 20. Nf5 1-0
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/PJad6jqH"]
+[Date "2021.06.05"]
+[Sente "YohaanSethNathan"]
+[Gote "YoBot_v2"]
+[Result "0-1"]
+[UTCDate "2021.06.05"]
+[UTCTime "10:52:50"]
+[SenteElo "1298"]
+[GoteElo "1899"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Gg8 2. Pd4 Pg6 3. Rd2 Pi6 4. Pe4 Pi5 5. Kf2 Sd8 6. Kg2 Pb6 7. Gf2 Kf9 8. Rd3 Sf8 9. Rd2 Pb5 10. Rd3 Pb4 11. Rd2 Pxb3+ 12. Bc3 P*b4 13. Bxb4 Txb4 14. Rc2 Bxd4 15. Rd2 Bxa1+ 16. Rd4 Hxd4 17. Gd2 R*e1 18. Gd1 Rxd1+ 19. Sc2 Hxf2 0-1
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/Q8O5jKth"]
+[Date "2021.06.05"]
+[Sente "Fairy-Stockfish"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.05"]
+[UTCTime "09:49:49"]
+[SenteElo "1863"]
+[GoteElo "1298"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Pg6 2. Pc4 Pf6 3. Kd2 Rf8 4. Ph5 Kd8 5. Ph6 Kc8 6. Pxh7+ Kb8 7. Kc2 Sg8 8. Txh8 1-0
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/Jq4uE85j"]
+[Date "2021.06.05"]
+[Sente "YohaanSethNathan"]
+[Gote "Fairy-Stockfish"]
+[Result "0-1"]
+[UTCDate "2021.06.05"]
+[UTCTime "09:49:29"]
+[SenteElo "1298"]
+[GoteElo "1863"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Gg8 2. Pd4 Pb6 3. Rd2 Pb5 4. Pe4 Pb4 5. Rd3 Pxb3+ 6. Rxb3 Rxb3+ 7. Sc2 Dxb2 8. Gd2 R*c1 9. Ke2 Rxc2+ 10. Ke3 Dxd2 11. Kf4 B*e3 12. Kf5 G*g5 13. Ke5 Dxd4 0-1
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/yWvuojmV"]
+[Date "2021.06.05"]
+[Sente "Shogilearning"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.05"]
+[UTCTime "09:44:00"]
+[SenteElo "1635"]
+[GoteElo "1298"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Rc2 Pg6 2. Ph4 Pf6 3. Pg4 Rf8 4. Sf2 Pe6 5. Sg3 Gd9e8 6. Ke2 Pd6 7. Pe4 Pc6 8. Pf4 Pd5 9. Pd4 Ge7 10. Pc4 Pxd4 11. Kd2 Pc5 12. Pxc5 Pd3+ 13. Kxd3 Gd7 14. Ke3 Ge7 15. Rd2 Rd8 16. Rc2 Rxd1+ 17. Kf3 Dd8 18. Kg2 Ke8 19. Gf2 Ke9 20. Kh3 Ke8 21. Ph5 Ke9 22. Ki4 Ke8 23. Kh4 Ke9 24. Ki5 Dg8 25. Kh4 Pg5 26. Kh3 Pf5 27. Ki2 1-0
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/xiv9PnHK"]
+[Date "2021.06.05"]
+[Sente "YoBot_v2"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.05"]
+[UTCTime "07:25:19"]
+[SenteElo "1860"]
+[GoteElo "1298"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 Pg6 2. Pc4 Pf6 3. Gf1e2 Rf8 4. Pa4 Kd8 5. Pa5 Kc8 6. Kd2 Kb8 7. Sf2 Gc8 8. Pe4 Pc6 9. Kc2 Gc7 10. Pg4 Sc8 11. Ph5 Pd6 12. Ph6 La8 13. Pxh7+ Ka9 14. Txh8 Sxh8 15. Bxf6 Rxf6 16. Rxh8+ Gg9 17. Dxg9 1-0
+
+
+[Event "Daily HyperRapid Arena"]
+[Site "https://lishogi.org/DaANqnNS"]
+[Date "2021.06.04"]
+[Sente "YohaanSethNathan"]
+[Gote "verdura"]
+[Result "0-1"]
+[UTCDate "2021.06.04"]
+[UTCTime "16:00:52"]
+[SenteElo "1296"]
+[GoteElo "2185"]
+[SenteRatingDiff "+0"]
+[GoteRatingDiff "+0"]
+[Variant "Standard"]
+[TimeControl "600+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pg6 2. Pd4 Bg7 3. Rd2 Rh8 4. Kf2 Ph6 5. Kg2 Ph5 6. Kh2 Ph4 7. Gg2 Pxh3+ 8. Gxh3 P*h4 9. Gxh4 Rxh4 10. P*h3 Rh6 11. Sg2 Sf8 12. Gc2 Pg5 13. Bc3 Gc8 14. Gd3 Pi6 15. Pi4 Sd8 16. Pe4 Gg8 17. Re2 Pa6 18. Pa4 Rg6 19. Sd2 Pg4 20. Se3 Bh6 21. Pf4 Ng7 22. Rf2 Pf6 23. Rf3 Sf7 24. Pb4 G*g5 25. Gd2 Pf5 26. Gd3 Pxf4 27. Sxf4 Gxf4 28. Bd2 Gxf3 29. Bxh6 Pxg3+ 30. Sxg3 R*g2 31. Ki3 Rxh6 32. B*h4 Nh5 0-1
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/QGKJTFHo"]
+[Date "2021.06.04"]
+[Sente "Ready-to-lose"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.06.04"]
+[UTCTime "15:32:23"]
+[SenteElo "1715"]
+[GoteElo "1298"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pg6 2. Gf1e2 Pf6 3. Pe4 Rf8 4. Sd2 Pe6 5. Kf1 Ke8 6. Sf2 Gd8 7. Sf2e3 Kd9 8. Bc3 Kc8 9. Bd4 Kb8 10. Nc3 Gc8 11. Nb5 Pc6 12. Pe5 Gc7 13. Nxc7+ Kxc7 14. Pxe6 Pb6 15. Pe7+ Re8 0-1
+
+
+[Event "Eastern HyperRapid Arena"]
+[Site "https://lishogi.org/0GrqU2Re"]
+[Date "2021.06.04"]
+[Sente "NHHoan"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.06.04"]
+[UTCTime "08:00:45"]
+[SenteElo "1152"]
+[GoteElo "1264"]
+[SenteRatingDiff "-16"]
+[GoteRatingDiff "+32"]
+[Variant "Standard"]
+[TimeControl "600+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pg6 2. Bxh8+ Sxh8 3. Pc5 Pf6 4. Pc6 Pxc6 5. Pf4 Rf8 6. Rf2 Gf9e8 7. Pf5 Gf7 8. Pxf6 Gxf6 9. P*f5 Gxf5 10. Pg4 Gxg4 11. B*e5 B*g7 12. Bxa9+ Bxa1+ 13. Gc2 Hxb1 14. Gb2 Hxd3 15. Rxf8+ Kxf8 16. Hxb9 R*f7 17. Hxd7 Rxf1+ 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/8JAOYRaS"]
+[Date "2021.06.03"]
+[Sente "YoBot_v2"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.03"]
+[UTCTime "17:24:48"]
+[SenteElo "1840"]
+[GoteElo "1379"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Sf2 Pg6 2. Pe4 Pf6 3. Gc2 Rf8 4. Kd1 Gg8 5. Sd2 Bg7 6. Sf2e3 Kd8 7. Pc4 Kc8 8. Kc1 Kb8 9. Pe5 Gc8 10. Se4 Sd8 11. Pd4 Pd6 12. Pd5 Sd7 13. Pxd6 Sxd6 14. P*d5 Sxd5 15. Sxd5 Gd8 16. Se3 P*d6 17. Sxd6 P*d7 18. Sc5 Gc8 19. P*d6 Pxd6 20. Sxd6 Gd8 21. S*d7 Gxd7 22. Sxd7+ S*c8 23. Rd2 Sxd7 24. Rxd7+ S*c8 25. Dxe7 P*e8 26. Dd8 Pe7 27. S*c9 Ka8 28. G*b8 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/Z4TqU6UF"]
+[Date "2021.06.03"]
+[Sente "YohaanSethNathan"]
+[Gote "lishogi AI level 1"]
+[Result "1-0"]
+[UTCDate "2021.06.03"]
+[UTCTime "06:45:52"]
+[SenteElo "1379"]
+[GoteElo "?"]
+[Variant "Standard"]
+[TimeControl "0+0+10(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Gg8 2. Pd4 Pi6 3. Rd2 Pg6 4. Kf2 Pi5 5. Kg2 Kf9 6. Kh2 Sf8 7. Gg2 Ge9 8. Gc2 Pb6 9. Bc3 Pb5 10. Gd3 Pc6 11. Sc2 Pf6 12. Pf4 Sd8 13. Sf2 Pi4 14. Pxi4 Pe6 15. Sf3 Ph6 16. Pe4 Bg7 17. Pg4 Ph5 18. Gg3 Pc5 19. Pxc5 Pa6 20. Ph4 Pxh4 21. Gxh4 Pb4 22. Pxb4 Pf5 23. Pxf5 Pa5 24. Sf4 Sf7 25. Pe5 Pg5 26. Sxg5 Pxe5 27. Sf4 Se7 28. Ge3 Pe4 29. Gxe4 Re8 30. Sg5 P*c4 31. Bb2 Li8 32. Gf4 Pd6 33. Re2 Pd5 34. Pxd5 Bxb2+ 35. P*e6 Se7xe6 36. Ge4 B*f3 37. Re3 Hxc2 38. Rxf3 Hxe4 39. Rf2 Pc3+ 40. Re2 Hxd5 41. Pf6 Sd7 42. Pxf7+ Pa4 43. Rxe8+ Sxe8 44. B*g2 Hxg2 45. Kxg2 Sxf7 46. Gh5 P*g3 47. Kxg3 Ge8 48. R*f5 P*h4 49. Kxh4 S*i6 50. Gxi6 P*h5 51. Kxh5 Lxi6 52. Kxi6 Pxa3+ 53. B*h7 La8 54. Bxg8+ Kxg8 55. S*h7 Kf8 56. G*g7 Nxg7 57. Sf6 Nxf5 58. Sg6+ Sxf6 59. Axf6 P*i7 60. Kxi7 P*i8 61. Kh6 B*i9 62. Kg5 S*i7 63. Axf5 Sh6 64. Kf4 Sg5 65. Pxg5 La6 66. S*e6 Kf9 67. S*e7 Gxe7 68. Sxe7+ Be5 69. Kxe5 Kg9 70. G*f8 Kh8 71. S*g6 Kh9 72. Gf7 Td3 73. Af8 Pi7 74. Gg7 R*h7 75. Gxh7 Ki9 76. Ag8 La4 77. Ah8 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/mNaTtOHL"]
+[Date "2021.06.03"]
+[Sente "lishogi AI level 1"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.03"]
+[UTCTime "06:45:25"]
+[SenteElo "?"]
+[GoteElo "1379"]
+[Variant "Standard"]
+[TimeControl "0+0+10(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Pg6 2. Gc2 Pf6 3. Pi4 Rf8 4. Pc4 Kd8 5. Ph5 Kc8 6. Ph6 Pxh6 7. Rxh6 P*h7 8. Rxh7+ 1-0
+
+
+[Event "benjaminshuit simul"]
+[Site "https://lishogi.org/lWYXaPix"]
+[Date "2021.06.02"]
+[Sente "YohaanSethNathan"]
+[Gote "benjaminshuit"]
+[Result "0-1"]
+[UTCDate "2021.06.02"]
+[UTCTime "16:03:31"]
+[SenteElo "1322"]
+[GoteElo "1512"]
+[Variant "Standard"]
+[TimeControl "1200+5+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pg6 2. Pd4 Pf6 3. Rd2 Sf8 4. Kf2 Bg7 5. Kg2 Sf7 6. Kh2 Rh8 7. Gg2 Ph6 8. Gc2 Kd8 9. Bc3 Kc8 10. Pa4 Pa6 11. Pb4 Sb8 12. Sb2 Gd8 13. Sb3 Gf9e8 14. Sf2 Pc6 15. Pf4 Sc7 16. Sf3 Se6 17. Pe4 Pf5 18. Pxf5 Sxf5 19. P*f4 Se6 20. Gd3 Ph5 21. Re2 Ph4 22. Sg4 Pxh3+ 23. Sxh3 P*h4 24. Sg4 Pd6 25. P*h3 Pxh3+ 26. Sxh3 Pd5 27. P*h4 Pxd4 28. Gxd4 P*d5 29. Gd3 Bxc3+ 30. Gxc3 Pd4 31. Gxd4 B*d1 32. B*g9 Rg8 33. Rd2 Bxb3+ 34. Ra2 Hxa2 35. Lxa2 R*d2 36. B*d3 Rxg9 37. La3 S*f3 38. Pi4 Sxg2+ 39. Sxg2 G*f2 40. S*h3 B*g1 41. Ki2 Gxg2 42. Sxg2 Rxg2+ 43. G*h2 Bxh2+ 0-1
+
+
+[Event "Daily HyperRapid Arena"]
+[Site "https://lishogi.org/AScQyyQ1"]
+[Date "2021.06.01"]
+[Sente "YohaanSethNathan"]
+[Gote "sudenona"]
+[Result "0-1"]
+[UTCDate "2021.06.01"]
+[UTCTime "17:39:29"]
+[SenteElo "1268"]
+[GoteElo "1880"]
+[SenteRatingDiff "-4"]
+[GoteRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "600+0+0(1)"]
+[ECO "?"]
+[Termination "Abandoned"]
+
+ 0-1
+
+
+[Event "Daily HyperRapid Arena"]
+[Site "https://lishogi.org/CQDxzBqS"]
+[Date "2021.06.01"]
+[Sente "KillerDucky"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.06.01"]
+[UTCTime "17:26:32"]
+[SenteElo "1770"]
+[GoteElo "1274"]
+[SenteRatingDiff "+1"]
+[GoteRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pg6 2. Pd4 Pf6 3. Rc2 Rf8 4. Pc5 Kd8 5. Pc6 Pxc6 6. Rxc6 P*c7 7. Rc4 Kc8 8. Kf2 Kb8 9. Pd5 Gc8 10. Kg2 Gg8 11. Gd1e2 Bg7 12. Sd2 Pi6 13. Sd3 Sd8 14. Pa4 Pa6 15. Sd4 Pe6 16. Sc5 Rf7 17. Pd6 Sf8 18. Pxd7+ Sxd7 19. P*d6 Sc6 20. Sxc6 Pxc6 21. Rxc6 P*c7 22. Rc4 Se9 23. Nc3 Sd8 24. Ba3 Gf8 25. La2 Ge7 26. Nd5 Ge8 27. S*d9 Gf8 28. Sxc8+ Kxc8 29. P*c6 Pxc6 30. P*c7 Sxc7 31. G*d7 Kb8 32. Nxc7+ Nxc7 33. Rxc6 S*b6 34. Gd8 S*b5 35. Rxb6 Pxb6 36. Pd7+ Sc6 37. Gc8 Kb7 38. Txc7 Ka7 39. S*b8 Ka8 40. S*b9 1-0
+
+
+[Event "Daily HyperRapid Arena"]
+[Site "https://lishogi.org/IdhLTRNz"]
+[Date "2021.06.01"]
+[Sente "BOKLUSHOGI"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.06.01"]
+[UTCTime "16:37:58"]
+[SenteElo "1098"]
+[GoteElo "1241"]
+[SenteRatingDiff "-31"]
+[GoteRatingDiff "+33"]
+[Variant "Standard"]
+[TimeControl "600+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pe4 Pg6 2. Pf4 Pf6 3. Pg4 Rf8 4. Ke2 Pf5 5. Kf3 Pxf4 6. Kg3 Pf3+ 7. Kh4 Tg3 8. Rd2 Rxf1+ 9. Sg2 Dxg2 10. Nxg3 G*g5 11. Ki5 S*i6 12. Ki4 Dxg3 13. Ph4 N*h6 0-1
+
+
+[Event "Daily HyperRapid Arena"]
+[Site "https://lishogi.org/F4XrJYkk"]
+[Date "2021.06.01"]
+[Sente "YohaanSethNathan"]
+[Gote "lishog"]
+[Result "1-0"]
+[UTCDate "2021.06.01"]
+[UTCTime "16:36:29"]
+[SenteElo "1211"]
+[GoteElo "1026"]
+[SenteRatingDiff "+30"]
+[GoteRatingDiff "-93"]
+[Variant "Standard"]
+[TimeControl "600+0+0(1)"]
+[ECO "?"]
+[Termination "Abandoned"]
+
+1. Pc4 1-0
+
+
+[Event "Monthly Rapid Arena"]
+[Site "https://lishogi.org/YbZG1zgE"]
+[Date "2021.05.31"]
+[Sente "Rain_Rain_Rain"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.05.31"]
+[UTCTime "19:37:19"]
+[SenteElo "2260"]
+[GoteElo "1223"]
+[SenteRatingDiff "+1"]
+[GoteRatingDiff "+0"]
+[Variant "Standard"]
+[TimeControl "300+0+10(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pg6 2. Ph4 Pf6 3. Ph5 Bg7 4. Pg4 Rf8 5. Sf2 Sg8 6. Kd2 Kd8 7. Kc2 Kc8 8. Gf1e2 Kb8 9. Pa4 Gc8 10. Pb4 Pa6 11. Kb3 Ge8 12. Pe4 Pe6 13. Se3 Ge7 14. Sc2 Pd6 15. Sd4 Pc6 16. Bc1 Gc7 17. Sd4c3 Sc8 18. Pd4 Rf7 19. Gd3 Ge7d7 20. Ka2 Sd9 21. Sb3 Sc8 22. Gc2 Pb6 23. Kb2 Ka8 24. La2 Sb7 25. Ka1 Kb8 26. Pi4 Pi6 27. Sb2 Sc8 28. Ng3 Sb7 29. Ph6 Pxh6 30. Bxh6 Bxh6 31. Rxh6 P*h7 32. Rxg6 B*f9 33. Rg5 Rg7 34. P*h8 Rxg5 35. Pxg5 Ni7 36. Ph9+ Sxh9 37. R*f8 R*c8 38. Rxf9+ Rc9 39. Dxc9 Kxc9 40. R*g9 R*d9 41. Rxd9+ Kxd9 42. R*g9 R*e9 43. B*f7 Kd8 44. Rxe9+ Kxe9 45. R*d9 Kf8 46. Bxh9+ R*f9 47. S*f7 Ke7 48. B*c9 Gd8 49. Rxd8+ 1-0
+
+
+[Event "Monthly Rapid Arena"]
+[Site "https://lishogi.org/HxeV3QAR"]
+[Date "2021.05.31"]
+[Sente "Voldy"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.05.31"]
+[UTCTime "19:27:55"]
+[SenteElo "1592"]
+[GoteElo "1242"]
+[SenteRatingDiff "+2"]
+[GoteRatingDiff "-19"]
+[Variant "Standard"]
+[TimeControl "300+0+10(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Pg6 2. Ph5 Bg7 3. Sg2 Pf6 4. Sh3 Rf8 5. Sh4 Pi6 6. Gf1e2 Gg8 7. Pc4 Kd8 8. Gc2 Kc8 9. Kd1 Kb8 10. Pg4 Gc8 11. Pg5 Pxg5 12. Sxg5 P*g6 13. Sxg6 Bi5 14. Pi4 Bg7 15. Sxg7+ Gxg7 16. Sd2 Sh8 17. Pe4 Pd6 18. Se3 Gd7 19. Sf4 Pe6 20. Pd4 Sc8 21. Pd5 Pxd5 22. Nc3 S*d6 23. Gc2d3 P*g6 24. Kc2 Pf5 25. Se3 Pe5 26. Pxe5 Sd9 27. Se4 Sc8 28. Nxd5 Sxd5 29. Sxd5 N*e7 30. P*d6 Gd8 31. Se6 Sg9 32. S*e9 Re8 33. Sxd8+ Rxd8 34. Sxe7= Rd7 35. Pxd7+ Sxd7 36. Sd8+ Sc8 37. B*c9 Ka8 38. R*b8 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/TzFYK3RJ"]
+[Date "2021.05.31"]
+[Sente "Fairy-Stockfish"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.05.31"]
+[UTCTime "18:22:13"]
+[SenteElo "1962"]
+[GoteElo "1379"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 Pg6 2. Pc4 Pf6 3. Kd2 Rf8 4. Pa4 Kd8 5. Pa5 Kc8 6. Gf1e2 Kb8 7. Bc3 Bg7 8. Sf2 Gg8 9. Pe4 Gc8 10. Ph5 Sh8 11. Se3 Sd8 12. Kc2 Sc9 13. Kb2 Sd8 14. Pd4 Sc9 15. La2 Sd8 16. Ka1 Sc9 17. Sb2 Sd8 18. Pg4 Sc9 19. Pd5 Sd8 20. Pe5 Rf7 21. Pi4 Rf8 22. Gd3 Rf7 23. Pg5 Pxg5 24. Sf4 Pg4 25. Rh4 Bi5 26. Pxi5 Pg3+ 27. Nxg3 Rg7 28. Pe6 Pxe6 29. Bxf6 Gf7 30. Bxg7= Gxg7 31. Nf5 B*f7 32. R*f9 Gg8 33. B*b4 Gg7 34. Nxg7+ 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/wr9tCekG"]
+[Date "2021.05.31"]
+[Sente "YohaanSethNathan"]
+[Gote "Fairy-Stockfish"]
+[Result "0-1"]
+[UTCDate "2021.05.31"]
+[UTCTime "18:20:25"]
+[SenteElo "1379"]
+[GoteElo "1962"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Gg8 2. Pd4 Pg6 3. Rd2 Pi6 4. Kf2 Pi5 5. Kg2 Sd8 6. Kh2 Pe6 7. Gg2 Kf9 8. Gc2 Sf8 9. Bc3 Sd8e7 10. Sb2 Kg9 11. Gd3 Pc6 12. Pe4 Pf6 13. Re2 Ge8 14. Sf2 Bg7 15. Pf4 Kh8 16. Sf3 Pd6 17. Re3 Sf7 18. Re2 Rd8 19. Re3 Pd5 20. Pxd5 Nc7 21. Pd6 Nd5 22. Re2 Nxc3= 23. Sxc3 Rxd6 24. Re3 B*c2 25. Gd4 Bxb1+ 26. Se2 Hxa1 27. Sd3 Hxc3 28. Se2 Hxd4 29. Rd3 Hxd3 30. Sxd3 R*a2 31. Sd4 S*f1 32. Ki2 N*h4 33. Kh2 Rxg2+ 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/VOFcuDxl"]
+[Date "2021.05.31"]
+[Sente "Fairy-Stockfish"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.05.31"]
+[UTCTime "18:18:22"]
+[SenteElo "1962"]
+[GoteElo "1379"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Pg6 2. Pc4 Pf6 3. Sf2 Rf8 4. Sc2 Kd8 5. Pa4 Kc8 6. Pa5 Kb8 7. Kd2 Gg8 8. Pe4 Bg7 9. Gf1e2 Ge8 10. Se3 Gd8 11. Pg4 Sc8 12. Kc1 Pi6 13. Bc3 Pc6 14. Kb2 Sc7 15. Pd4 Pb6 16. Ph5 Pd6 17. Pg5 Pxg5 18. Sf4 Pg4 19. Rg2 Pg3+ 20. Rxg3 Gd7 21. Sg5 P*g6 22. Sxg6 Bh8 23. Ph6 Pxh6 24. P*h7 Gg7 25. Pxh8= Rxh8 26. Sxg7+ Rd8 27. Af7 Rc8 28. Rxg9+ Ng7 29. B*d9 Rc9 30. S*b7 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/cfgsYy26"]
+[Date "2021.05.31"]
+[Sente "YohaanSethNathan"]
+[Gote "YoBot_v2"]
+[Result "0-1"]
+[UTCDate "2021.05.31"]
+[UTCTime "18:13:40"]
+[SenteElo "1379"]
+[GoteElo "1840"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pg6 2. Pd4 Gg8 3. Rd2 Sd8 4. Bc3 Pe6 5. Kf2 Sf8 6. Kg2 Pi6 7. Kh2 Sd8e7 8. Ph4 Bf6 9. Gc2 Bxh4 10. Sg2 Ng7 11. Gf2 Kf9 12. Kh3 Bg5 13. Pg4 Bf6 14. Sg3 Nh5 15. Kg2 Nxg3+ 16. Kxg3 S*e1 17. Gg2 Sxd2= 18. Bxd2 R*d1 19. Pe4 Rxh1+ 20. Gf2 Bh4 21. Kf4 Bxf2+ 22. Bc3 Dg2 23. Bd2 Dxf3 0-1
+
+
+[Event "Eastern Blitz Arena"]
+[Site "https://lishogi.org/XsRsbRqa"]
+[Date "2021.05.31"]
+[Sente "YohaanSethNathan"]
+[Gote "BOKLUSHOGI"]
+[Result "1-0"]
+[UTCDate "2021.05.31"]
+[UTCTime "07:35:46"]
+[SenteElo "1144"]
+[GoteElo "1325"]
+[SenteRatingDiff "+98"]
+[GoteRatingDiff "-148"]
+[Variant "Standard"]
+[TimeControl "480+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pd6 2. Pd4 Pe6 3. Rd2 Pc6 4. Kf2 Pc5 5. Pxc5 Pd5 6. Pxd5 Pb6 7. Pd6 Pb5 8. Pd7+ Gd8 9. Txd8 Kf8 10. Txc9 Rb7 11. S*c8 Nc7 12. Sxb7+ Pa6 13. Axc7 Pa5 14. Rd8+ Ge8 15. Dd9 Pb4 16. Ad7 Pxb3+ 17. Axe8 Kg8 18. Df9 1-0
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/DT39CjOE"]
+[Date "2021.05.29"]
+[Sente "dugong161"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.05.29"]
+[UTCTime "19:30:53"]
+[SenteElo "1927"]
+[GoteElo "1305"]
+[SenteRatingDiff "+2"]
+[GoteRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "45+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 Pg6 2. Ph5 Bg7 3. Sg2 Ph6 4. Pxh6 Bxh6 5. Gf1e2 P*h7 6. Sh3 Pg5 7. Sh4 Bg7 8. Sxg5 Be5 9. Pe4 Bg7 10. Sg6 Bf8 11. Sxh7+ Bi5 12. Pi4 Bf8 13. Ah8 Sg8 14. Axi9 Gg9 15. P*h8 Gxh8 16. Rxh8+ P*g7 17. Axh9 Ge8 18. Ag9 Bxg9 19. Dxg9 Kd8 20. Dxg8 S*f8 21. Df9 Se9 22. S*g8 Gf8 23. Dh9 Ge8 24. Sg9+ Gf8 25. Ag8 Ge8 26. Af9 1-0
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/gtUXYkR6"]
+[Date "2021.05.29"]
+[Sente "YohaanSethNathan"]
+[Gote "dugong161"]
+[Result "0-1"]
+[UTCDate "2021.05.29"]
+[UTCTime "19:29:49"]
+[SenteElo "1312"]
+[GoteElo "1925"]
+[SenteRatingDiff "-7"]
+[GoteRatingDiff "+2"]
+[Variant "Standard"]
+[TimeControl "45+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pb6 2. Bc3 Pb5 3. Pd4 Sc8 4. Pb4 Pxb4 5. Bxb4 Gd9e8 6. P*b3 Sb7 7. Pd5 Sb6 8. Bc3 Sb5 9. Sb2 Sxc4 10. Be5 Pe6 11. Bxc7+ Nxc7 12. P*c3 Sxb3+ 13. Sxb3 Rxb3+ 14. S*c4 Dxb1 15. Sc5 Dxa1 16. Sc6 Nb5 17. Sc7+ Nxc3+ 18. Ad8 Kxd8 19. Pd6 Pxd6 20. Ke2 S*d3 21. Kf2 Dxd1 22. Ge2 Dxe2 0-1
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/UocAPYvg"]
+[Date "2021.05.29"]
+[Sente "dugong161"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.05.29"]
+[UTCTime "19:28:47"]
+[SenteElo "1923"]
+[GoteElo "1321"]
+[SenteRatingDiff "+2"]
+[GoteRatingDiff "-9"]
+[Variant "Standard"]
+[TimeControl "45+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 Pg6 2. Ph5 Bg7 3. Sg2 Ph6 4. Sh3 Pxh5 5. Sg4 Bh6 6. Gf1e2 Pg5 7. Sxh5 Bg7 8. Sh6 Bf8 9. Sh7+ P*h6 10. Axh6 Bxh6 11. Rxh6 S*h8 12. Pc4 1-0
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/u1IM14K7"]
+[Date "2021.05.29"]
+[Sente "YohaanSethNathan"]
+[Gote "dugong161"]
+[Result "0-1"]
+[UTCDate "2021.05.29"]
+[UTCTime "19:27:30"]
+[SenteElo "1330"]
+[GoteElo "1921"]
+[SenteRatingDiff "-9"]
+[GoteRatingDiff "+2"]
+[Variant "Standard"]
+[TimeControl "45+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pb6 2. Pd4 Pb5 3. Bc3 Sc8 4. Rd2 Sb7 5. Gf1e2 Sb6 6. Pb4 Pc6 7. Pxb5 Sxb5 8. P*b4 Sxb4 9. Bxb4 Rxb4 10. Rb2 Rxb2+ 11. Sxb2 P*b3 12. Sxb3 R*b8 13. R*b4 P*b5 14. Ra4 Pa6 15. Sb4 Pa5 16. Rxa5 Lxa5 17. Sxa5 Pb4 18. Sxb4 Rxb4 19. P*b3 Rxb3+ 20. Gd3 Dxb1 21. Kf2 Dxa1 22. Kg2 Dxd1 23. Sf2 Dxd3 24. Ph4 De2 25. Kh3 B*f1 26. Kg4 Dxf2 0-1
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/aeisp8zV"]
+[Date "2021.05.29"]
+[Sente "dugong161"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.05.29"]
+[UTCTime "19:26:14"]
+[SenteElo "1919"]
+[GoteElo "1340"]
+[SenteRatingDiff "+2"]
+[GoteRatingDiff "-10"]
+[Variant "Standard"]
+[TimeControl "45+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Pg6 2. Ph5 Bg7 3. Sg2 Pf6 4. Sh3 Rf8 5. Sh4 Pe6 6. Pg4 Gd9e8 7. Pg5 Ge7 8. Pxg6 Pd6 9. Pxg7+ Rd8 10. Txh7 Pd5 11. Pc4 Pd4 12. Pxd4 Pe5 13. Sd2 Ge6 14. Gd1e2 Gf5 15. Gf1f2 Pe4 16. Pxe4 Gxe4 17. Se3 Gxd4 18. Sxd4 Pc6 19. Se5 Sc8 20. Sxf6 Rf8 21. P*g6 Rxf6 22. Bxf6 Sd7 23. Bxi9+ Ke8 24. Hxh9 Gf8 25. Th8 Gf9 26. Txg9 Gxg9 27. Hxg9 S*f8 28. G*e7 Kxe7 29. R*e4 Kf7 30. S*g8 Kxg6 31. G*g5 Kg7 32. B*f6 1-0
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/DEumIzQX"]
+[Date "2021.05.29"]
+[Sente "YohaanSethNathan"]
+[Gote "dugong161"]
+[Result "0-1"]
+[UTCDate "2021.05.29"]
+[UTCTime "19:24:36"]
+[SenteElo "1351"]
+[GoteElo "1917"]
+[SenteRatingDiff "-11"]
+[GoteRatingDiff "+2"]
+[Variant "Standard"]
+[TimeControl "45+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pb6 2. Pd4 Pb5 3. Bc3 Pb4 4. Pxb4 Sc8 5. Rd2 Sb7 6. Pd5 Sb6 7. Be5 Gd8 8. Bc3 Pc6 9. Rd4 Pc5 10. Pxc5 Sxc5 11. Rf4 Sf8 12. Be5 Nc7 13. Bb2 Sxb4 14. Pe4 Sb3+ 15. Bd4 Pe6 16. Bxa7+ Lxa7 17. Pe5 Pxe5 18. Rc4 Nxd5 19. Rd4 Nc3+ 20. Rg4 Mb2 21. Pf4 Mxc1 22. Pf5 Mxd1 23. Kf2 Ac2 24. Kf3 Rb3+ 25. Kf4 Pe4 26. Kg5 Pe3+ 27. Kh4 Te4 28. Rxe4 Gf9e8 29. Rg4 Kf9 30. Kh5 Kg8 31. Kh4 Pf6 0-1
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/EfBM65uj"]
+[Date "2021.05.29"]
+[Sente "dugong161"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.05.29"]
+[UTCTime "19:23:55"]
+[SenteElo "1914"]
+[GoteElo "1365"]
+[SenteRatingDiff "+3"]
+[GoteRatingDiff "-14"]
+[Variant "Standard"]
+[TimeControl "45+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Pb6 2. Ph5 Gg8 3. Ph6 Pg6 4. Pxh7+ Gxh7 5. Rxh7+ Bxc3+ 6. Bxc3 P*h8 7. Dh2 Ph7 8. Dxh7 Sg8 9. Dh8 Rf8 10. Dxi9 Sg7 11. Dxh9 Ke8 12. Bxg7+ Rf9 13. Dxf9 Kxf9 14. G*f8 1-0
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/3zfTAfvB"]
+[Date "2021.05.29"]
+[Sente "YohaanSethNathan"]
+[Gote "dugong161"]
+[Result "0-1"]
+[UTCDate "2021.05.29"]
+[UTCTime "19:22:24"]
+[SenteElo "1381"]
+[GoteElo "1911"]
+[SenteRatingDiff "-16"]
+[GoteRatingDiff "+3"]
+[Variant "Standard"]
+[TimeControl "45+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pb6 2. Pd4 Pb5 3. Bc3 Pb4 4. Pxb4 Sc8 5. Rd2 Sb7 6. Pe4 Sb6 7. Kf2 Pa6 8. Kg2 Pa5 9. Kh2 Sa7 10. Gf2 Pc6 11. Ge3 Sb6 12. Pd5 Pc5 13. Be5 Nc7 14. Bxc7+ Sxc7 15. Pd6 Pxd6 16. Pe5 Gd8 17. Ge4 Gd7 18. P*d5 Ge8 19. Pxd6 Sxd6 20. Gd4 Gc6 21. Gxc5 Sxc5 22. Pxc5 Gxc5 23. Rc2 Gxb4 24. Rc7+ G*c8 25. S*d8 Ge8xd8 26. Dc5 Gb3 27. Dd4 B*b2 28. N*d7 Gd8xd7 29. Pe6 Bxd4+ 30. Pxe7+ P*e8 31. Txe8 Kxe8 32. P*e7 Kxe7 33. P*e6 Kf8 34. Pe7+ Gxe7 0-1
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/z9dWa7RZ"]
+[Date "2021.05.29"]
+[Sente "dugong161"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.05.29"]
+[UTCTime "19:21:44"]
+[SenteElo "1908"]
+[GoteElo "1400"]
+[SenteRatingDiff "+3"]
+[GoteRatingDiff "-19"]
+[Variant "Standard"]
+[TimeControl "45+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Pg6 2. Ph5 Pf6 3. Ph6 Sg8 4. Pxh7+ Sxh7 5. Rxh7+ Rg8 6. P*h6 Bg7 7. Dxg8 Gxg8 8. S*h7 Bxh6 9. Sxg8+ Bxe3+ 10. Gf1e2 Hg5 11. R*f9 Ke8 12. Rf8+ 1-0
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/Nvp4cZPy"]
+[Date "2021.05.29"]
+[Sente "YohaanSethNathan"]
+[Gote "dugong161"]
+[Result "0-1"]
+[UTCDate "2021.05.29"]
+[UTCTime "19:20:27"]
+[SenteElo "1426"]
+[GoteElo "1904"]
+[SenteRatingDiff "-26"]
+[GoteRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "45+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pg6 2. Pd4 Bxd4 3. Rd2 Bxb2+ 4. Rxb2 Pb6 5. Pb4 Pb5 6. Pxb5 Sc8 7. Pb6 Sb7 8. Pxb7+ Rd8 9. Tb8 Pc6 10. Txb9 Gf9e8 11. Rb8+ Kf8 12. Dc9 Gxc9 13. Txc9 B*b8 14. Tc8 Rxc8 15. B*e4 Pc5 16. Bb7+ Pxc4 17. Hxc8 Gd8 18. Hxb8 Gc8 19. Hxc8 Pc3+ 20. Hxd7 Td2 21. Kxd2 R*d9 22. G*e8 Kg8 23. Gxd9 Kg7 24. He8 Kh6 25. Hxf7 Sg8 26. Hxg8 Ng7 27. Ph4 Pi6 28. S*h5 Kg5 29. S*g4 Kxh4 0-1
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/DWiE3oZn"]
+[Date "2021.05.29"]
+[Sente "dugong161"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.05.29"]
+[UTCTime "19:18:49"]
+[SenteElo "1900"]
+[GoteElo "1462"]
+[SenteRatingDiff "+4"]
+[GoteRatingDiff "-36"]
+[Variant "Standard"]
+[TimeControl "45+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Pg6 2. Ph5 Pf6 3. Sg2 Rf8 4. Sh3 Bg7 5. Sh4 Sh8 6. Pg4 Kd8 7. Pg5 Kc8 8. Pxg6 Kb8 9. Pxg7+ Sxg7 10. Sg5 Gd9e8 11. P*g6 Sd8 12. Pxg7+ Ri8 13. Txh7 Rf8 14. Sg6 Pf5 15. P*g7 Pf4 16. Pxf4 Rxf4 17. Pg8+ Gxg8 18. Txg8 Rf3+ 19. Gf2 Df4 20. P*f3 Dg4 21. Rg2 Dxg2 22. Gxg2 P*g7 23. Sxg7+ P*f7 24. Af8 Pe6 25. Axe8 Se7 26. Axe7 Pc6 27. Axd7 Nc7 28. R*d8 Kc9 29. Rc8+ 1-0
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/BaNqDVog"]
+[Date "2021.05.29"]
+[Sente "lishogi AI level 8"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.05.29"]
+[UTCTime "19:05:58"]
+[SenteElo "?"]
+[GoteElo "1462"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 Pg6 2. Pc4 Pf6 3. Kd2 Rf8 4. Pa4 Pe6 5. Pa5 Gd8 6. Sf2 Pb6 7. Ph5 Pc6 8. Ph6 Pd6 9. Pxh7+ Bg7 0-1
+
+
+[Event "Nanakawa Arena"]
+[Site "https://lishogi.org/4TYJYpIf"]
+[Date "2021.05.29"]
+[Sente "kisy"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.05.29"]
+[UTCTime "11:20:45"]
+[SenteElo "1500"]
+[GoteElo "1116"]
+[Variant "Standard"]
+[TimeControl "300+5+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pe4 Pf6 2. Re2 Gf9e8 3. Sd2 Pg6 4. Se3 Gf7 5. Pe5 Rf8 6. Se4 Kd8 7. Pa4 Kc8 8. Kf2 Kb8 9. Kg2 Gc8 10. Kh2 Sd8 11. Ba3 Re8 12. Sg2 Sg8 13. Sd5 Pa6 14. Bb4 Pi6 15. Pa5 Pxa5 16. Lxa5 Lxa5 17. Bxa5 Kc9 18. Bb4 P*a7 19. L*e4 L*b6 20. Bc5 Lxb3+ 21. Pe6 Kb8 22. Pxe7+ Sxe7 23. Lxe7+ Gxe7 24. Bxe7+ Gd8 25. Hxe8 Gxe8 26. Rxe8+ B*c8 27. S*c9 Kxc9 28. G*d8 Kb8 29. Gxc8 Ka9 30. Gb8 1-0
+
+
+[Event "Nanakawa Arena"]
+[Site "https://lishogi.org/4hEmDcU8"]
+[Date "2021.05.29"]
+[Sente "YohaanSethNathan"]
+[Gote "Luis"]
+[Result "1-0"]
+[UTCDate "2021.05.29"]
+[UTCTime "11:00:02"]
+[SenteElo "1116"]
+[GoteElo "1277"]
+[Variant "Standard"]
+[TimeControl "300+5+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pg6 2. Pd4 Pf6 3. Rd2 Rg8 4. Kf2 Kd8 5. Kg2 Sf8 6. Kh2 Sg7 7. Gg2 Sh6 8. Gc2 Kc8 9. Sf2 Kb8 10. Gc3 Gc8 11. Rd3 Pg5 12. Pf4 Sh5 13. Sf3 Ng7 14. Sd2 Pf5 15. Pxf5 Nxf5 16. Sf4 Nxg3+ 17. Sxg3 Pg4 18. Sf4 Rf8 19. Gf3 Pg3+ 20. Nxg3 Rg8 21. Pe4 P*g4 22. Nxh5 Ph6 23. Sf5 Rf8 24. Sxg4 P*f4 25. Gg3 Pxh5 26. P*g5 Gg8 27. Se3 N*f5 28. Sxf5 Rxf5 29. S*g4 Rf6 30. Sxf4 S*f2 31. Sf4f5 Rb6 32. Gg2 Sf1= 33. Gg1 Se2= 34. Rg3 Se1= 35. Rg2 Sd2= 36. Rxd2 Gg7 37. Pa4 Gf6 38. Sxf6 Rxf6 39. G*f5 S*e1 40. Re2 Rd6 41. Rxe1 Bxd4 42. Gxd4 Rxd4 43. Bxd4 G*b2 44. Bxb2 Pi6 45. Bxi9+ Pi5 46. Sxh5 Pa6 47. Rd1 Pe6 48. Gxe6 Pi4 49. Pxi4 La8 50. Gxd7 Gxd7 51. Rxd7+ Sc8 52. Dg7 G*c2 53. R*f8 Gxb1 54. Dg8 Ka7 55. Rxc8+ Kb6 56. Dxb9 Pa5 57. Dg8xa8 Pxa4 58. Dxa4 Kc6 59. Db4 Kd5 60. He5 Kc6 61. Db9xb7 Kd7 62. Dxc7 Ke8 63. Db4b8 Kf9 64. Dc7c9 P*e9 65. Hg7 Kg9 66. Dxe9 P*f9 67. Hh7 N*i9 68. Dxf9 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/CO1CLpXi"]
+[Date "2021.05.28"]
+[Sente "YohaanSethNathan"]
+[Gote "omar3056"]
+[Result "1-0"]
+[UTCDate "2021.05.28"]
+[UTCTime "18:31:23"]
+[SenteElo "1379"]
+[GoteElo "1500"]
+[Variant "Standard"]
+[TimeControl "180+0+2(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pf6 2. Pd4 Pf5 3. Rd2 Pg6 4. Kf2 Be5 5. Kg2 Bd6 6. Kh2 Bxg3+ 7. Kxg3 Pg5 8. Kh2 Pg4 9. Gg2 Pg3+ 10. Gxg3 P*g5 11. Pd5 Pf4 12. Gxf4 Pg4 13. Gxg4 Rf8 14. Gg3 Rf5 15. Pf4 Ri5 16. Bf6 Pe6 17. Be7+ Pd6 18. Hxd6 Pe5 19. He6 Pe4 20. Pxe4 Ph6 21. Pd6 Ph5 22. Pd7+ Ph4 23. Pxh4 Ra5 24. Te7 Ri5 25. Hxh9 Sg8 26. Hxi9 Pi6 27. Hf6 Pc6 28. Rd7+ Pc5 29. B*f8 Gxf8 30. Te8 Gd9xe8 31. Dd5 Ge8e7 32. Dxi5 1-0
+
+
+[Event "Daily Rapid Arena"]
+[Site "https://lishogi.org/w5NHqD84"]
+[Date "2021.05.28"]
+[Sente "YohaanSethNathan"]
+[Gote "Luis"]
+[Result "1-0"]
+[UTCDate "2021.05.28"]
+[UTCTime "18:28:07"]
+[SenteElo "1110"]
+[GoteElo "1283"]
+[SenteRatingDiff "+101"]
+[GoteRatingDiff "-7"]
+[Variant "Standard"]
+[TimeControl "600+0+10(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pg6 2. Pd4 Pf6 3. Rd2 Rg8 4. Gc2 Kd8 5. Kf2 Kc8 6. Kg2 Kb8 7. Kh2 Gc8 8. Gg2 Pa6 9. Gc3 Sf8 10. Pe4 Gg9 11. Sc2 Sg7 12. Sd3 Sh6 13. Pi4 Pg5 14. Pf4 Sh5 15. Rf2 Gf8 16. Rf3 Gf7 17. Ni3 Gg6 18. Nxh5 Gh6 19. Ph4 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/JmNFQBWT"]
+[Date "2021.05.28"]
+[Sente "omar3056"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.05.28"]
+[UTCTime "18:25:47"]
+[SenteElo "1500"]
+[GoteElo "1379"]
+[Variant "Standard"]
+[TimeControl "180+0+2(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pd4 Pg6 2. Pd5 Gd8 3. Pc4 Pf6 4. Pb4 Gg8 5. Pc5 Sc8 6. Pe4 Gf7 7. Pe5 Pe6 8. Pxe6 Gxe6 9. Bc3 Gxd5 10. Bd2 Gxc5 11. Bf4 Gxb4 12. Pg4 Pf5 13. Bg3 Ge7 14. Bi5 Sf8 15. Pa4 Pa6 16. Pa5 Pxa5 17. Lxa5 1-0
+
+
+[Event "Daily HyperRapid Arena"]
+[Site "https://lishogi.org/gpXWo6HB"]
+[Date "2021.05.28"]
+[Sente "Carbon"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.05.28"]
+[UTCTime "18:10:36"]
+[SenteElo "1784"]
+[GoteElo "1116"]
+[SenteRatingDiff "+11"]
+[GoteRatingDiff "-6"]
+[Variant "Standard"]
+[TimeControl "600+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Pg6 2. Pc4 Pf6 3. Sf2 Rf8 4. Kd2 Gg8 5. Kc2 Bg7 6. Sd2 Kd8 7. Pe4 Kc8 8. Gc1 Kb8 9. Pg4 Gd8 10. Ph5 Gc8 11. Sg3 Sh8 12. Gf2 Sd8 13. Ge3 Gf7 14. Sh4 Pi6 15. Pg5 Pd6 16. Pi4 Sd7 17. Pxg6 Gxg6 18. Rg2 Gf5 19. P*g6 P*g3 20. Rxg3 Rf7 21. Pxg7+ Sxg7 22. B*g8 P*g9 23. Bxf7+ Se6 24. Hxh9 Sf8 25. Pf4 Gxf4 26. Gxf4 Sf5 27. Gf3 Pe6 28. R*e8 Sxe4 29. Gxe4 Pa6 30. Rxf8+ Pc6 31. Hxe6 Pc5 32. Dxc8 Ka7 33. S*b8 Kb6 34. G*c6 Kb5 35. G*b4 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lishogi.org/E914Ba5Q"]
+[Date "2021.05.28"]
+[Sente "lishogi AI level 2"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.05.28"]
+[UTCTime "15:03:40"]
+[SenteElo "?"]
+[GoteElo "1144"]
+[Variant "Standard"]
+[TimeControl "300+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Pg6 2. Kd2 Pf6 3. Ph5 Rf8 4. Sf2 Bg7 5. Pg4 Gg8 6. Gf1e2 Gf7 7. Pe4 Kd8 8. Pc4 Kc8 9. Kc2 Kb8 10. Se3 Gd8 11. Sd4 Sc8 12. Bc3 Pc6 13. Pi4 Sc7 14. Pa4 Pa6 15. Sd2 Pi6 16. Ng3 Pd6 17. Ph6 Pxh6 18. Sd2e3 Sh8 19. Pe5 Gd7 20. Se4 Sh7 21. Pf4 Pb6 22. Rf2 Kc8 23. Pf5 Pe6 24. Pxe6 Gd7xe6 25. Sd4e5 Ge6e7 26. Pxf6 Ge7xf6 27. Sxf6 Gxf6 28. G*e7 Rf9 29. Sf5 Gf7 30. Gxf7 Rxf7 31. P*f6 Rf8 32. G*e7 Rf9 33. Se6 P*f8 34. Nf5 S*d8 35. Nxg7+ Sxe7 36. B*d7 Kd9 37. Sxe7+ Re9 38. S*c8 1-0
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/NK4GXJuU"]
+[Date "2021.05.28"]
+[Sente "YohaanSethNathan"]
+[Gote "divergence_hill"]
+[Result "0-1"]
+[UTCDate "2021.05.28"]
+[UTCTime "10:32:15"]
+[SenteElo "1478"]
+[GoteElo "2091"]
+[SenteRatingDiff "-16"]
+[GoteRatingDiff "+0"]
+[Variant "Standard"]
+[TimeControl "45+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pb6 2. Pd4 Pb5 3. Rd2 Pg6 4. Gc2 Pb4 5. Pxb4 Rxb4 6. P*b3 Rxc4 7. Gc3 Rc6 8. Pe4 Rb6 9. Ge2 Sd8 10. Ge3 Kf8 11. Pf4 Sg8 12. Sf2 Kg9 13. Pg4 Pi6 14. Sf3 Pc6 15. Kf2 Sc7 16. Rd3 Rb8 17. Gc4 Gd9e8 18. Gc3 Sb6 19. Pe5 Sc5 20. Ge4 P*b4 21. Pxb4 Sxb4 22. Gxb4 Rxb4 0-1
+
+
+[Event "Rated Blitz game"]
+[Site "https://lishogi.org/1t0xfOPL"]
+[Date "2021.05.28"]
+[Sente "wies_wia"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.05.28"]
+[UTCTime "08:09:05"]
+[SenteElo "1339"]
+[GoteElo "1205"]
+[SenteRatingDiff "+23"]
+[GoteRatingDiff "-61"]
+[Variant "Standard"]
+[TimeControl "300+0+3(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pg6 2. Gc2 Pf6 3. Sf2 Rf8 4. Pf4 Gg8 5. Kd2 Bg7 6. Sf3 Kd8 7. Se4 Ge8 8. Pg4 Kc8 9. Ng3 Ph6 10. Ph4 Gh7 11. Bd4 Sg8 12. Sb2 Sb8 13. Kc1 Pc6 14. Sc3 Pb6 15. Rf2 Sb7 16. Kb2 Pa6 17. Pa4 Kb8 18. Pf5 Gf7 19. Pxf6 Gxf6 20. Rxf6 Bxf6 21. Bxf6 Rxf6 22. B*e5 R*d6 23. P*f5 Re6 24. Bxi9+ B*g7 25. Hxg7 Sxg7 26. B*g8 Gh8 27. Bxe6+ Rxe6 28. R*e8 B*c8 29. G*d8 B*c7 30. Gf2 Bxd8 31. Rxd8+ G*c9 32. De8 Gd9 33. Df9 P*f6 34. Sd5 Rxe3+ 35. Gxe3 Pxf5 36. Nxf5 Gd8 37. B*g3 Pd6 38. Sxd6 Gc7 39. Dxb9 Bxb9 40. Sxc7+ Ka7 41. Axb7 Kxb7 42. G*b8 Ka7 43. R*b7 1-0
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/uWcYyj03"]
+[Date "2021.05.28"]
+[Sente "YohaanSethNathan"]
+[Gote "lishogi AI level 1"]
+[Result "1-0"]
+[UTCDate "2021.05.28"]
+[UTCTime "07:57:19"]
+[SenteElo "1478"]
+[GoteElo "?"]
+[Variant "Standard"]
+[TimeControl "0+0+1(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 Pg6 2. Ph5 Bg7 3. Ph6 Pxh6 4. Rxh6 Bxh6 5. Pg4 Bxe3+ 6. Ng3 Hxd3 7. Pi4 Hxb1 8. Sf2 1-0
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/AxZzPjO6"]
+[Date "2021.05.28"]
+[Sente "lishogi AI level 1"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.05.28"]
+[UTCTime "07:57:03"]
+[SenteElo "?"]
+[GoteElo "1478"]
+[Variant "Standard"]
+[TimeControl "0+0+1(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 Pb6 2. Ph5 Pb5 3. Pi4 Pb4 4. Pxb4 Rxb4 5. Ph6 Rxb2+ 6. Sxb2 Pc6 7. Pxh7+ Nc7 0-1
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/9LaTsFLZ"]
+[Date "2021.05.28"]
+[Sente "YohaanSethNathan"]
+[Gote "lishogi AI level 1"]
+[Result "1-0"]
+[UTCDate "2021.05.28"]
+[UTCTime "07:56:31"]
+[SenteElo "1478"]
+[GoteElo "?"]
+[Variant "Standard"]
+[TimeControl "0+0+1(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 Pg6 2. Ph5 Pi6 3. Ph6 Pxh6 4. Rxh6 Pe6 5. Rxh8+ Sxh8 6. Pg4 R*h3 7. Ng3 Pi5 8. Sg2 Rh7+ 9. Li2 Re8 10. Pi4 Pxi4 11. Nf5 Pi3+ 12. Pf4 Txi2 13. Sf3 Pf6 14. Gf2 Pxf5 15. Pe4 Dh2 16. Ge3 Pc6 17. Se2 1-0
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/tXe4yjgU"]
+[Date "2021.05.28"]
+[Sente "lishogi AI level 1"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.05.28"]
+[UTCTime "07:56:15"]
+[SenteElo "?"]
+[GoteElo "1478"]
+[Variant "Standard"]
+[TimeControl "0+0+1(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 Pb6 2. Ph5 Pb5 3. Ph6 Pb4 4. Pxh7+ Pxb3+ 5. Pi4 Txb2 6. Sxb2 Rxb2+ 0-1
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/vuMmvS1a"]
+[Date "2021.05.28"]
+[Sente "YohaanSethNathan"]
+[Gote "lishogi AI level 1"]
+[Result "0-1"]
+[UTCDate "2021.05.28"]
+[UTCTime "07:55:58"]
+[SenteElo "1478"]
+[GoteElo "?"]
+[Variant "Standard"]
+[TimeControl "0+0+1(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pi6 2. Pd4 Pg6 3. Rd2 Pb6 4. Pe4 Pb5 5. Pf4 Pb4 6. Bc3 Pxb3+ 7. Ba5 Ke8 0-1
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/KGMuTN7I"]
+[Date "2021.05.28"]
+[Sente "lishogi AI level 1"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.05.28"]
+[UTCTime "07:55:42"]
+[SenteElo "?"]
+[GoteElo "1478"]
+[Variant "Standard"]
+[TimeControl "0+0+1(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 Pb6 2. Ph5 Pb5 3. Ph6 Pb4 4. Pxh7+ Pxb3+ 5. Txh8 Rb7 6. P*b6 Rb8 0-1
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/N8IgTZ6e"]
+[Date "2021.05.28"]
+[Sente "YohaanSethNathan"]
+[Gote "lishogi AI level 1"]
+[Result "0-1"]
+[UTCDate "2021.05.28"]
+[UTCTime "07:55:20"]
+[SenteElo "1478"]
+[GoteElo "?"]
+[Variant "Standard"]
+[TimeControl "0+0+1(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pb6 2. Pd4 Pi6 3. Rd2 Pi5 4. Sc2 Pi4 5. Rd3 Pxi3+ 6. Bc3 P*i2 7. Nxi3 Pxi1+ 8. Sh2 Rg8 9. Sxi1 Lxi3+ 0-1
+
+
+[Event "Casual Blitz game"]
+[Site "https://lishogi.org/ZBfr2DlL"]
+[Date "2021.05.28"]
+[Sente "lishogi AI level 1"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.05.28"]
+[UTCTime "07:33:29"]
+[SenteElo "?"]
+[GoteElo "1205"]
+[Variant "Standard"]
+[TimeControl "300+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Pg6 2. Pi4 Pf6 3. Pc4 Rf8 4. Gf1e2 Gg8 5. Kd2 Bg7 6. Ph5 Kd8 7. Pe4 Kc8 8. Pa4 Kb8 9. Pg4 Gd8 10. Pd4 Sc8 11. Sf2 Pe6 12. Pa5 Ge7 13. Se3 Pb6 14. Sc2 Sb7 15. Sc3 Pc6 16. Ba3 Re8 17. Pg5 Pxg5 18. Pf4 Gg8f7 19. Pi5 Gg6 20. Ph6 Pxh6 21. Rg2 Pf5 22. Pxf5 Gxf5 23. Ni3 Gf5f6 24. Sf4 P*f5 25. Sxg5 Gf6f7 26. Kc2 Nc7 27. P*f6 Gf7xf6 28. Sxf6 Gxf6 29. Bxg9+ Pe5 30. S*e7 Re9 31. Rxg7+ Rxg9 32. Dxg9 Gf7 33. Pi6 Pxi6 34. Pd5 Gxe7 35. Pd6 Pxd6 36. Pxe5 B*h2 37. Pe6 Gxe6 38. Pa6 Pxa6 39. Dxh9 Bxi1+ 40. Pc5 Hh2 41. Pxc6 Sxc6 42. Dxi9 Hxi3 43. Sd4 Hg5 44. La4 Pa5 45. Pb4 Pxa4 46. Nc3 Pa3+ 47. Se3 Pf4 48. Sd4 Pd5 49. Pb5 Sxb5 50. Nxb5 Nxb5 51. Dxi6 Pxd4 52. Di5 Hf5 53. Kd2 Tb3 54. Dxf5 Gxf5 55. P*b7 Kxb7 56. Ke1 Nc3+ 57. P*d3 Pxd3+ 58. Kf1 Txe2 59. Gxe2 R*i1 60. P*g1 Gg4 61. Gf2 Pf3+ 62. Gg3 Gxg3 63. G*a1 Tf2 0-1
+
+
+[Event "Casual Blitz game"]
+[Site "https://lishogi.org/CPtjRjSE"]
+[Date "2021.05.28"]
+[Sente "YohaanSethNathan"]
+[Gote "lishogi AI level 1"]
+[Result "0-1"]
+[UTCDate "2021.05.28"]
+[UTCTime "07:24:46"]
+[SenteElo "1205"]
+[GoteElo "?"]
+[Variant "Standard"]
+[TimeControl "300+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pi6 2. Pd4 Pg6 3. Rd2 Kf8 4. Gc2 Pb6 5. Bc3 Pc6 6. Kf2 Sg8 7. Kg2 Sd8 8. Kh2 Bg7 9. Sg2 Gd9e8 10. Gf2 Pi5 11. Pg4 Pe6 12. Pf4 Ph6 13. Gf3 Pf6 14. Pe4 Pc5 15. Pxc5 Se7 16. Sb2 Pb5 17. Pb4 Pi4 18. Pxi4 Pxb4 19. Rd3 Rb6 20. Pa4 Pf5 21. Sa3 Pxf4 22. Gxf4 Pb3+ 23. Gxb3 Rxb3+ 24. Sb2 Dc2 25. Re3 G*f2 26. Ba5 Gxg2 27. Ki3 Ph5 28. Bc7+ Nxc7 29. Rb3 Pa6 30. Rb9+ Li6 31. Dxa9 Pa5 32. Dxa5 Sf6 33. Da7 Ph4 34. Pxh4 Dxb2 35. Dxc7 De2 36. Ph5 Pd6 37. Dxd6 Kg9 38. Dxe6 Gf7 39. Dd6 Se7 40. Db6 Sf6 41. Pc6 Gxh1 42. Pc7+ Gg1 43. Td8 Ni7 44. Db8 Pg5 45. Pxg5 Kh9 46. Gg4 Dxe4 47. Kh4 Dxd4 48. Tc8 Sf5 49. L*d8 Sxg4 50. N*h2 Li5 51. Nxg4 Kg9 52. Ld9+ Be5 53. Ud8 P*h8 54. Td9 Bxb8 55. Ue8 Gxe8 56. Te9 Bg3+ 57. Kxg3 Gxe9 58. Nf6 Gxf6 59. Pg6 Lxi4 60. Kf3 Dg4 61. Ke2 Dxg6 62. Kd3 Nxh5 63. Kc2 Ph7 64. Kc3 Lxi1+ 65. Kc4 Sh9 66. Kb5 Ng3= 67. Kc6 Kh8 68. Kc5 Di6 69. Kb5 Nh1+ 70. Kc5 Sg8 71. Kc4 Sh9 72. Kc5 Ph6 73. Kb4 Sg8 74. Kc5 Ph5 75. Kc4 Ph4 76. Kb4 Ph3+ 77. Kc4 Sf7 78. Kc5 Sg8 79. Kc4 Sf7 80. Kb4 Sg8 81. Kc4 Sh9 82. Kc5 Si8 83. Kc4 Si7 84. Kb4 Sh6 85. Kc5 Sh5 86. Kc4 Sg6 87. Kb4 Sh5 88. Kc5 Gf7 89. Kc4 Sg6 90. Kb4 Sh7 91. Kc5 Si8 0-1
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/v4XGBpSu"]
+[Date "2021.05.27"]
+[Sente "lishogi AI level 8"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.05.27"]
+[UTCTime "11:19:42"]
+[SenteElo "?"]
+[GoteElo "1478"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pb6 2. Ph4 Pb5 3. Ph5 Pb4 4. Pxb4 Rxb4 5. Ph6 Pa6 6. Pxh7+ Pg6 7. Txh8 Sxh8 8. Rxh8+ Gg8 9. Dxg8 Ge8 10. Dxh9 Kd8 11. G*d9 Kc8 12. Gxc9 Kb7 0-1
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/oIJLyGjX"]
+[Date "2021.05.27"]
+[Sente "YoBot_v2"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.05.27"]
+[UTCTime "07:57:15"]
+[SenteElo "1847"]
+[GoteElo "1478"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Sf2 Pb6 2. Pc4 Pg6 3. Pe4 Pb5 4. Se3 Pb4 5. Pxb4 Rxb4 6. Bxh8= Sxh8 7. B*c3 Gg8 8. Bxb4 Pc6 9. Bxe7+ Ge8 10. Hxc9 Nc7 11. R*d9 Kf8 12. S*f9 Kg7 13. Sxe8= Kh6 14. Rxh9+ Kg7 15. He7 Kh6 16. Dxg8 Ki5 17. Pi4 Ki6 18. G*i5 1-0
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/KHIWtYo0"]
+[Date "2021.05.27"]
+[Sente "YohaanSethNathan"]
+[Gote "YoBot_v2"]
+[Result "0-1"]
+[UTCDate "2021.05.27"]
+[UTCTime "07:56:51"]
+[SenteElo "1478"]
+[GoteElo "1847"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 Pi6 2. Pc4 Gd9e8 3. Gc2 Pg6 4. Pe4 Bxb2= 5. Ph5 Bxa1+ 6. Sb2 Hxb1 7. Gc1 Hxd3 8. Ge2 L*e3 9. Gxe3 Hxe3 10. Gd2 Hxg1 11. Rf2 Hxf2 0-1
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/8Kx6jmhi"]
+[Date "2021.05.27"]
+[Sente "YoBot_v2"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.05.27"]
+[UTCTime "07:56:20"]
+[SenteElo "1847"]
+[GoteElo "1478"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Sf2 Pb6 2. Pc4 Pb5 3. Bc3 Pg6 4. Sd2 Gg8 5. Gf1e2 Pb4 6. Pxb4 Pc6 7. Ph4 Sc8 8. Pe4 Gd8 9. Sf2e3 Kd9 10. Pe5 Kc9 11. Se4 Ge8 12. Kf1 Sc7 13. Se3 Rc8 14. Sd4 Rb8 15. Pa4 Rc8 16. Ge3 Pa6 17. Na3 Na7 18. Pa5 La8 19. Pxa6 Rb8 20. Pxa7+ Rb9 21. Txa8 Rb8 22. Txb8 Kxb8 23. Nb5 Kc8 24. R*a8 1-0
+
+
+[Event "Rated Bullet game"]
+[Site "https://lishogi.org/ajqbTu9o"]
+[Date "2021.05.25"]
+[Sente "farukshogilover"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.05.25"]
+[UTCTime "20:07:22"]
+[SenteElo "1801"]
+[GoteElo "1416"]
+[SenteRatingDiff "+6"]
+[GoteRatingDiff "-37"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pb6 2. Pe4 Pb5 3. Bc3 Pb4 4. Bxb4 Rxb4 5. Pxb4 B*c3 6. Sd2 Bxa1+ 7. Re2 Hxb1 8. Kf2 Ha2 9. Kg2 Hxa3 10. Kh2 Hxb4 11. Sg2 Hxc4 12. Gf2 Hd5 13. Se3 Hb7 14. Sd4 Sc8 15. Ge1 Gd8 16. Ge1f1 N*c6 17. Se3 Ha6 18. Gg1 Nb4 19. Rb2 Hb5 20. R*b8 Hxd3 21. Rb8xb4+ L*b7 22. Dxb7 Sxb7 23. Rxb7+ Gc8 24. Dxb9 Kd8 25. Dxf9 R*d1 26. G*d9 1-0
+
+
+[Event "Rated Bullet game"]
+[Site "https://lishogi.org/9JbeLQEg"]
+[Date "2021.05.25"]
+[Sente "YohaanSethNathan"]
+[Gote "farukshogilover"]
+[Result "0-1"]
+[UTCDate "2021.05.25"]
+[UTCTime "20:05:27"]
+[SenteElo "1483"]
+[GoteElo "1792"]
+[SenteRatingDiff "-67"]
+[GoteRatingDiff "+9"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pg6 2. Ph4 Pf6 3. Gc2 Bg7 4. Ph5 Gd9e8 5. Pi4 Gg8 6. Pi5 Sf8 7. Pi6 Pxi6 8. Pd4 Pd6 9. Ge2 Rd8 10. Pf4 Kd9 11. Ge2d3 Kc8 12. Sf2 Kb8 13. Sf3 Sc8 14. Pg4 Sf7 15. Pe4 Se6 16. Pe5 Se6d7 17. Se4 Ge8f7 18. Pf5 Pxf5 19. Sxf5 P*f6 20. Se4 Pe6 21. Rg2 Pxe5 22. Pg5 Pxe4 23. Gxe4 Pxg5 24. Rxg5 P*g6 25. Rg3 Re8 26. Rf3 Rxe4 27. Kf2 S*e1 28. Kf1 G*f2 29. Rxf2 Sxf2+ 30. Kxf2 Rf4 31. Kg3 R*g4 32. Kh2 Rf2+ 33. Kh3 Rg2+ 34. Kh4 Df4 35. Ki3 Pi5 36. Ng3 Pi4 0-1
+
+
+[Event "Rated UltraBullet game"]
+[Site "https://lishogi.org/bNG4iSrk"]
+[Date "2021.05.24"]
+[Sente "divergence_hill"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.05.24"]
+[UTCTime "16:10:34"]
+[SenteElo "2086"]
+[GoteElo "1500"]
+[SenteRatingDiff "+1"]
+[GoteRatingDiff "-22"]
+[Variant "Standard"]
+[TimeControl "45+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Pb6 2. Ph5 Sc8 3. Gc2 Pc6 4. Ph6 Pxh6 5. Rxh6 P*h7 6. Rxh7+ Pg6 7. Dxg6 Gf8 8. P*h6 Gd8 9. Ph7+ Gg7 10. Txg7 Sc7 11. Txh8 Pb5 12. Dxg9 Ke8 13. G*f8 1-0
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/O9pDP18Z"]
+[Date "2021.05.24"]
+[Sente "lvshaegurista"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.05.24"]
+[UTCTime "07:11:24"]
+[SenteElo "1386"]
+[GoteElo "1500"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 Pb6 2. Pc4 Pb5 3. Gc2 Pb4 4. Kd2 Rb6 5. Pxb4 Pa6 6. Pa4 Pa5 7. Pb5 Rb7 8. Pxa5 La6 9. Gb3 Ra7 10. Pxa6 Ra8 11. Pa7+ Rb8 12. Ph5 Rc8 13. Pg4 Pc6 14. Sf2 Pd6 15. Sg3 Gd8 16. Gf2 Gd7 17. Pe4 Pe6 18. Ge3 Re8 19. Pf4 Pf6 20. Ph6 Pg6 21. Pxh7+ Bg7 22. Txg7 Gf8 0-1
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/ErjR9ush"]
+[Date "2021.05.24"]
+[Sente "YohaanSethNathan"]
+[Gote "lvshaegurista"]
+[Result "1-0"]
+[UTCDate "2021.05.24"]
+[UTCTime "07:10:17"]
+[SenteElo "1500"]
+[GoteElo "1386"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 Pb6 2. Pg4 Pg6 3. Ng3 Sg8 4. Rh3 Gf8 5. Ph5 Sd8 6. Rh4 Pb5 7. Pi4 Pd6 8. Li3 Sd7 9. Pi5 Pc6 10. Pi6 Nc7 11. Pxi7+ Lxi7 12. Lxi7+ Nxi7 13. Ri4 Sg7 14. Ph6 Pxh6 15. Pg5 Pd5 16. Rg4 Pxg5 17. Nf5 Pxg4 18. Nxg7+ Gxg7 19. Pf4 Kf8 20. Pf5 Ge8 21. Pf6 Se6 22. Pxf7+ Ge8xf7 23. Pe4 Pd4 24. Pe5 1-0
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/WMHOOcon"]
+[Date "2021.05.23"]
+[Sente "YoBot_v2"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.05.23"]
+[UTCTime "20:26:15"]
+[SenteElo "1847"]
+[GoteElo "1500"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Sf2 Pb6 2. Pe4 Pc6 3. Pc4 Pb5 4. Sc2 Nc7 5. Se3 Pg6 6. Gc1 Bxb2+ 7. Gxb2 Pd6 8. Kd1 Pd5 9. B*d7 Sc8 10. Bxc6+ Rb6 11. Hxb6 Pb4 12. Nc3 Sb7 13. Hxc7 Gd8 14. R*c9 Ke8 15. Hxd8 Kf8 16. Hxe7 Kg7 17. Rxf9+ Kh6 18. N*g4 1-0
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/kHQbudlV"]
+[Date "2021.05.23"]
+[Sente "YohaanSethNathan"]
+[Gote "YoBot_v2"]
+[Result "0-1"]
+[UTCDate "2021.05.23"]
+[UTCTime "20:25:55"]
+[SenteElo "1500"]
+[GoteElo "1847"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pg4 Pg6 2. Ph4 Gd9e8 3. Rh3 Pb6 4. Ng3 Pb5 5. Pf4 Pb4 6. Pf5 Pxb3+ 7. Pc4 Txb2 8. Sxb2 Rxb2+ 0-1
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/0ri8V4Lu"]
+[Date "2021.05.23"]
+[Sente "YoBot_v2"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.05.23"]
+[UTCTime "20:25:18"]
+[SenteElo "1847"]
+[GoteElo "1500"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Sf2 Pb6 2. Pc4 Pb5 3. Sc2 Pb4 4. Pxb4 Rxb4 5. Gc1 Pc6 6. Pe4 Rxb2+ 7. Gxb2 Pc5 8. R*b7 Pxc4 9. Rxb9+ Sc8 10. Dxa9 B*b8 11. Dxb8 Sb9 12. B*b6 1-0
+
+
+[Event "Casual Standard game"]
+[Site "https://lishogi.org/KGghnq1K"]
+[Date "2021.05.08"]
+[Sente "lishogi AI level 8"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.05.08"]
+[UTCTime "11:29:19"]
+[SenteElo "?"]
+[GoteElo "1116"]
+[Variant "From Position"]
+[TimeControl "600+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+[FEN "l2g3nl/1ks1g2b1/1pn1p1sp1/p1p3p1p/7P1/P1PGP1PSP/1PN2+r3/2G2P1R1/L1BK3NL w Bs3p 2"]
+[SetUp "1"]
+
+1... S*e2 2. Kd2 P*d3 3. Gc2xd3 Sxd3+ 4. Gxd3 G*e2 5. Kc2 Gxf2 6. Ge3 Df5 7. Gf4 Df6 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lishogi.org/29FDXNp1"]
+[Date "2021.05.07"]
+[Sente "YohaanSethNathan"]
+[Gote "dugong161"]
+[Result "0-1"]
+[UTCDate "2021.05.07"]
+[UTCTime "15:25:53"]
+[SenteElo "1205"]
+[GoteElo "1540"]
+[Variant "Standard"]
+[TimeControl "180+0+10(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Pg6 2. Gc2 Rg8 3. Sg2 Gf9e8 4. Ph5 Bg7 5. Pc4 Sh8 6. Bxg7+ Sxg7 7. Ge2 Sc8 8. Kd1 Kd8 9. Kd2 Kc9 10. Gc3 Kb8 11. Kc2 Pi6 12. Pf4 Pi5 13. Gf3 Rh8 14. Gg4 Ph6 15. Pf5 Pxh5 16. Rxh5 P*h6 17. Rh2 B*g1 18. Rh3 Bxe3+ 19. B*d2 Hf2 20. Rh2 Hg1 21. Rh3 Hxg2 22. Gh4 Hxh3 23. Gxh3 Ph5 24. Gh2 Ph4 25. P*h3 Pxh3+ 26. Gxh3 Rxh3+ 27. B*g2 Dxg2 28. P*h4 S*e1 29. Kb2 Sxd2+ 30. Pa4 Axc1 31. Ka3 Axb1 32. Kb4 S*b6 33. Pc5 N*a6 34. Kc4 B*e6 35. Kd4 R*f4 36. Ke3 Df3 37. Kd2 B*e3 38. Kc2 G*b2 39. Kd1 Bc1+ 40. Ke1 Df1 0-1
+
+
+[Event "Casual Blitz game"]
+[Site "https://lishogi.org/02INPuhs"]
+[Date "2021.05.07"]
+[Sente "dugong161"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.05.07"]
+[UTCTime "15:21:29"]
+[SenteElo "1540"]
+[GoteElo "1205"]
+[Variant "Standard"]
+[TimeControl "180+0+10(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Pb6 2. Pc4 Gg8 3. Ph5 Pg6 4. Ph6 Pxh6 5. Rxh6 Bxb2+ 6. Sxb2 P*h7 7. Rh2 B*g7 8. B*c3 Pf6 9. Gf1e2 Ge8 10. Sg2 Sc8 11. Sh3 Sh8 12. Sh4 Ph6 13. P*h5 Sh7 14. Si5 Pi6 15. Sxh6 Sxh6 16. Pxh6 S*i8 17. S*h7 Sxh7 18. Pxh7+ Bi5 19. Txg8 S*f7 20. Rxh9+ Kd8 21. S*c9 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lishogi.org/7RnXp1Mx"]
+[Date "2021.04.26"]
+[Sente "Anonymous"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.04.26"]
+[UTCTime "16:08:11"]
+[SenteElo "?"]
+[GoteElo "1205"]
+[Variant "Standard"]
+[TimeControl "300+0+3(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pg4 Pb6 2. Pg5 Pb5 3. Kf2 Pb4 4. Pe4 Pxb3+ 5. Ph4 Txb2 6. Sxb2 Rxb2+ 0-1
+
+
+[Event "Casual Standard game"]
+[Site "https://lishogi.org/r9lFxIp6"]
+[Date "2021.04.26"]
+[Sente "YohaanSethNathan"]
+[Gote "lishogi AI level 1"]
+[Result "1-0"]
+[UTCDate "2021.04.26"]
+[UTCTime "10:17:39"]
+[SenteElo "1116"]
+[GoteElo "?"]
+[Variant "From Position"]
+[TimeControl "600+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+[FEN "3k5/4n4/9/9/4p4/9/9/4L4/5K3 b - 1"]
+[SetUp "1"]
+
+1. Lxe5 Kd8 2. Lxe8= Kxe8 3. P*e7 Kd8 4. N*f5 Kc8 5. Pe8+ Kb7 6. Ne7+ Ka7 7. Mf8 Kb6 8. Mf7 Ka7 9. Te7 Kb8 10. Te6 Kb7 11. Me7 Ka7 12. Md7 Kb7 13. Td6 Ka8 14. Tc6 Kb8 15. Mc7 Ka7 16. Tb7 Ka6 17. Mc6 Ka5 18. Tb6 Kb4 19. Ke2 Ka5 20. Mc5 Ka4 21. Tb5 Kb3 22. Kd2 Ka4 23. Mc4 L*d7 24. Kc3 Ld6 25. Tb4 Ka3 26. Kc2 Ka2 27. Mc3 Ld5 28. Tb3 Ld2+ 29. Kxd2 Ka1 30. Mc2 Ka2 31. Tc3 Ka1 32. Kc1 Ka2 33. Tb3 Ka1 34. Mb2 1-0
+
+
+[Event "Ronin Cup Arena"]
+[Site "https://lishogi.org/URG7Vstu"]
+[Date "2021.04.25"]
+[Sente "YohaanSethNathan"]
+[Gote "JourneyStep1"]
+[Result "0-1"]
+[UTCDate "2021.04.25"]
+[UTCTime "06:23:05"]
+[SenteElo "1470"]
+[GoteElo "1469"]
+[SenteRatingDiff "-148"]
+[GoteRatingDiff "+148"]
+[Variant "Standard"]
+[TimeControl "900+0+30(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pg4 Pg6 2. Rg2 Rg8 3. Pc4 Pf6 4. Gc2 Kd8 5. Ge2 Kc8 6. Kf1 Kb8 7. Sf2 Sf8 8. Kg1 Sc8 9. Pf4 Sf7 10. Sf3 Pa6 11. Gc3 Gf9e8 12. Sc2 Pi6 13. Pb4 Pi5 14. Ph4 Ph6 15. Rh2 Pg5 16. Gf2 Pxg4 17. Rh3 Pf5 18. Pxf5 Be5 19. P*g3 Pxg3+ 20. Nxg3 P*g4 21. P*g2 Pxg3+ 22. Pxg3 N*g5 23. Pe4 Nxh3= 24. Kh2 Ng1+ 25. Pxe5 R*h1 26. Ki2 Pi4 27. Pxi4 P*i3 28. Kxi3 Rxi1+ 29. Kh3 Dxi4 30. Kh2 Di1 31. Kh3 Li3+ 0-1
+
+
+[Event "Ronin Cup Arena"]
+[Site "https://lishogi.org/BZklekwg"]
+[Date "2021.04.25"]
+[Sente "YohaanSethNathan"]
+[Gote "tsea1483"]
+[Result "0-1"]
+[UTCDate "2021.04.25"]
+[UTCTime "06:00:42"]
+[SenteElo "1500"]
+[GoteElo "2055"]
+[SenteRatingDiff "-30"]
+[GoteRatingDiff "+10"]
+[Variant "Standard"]
+[TimeControl "900+0+30(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Pg6 2. Gc2 Pf6 3. Pc4 Sg8 4. Pd4 Rf8 5. Ge2 Sf7 6. Gc3 Kd8 7. Kf2 Kc8 8. Kg2 Kb8 9. Sf2 Pg5 10. Pf4 Sg6 11. Gf3 Bg7 12. Pi4 Pi6 13. Kh3 Sc8 14. Ni3 Ph6 15. Rg2 Pf5 16. Pg4 Pxf4 17. Gg3 Pxg4 18. Gxg4 Pf3+ 19. Sxf3 Rxf3+ 20. Gg3 S*g4 21. Kh2 Sxg3+ 22. Rxg3 Be5 23. Kh3 Dxg3 24. Ki2 G*h2 0-1
+
+
+[Event "Blade Cup Arena"]
+[Site "https://lishogi.org/qceoMRKV"]
+[Date "2021.04.18"]
+[Sente "WesleyofLegend"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.04.18"]
+[UTCTime "07:33:15"]
+[SenteElo "1453"]
+[GoteElo "1140"]
+[SenteRatingDiff "+7"]
+[GoteRatingDiff "-24"]
+[Variant "Standard"]
+[TimeControl "900+0+10(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Pg6 2. Pc4 Gg8 3. Ph5 Pb6 4. Gc2 Ge8 5. Ph6 Pxh6 6. Rxh6 Bxb2+ 7. Sxb2 P*h7 8. Rh4 B*g5 9. Re4 Sd8 10. Pg4 Bf6 11. Pf4 Bh8 12. Pf5 Sf8 13. Sc3 Pd6 14. Ge2 Gd7 15. Pd4 Pb5 16. Ge2d3 Gg7 17. Rf4 Pe6 18. Kd1 Ge7 19. Kc1 Pc6 20. Kb2 Nc7 21. Pe4 Pf6 22. Sh2 Ke8 23. Sg3 Pd5 24. Pxf6 Ge7xf6 25. P*f5 Gf6f7 26. Rf1 P*f6 27. Pxf6 Gf7xf6 28. P*f5 Gf6f7 29. Re1 P*f6 30. Pe5 Sd7 31. Sf4 Pa6 32. Pa4 Pi6 33. Pxd5 Bi7 34. Ge4 Bh6 35. Pi4 Pi5 36. Pxi5 Lxi5 37. P*i3 P*i4 38. P*h5 Bi7 39. Pxi4 Bh8 40. Pxi5 Ph6 41. Pxh6 Gxh6 42. L*h3 Sg7 43. P*h5 Gh7 44. Rd1 P*h6 45. Pxh6 Sxh6 46. Lxh6 Gxh6 47. Pd6 Sc8 48. S*d7 Sxd7 49. Pxd7+ Kf8 50. Txc7 Rb9 51. Rd8+ 1-0
+
+
+[Event "Blade Cup Arena"]
+[Site "https://lishogi.org/jJEvjdrI"]
+[Date "2021.04.18"]
+[Sente "MysteryQuaine"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.04.18"]
+[UTCTime "07:22:20"]
+[SenteElo "1542"]
+[GoteElo "1159"]
+[SenteRatingDiff "+2"]
+[GoteRatingDiff "-19"]
+[Variant "Standard"]
+[TimeControl "900+0+10(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pd4 Pg6 2. Rd2 Gg8 3. Pd5 Rd8 4. Kf2 Sc8 5. Kg2 Ge8 6. Kh2 Pe6 7. Sg2 Ge7 8. Pi4 Pa6 9. Pa4 Pi6 10. Pc4 Pd6 11. Pxd6 Gxd6 12. Bxh8+ Sxh8 13. B*e7 B*g9 14. Bxg9+ Sxg9 15. B*e7 B*f8 16. Bxd8+ Kxd8 17. P*d5 Gd7 18. Nc3 Ge7 19. Pd6 Gxd6 20. R*f9 B*e8 21. Rxf8+ Sxf8 22. Rxd6 P*d7 23. Rxe6 P*e7 24. Rxg6 Sg7 25. Rg4 R*b1 26. Gc2 Rxa1+ 27. B*b8 Dxa4 28. Bxa9+ Db5 29. Nxb5 P*g6 30. L*b8 Kc9 31. R*e9 L*d9 32. Rxe8+ Ph6 33. B*e9 Pg5 34. G*d8 Lxd8 35. Bxd8+ 1-0
+
+
+[Event "Blade Cup Arena"]
+[Site "https://lishogi.org/upFHoCDg"]
+[Date "2021.04.18"]
+[Sente "Linken"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.04.18"]
+[UTCTime "06:55:43"]
+[SenteElo "1359"]
+[GoteElo "1223"]
+[SenteRatingDiff "+7"]
+[GoteRatingDiff "-64"]
+[Variant "Standard"]
+[TimeControl "900+0+10(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Ph6 2. Pc4 Gg8 3. Sg2 Pg6 4. Sh3 Bxb2+ 5. Sxb2 Sh8 6. Si4 B*g7 7. Gc2 Ge8 8. Ph5 Pi6 9. Pxh6 Sd8 10. Sh5 Si7 11. Sxg6 Bxh6 12. P*h7 P*g7 13. Ph8+ Gxh8 14. Sh5 Bxe3+ 15. Ge2 Hg1 16. Rh4 Hb6 17. Sh6 Sxh6 18. Rxh6 S*i7 19. Rh4 Pc6 20. P*h7 Gg8 21. S*h6 Sxh6 22. Rxh6 S*i7 23. Rh4 Hc7 24. Ph8+ Gxh8 25. S*h7 P*h6 26. Sxh8= Sxh8 27. Rxh6 S*i7 28. Rh5 P*h6 29. Rh4 Kf8 30. B*e4 Pg6 31. Bxg6 P*g8 32. P*h7 Sxh7 33. Bxh7+ Pd6 34. S*h8 Sxh8 35. Hxh8 S*i8 36. Hxi9 Si7 37. Hxh9 Pd5 38. Hi8 He5 39. Hxi7 Hg7 40. S*h8 Hf6 41. Rxh6 P*h7 42. Rxh7+ Ke9 43. Dxg8 Kd9 44. Df9 Kc8 45. Dxe8 Kc7 46. Hf4 Kc8 47. S*d7 Kc9 48. G*d9 1-0
+
+
+[Event "Casual Rapid game"]
+[Site "https://lishogi.org/4A2kejJ9"]
+[Date "2021.04.17"]
+[Sente "YohaanSethNathan"]
+[Gote "lishogi AI level 8"]
+[Result "0-1"]
+[UTCDate "2021.04.17"]
+[UTCTime "11:26:33"]
+[SenteElo "1223"]
+[GoteElo "?"]
+[Variant "Standard"]
+[TimeControl "600+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Pg6 2. Ph5 Bg7 3. Ph6 Pxh6 4. Rxh6 Bxh6 5. Pg4 Bxe3+ 6. P*h2 0-1
+
+
+[Event "Daily Blitz Arena"]
+[Site "https://lishogi.org/GzZgneAV"]
+[Date "2021.04.16"]
+[Sente "YohaanSethNathan"]
+[Gote "Adamastor"]
+[Result "0-1"]
+[UTCDate "2021.04.16"]
+[UTCTime "15:22:24"]
+[SenteElo "1299"]
+[GoteElo "1333"]
+[SenteRatingDiff "-94"]
+[GoteRatingDiff "+87"]
+[Variant "Standard"]
+[TimeControl "300+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pg6 2. Gc2 Gg8 3. Ge2 Pf6 4. Ph4 Sf8 5. Ph5 Bg7 6. Pf4 Sf7 7. Gf3 Sd8 8. Sg2 Ge8 9. Pd4 Pd6 10. Sd2 Sd7 11. Bc3 Pc6 12. Sd3 Nc7 13. Ba5 Pb6 14. Ke2 Pa6 15. Bc3 Sd7e6 16. Pe4 Pd5 17. Pa4 Nb5 18. Bb2 Pxd4 19. Sxd4 Rd8 20. Ke3 P*d5 21. Se5 Kf9 22. Sxe6 Sxe6 23. Nc3 Nxc3+ 24. Gxc3 S*d4 25. Gxd4 Pxd4 26. Bxd4 Sd5 27. Bxb6 G*d4 28. Kf2 Rd7 29. N*b7 Gxe4 30. Gxe4 Sxe4 31. Nxa9+ Rd2+ 32. Kf1 G*f2 33. Bxf2 N*d3 34. S*f8 Gg8xf8 35. G*g9 Kxg9 36. G*f9 Gxf9 37. S*g8 Kxg8 0-1
+
+
+[Event "Casual Blitz game"]
+[Site "https://lishogi.org/H6dfDrdi"]
+[Date "2021.04.14"]
+[Sente "Random"]
+[Gote "YohaanSethNathan"]
+[Result "0-1"]
+[UTCDate "2021.04.14"]
+[UTCTime "12:01:14"]
+[SenteElo "972"]
+[GoteElo "1299"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "300+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Gf1e2 Pb6 2. Kf1 Pb5 3. Rg2 Pb4 4. Gd1d2 Pxb3+ 5. Sc2 Txb2 6. Pd4 Txc2 7. Pc4 Txb1 8. Gf2 Txa1 9. Pc5 Tb1 10. Gc2 Tc1 11. Ph4 Txc2 12. Li2 Td2 13. Pd5 Te2 14. Kxe2 Pc6 15. Ph5 Pxc5 16. P*c1 Pc4 17. Ke1 Pc3+ 18. Kf1 Tc2 19. Ke1 Txc1 20. Kd2 Pd6 21. Pe4 Pxd5 22. Ge2 Pe6 23. Ke1 Pe5 24. Pg4 Pxe4 25. Pa4 Pe3+ 26. Rf2 Txe2 27. Kxe2 Pd4 28. P*e6 P*e7 29. Pxe7= Kd8 30. Ph6 Kxe7 31. P*d3 Pxh6 32. Kf1 Pxd3+ 33. Re2 Txe2 34. Kg2 Rb4 35. Sh2 Rxa4 36. Ng3 Rxg4 37. Sg1 Ri4 38. Kh2 Rxi3+ 39. Lxi3 Te3 40. R*c6 Kd7 41. Li6 Kxc6 42. Kg2 Pxi6 43. Kh3 Txf3 44. Kh2 Txg3 45. Ki3 Tg2 46. Ki4 Txg1 47. Kh3 Tg2 48. Ki3 Tg3 49. Ki2 Th2 50. Ki3 Th3 51. Kxh3 Td1 52. P*c3 Td2 53. Kg4 Td3 54. Pc4 Td4 55. Kg5 Txc4 56. Kf4 Tc5 57. Ke5 Td5 58. Kf4 R*a4 59. Kf3 R*a3 60. Ke2 Rb3+ 61. Ke1 Ra2+ 62. Kf1 Db3b1 0-1
+
+
+[Event "Casual Blitz game"]
+[Site "https://lishogi.org/WfROdyHm"]
+[Date "2021.04.14"]
+[Sente "YohaanSethNathan"]
+[Gote "RandomMoverBot"]
+[Result "1-0"]
+[UTCDate "2021.04.14"]
+[UTCTime "11:52:04"]
+[SenteElo "1223"]
+[GoteElo "1237"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "300+0+10(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 La8 2. Ph5 Kd8 3. Ph6 Rc8 4. Pxh7+ Gf8 5. Txh8 Pa6 6. Txg9 Pg6 7. Rxh9+ Ke9 8. Tg8 Kd8 9. Txf8 Na7 10. Te9 Ge8 11. Txe8 Kxe8 12. Pc4 Pa5 13. Bg7+ Pd6 14. De9 Kd7 15. Hxf7 Pg5 16. Hxe7 Kc6 17. Hxc9 Rh8 18. Hf6 Rh7 19. Dxi9 Rh5 20. Nc3 P*h3 21. He7 Pi6 22. He8 Kb6 23. Dxi6 Nb5 24. Dxh5 Ka7 25. Nxb5 Ka6 26. Nxc7+ Kb6 27. Dxg5 Ka6 28. Mxb7 Pa4 29. Mxa8 Kb6 30. Hxa4 Ph2+ 31. Ma7 Txi1 32. Ma6 Kc7 33. Mb7 Kxb7 34. Hd7 N*g4 35. Pxg4 L*i9 36. Hxd6 Li5 37. Dxi5 Ti2 38. Pg5 Kb6 39. Dh5 Ka5 40. Hh2 Txh2 41. Dxh2 B*h4 42. Dxh4 Ka6 43. Pg6 Ka7 44. Pg7+ Ka8 45. Tf7 Ka7 46. Te7 Ka8 47. Td7 Kb7 48. Tc7 Ka6 49. R*i5 Ka7 50. Tb7 Ka6 51. Tb6 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lishogi.org/0g0DKV49"]
+[Date "2021.04.14"]
+[Sente "YohaanSethNathan"]
+[Gote "Random"]
+[Result "1-0"]
+[UTCDate "2021.04.14"]
+[UTCTime "11:51:14"]
+[SenteElo "1223"]
+[GoteElo "809"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "300+0+10(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Gd8 2. Ph5 Gd8e8 3. Ph6 Pa6 4. Pxh7+ Ge8f8 5. Txh8 Rc8 6. Txh9 Li8 7. Txg9 Gf9g8 8. Txg8 Sb8 9. Rh9+ Kd8 10. Txf8 Na7 11. De9 1-0
+
+
+[Event "Casual Blitz game"]
+[Site "https://lishogi.org/Poywqdvt"]
+[Date "2021.04.14"]
+[Sente "YohaanSethNathan"]
+[Gote "lishogi AI level 1"]
+[Result "0-1"]
+[UTCDate "2021.04.14"]
+[UTCTime "11:42:00"]
+[SenteElo "1223"]
+[GoteElo "?"]
+[Variant "Standard"]
+[TimeControl "300+0+10(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pb6 2. Ph4 Gg8 3. Gc2 Sd8 4. Ph5 Pi6 5. Ph6 Pxh6 6. Rxh6 Kf9 7. Pi4 Pe6 8. Rxe6 Sf8 9. Pb4 Pf6 10. Rxf6 Se7 11. Rh6 Pc6 12. Gc3 Pg6 13. Rxg6 Pb5 14. Pxb5 Pi5 15. Pxi5 P*b3 16. Gxb3 Pd6 17. Bxh8+ Gxh8 18. Sc2 Pa6 19. B*d4 Sg7 20. Rg4 Pd5 21. Rf4 Kg8 22. Bc3 Pd4 23. Pxd4 Nc7 24. Gb4 Nxb5 25. Bb2 Nxa3+ 26. Bxa3 Pc5 27. Pxc5 P*d3 28. Sxd3 Rb6 29. Re4 Sg7f8 30. N*f5 Sf6 31. Pf4 P*f3 32. Sg2 Pa5 33. Ng7+ Nxg7 34. Pd5 N*e5 35. Sd4 Nd3+ 36. Se5 Sxe5 37. Rxe5 Rh6 38. Gb5 Se7 39. Rxe7+ B*d4 0-1
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/MBZ5Ca54"]
+[Date "2021.04.08"]
+[Sente "YohaanSethNathan"]
+[Gote "YoBot_v2"]
+[Result "0-1"]
+[UTCDate "2021.04.08"]
+[UTCTime "05:35:12"]
+[SenteElo "1500"]
+[GoteElo "1903"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Gg8 2. Ph5 Sd8 3. Ph6 Pxh6 4. Rxh6 P*h7 5. Rh2 Pg6 6. Rf2 Pe6 7. Pg4 Se7 8. Pg5 Pxg5 9. Pf4 Kd8 10. Rf3 Be5 11. Pe4 Bf6 12. Pf5 Bh8 13. Rf4 Kc9 14. Pf6 Bxf6 15. Pe5 Bxe5 16. Re4 Bxi1+ 17. Pd4 L*e5 18. Pd5 Lxe4 19. Gf1e2 Hxh1 20. Kf2 Ph6 21. Kf1 N*e3 22. Ke1 R*f1 23. Kd2 Rxd1+ 0-1
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/hnDomY33"]
+[Date "2021.04.08"]
+[Sente "YoBot_v2"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.04.08"]
+[UTCTime "05:34:52"]
+[SenteElo "1903"]
+[GoteElo "1500"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Gf1e2 Pb6 2. Pc4 Pb5 3. Bc3 Pb4 4. Pxb4 Rb5 5. Pxb5 Pc6 6. R*b7 Pc5 7. Rxb9+ Sc8 8. Dxa9 Sb9 9. Dxb9 Ke8 10. Db8 Ke9 11. Ba5 Gd8 12. Dxd8 1-0
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/HV29Q7I6"]
+[Date "2021.04.08"]
+[Sente "YohaanSethNathan"]
+[Gote "YoBot_v2"]
+[Result "0-1"]
+[UTCDate "2021.04.08"]
+[UTCTime "05:34:22"]
+[SenteElo "1500"]
+[GoteElo "1903"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Ph4 Gg8 2. Ph5 Pg6 3. Ph6 Pxh6 4. Rh4 Bf6 5. Rh3 Ng7 6. Rh2 Sf8 7. Ri2 Ph5 8. Pg4 Pb6 9. Ng3 Pb5 10. Rh2 Pb4 11. Ri2 Pxb3+ 12. Rh2 Be5 13. Ri2 Bxg3+ 14. Kd2 Txb2 15. Pe4 B*h6 16. Ke2 Txc1 17. Gxc1 Bxc1+ 18. Pd4 G*e3 0-1
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/e12RiLBX"]
+[Date "2021.04.08"]
+[Sente "YoBot_v2"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.04.08"]
+[UTCTime "05:33:54"]
+[SenteElo "1903"]
+[GoteElo "1500"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Sf2 Pb6 2. Pc4 Pb5 3. Sc2 Pb4 4. Pxb4 Rb7 5. Bc3 Rb8 6. Ph4 Rc8 7. Ph5 Pc6 8. Ph6 Pd6 9. Pxh7+ Rd8 10. Txh8 Pe6 11. Txi9 Pc5 12. L*e7 Re8 13. Lxe8= Gd9xe8 14. Rxh9= Kd8 15. Bxg7+ Ke7 16. R*b7 Kd8 17. Rxb9+ Kd7 18. Dxc9 Ke7 19. N*f5 Kd7 20. B*c6 1-0
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/a9leDkhX"]
+[Date "2021.04.08"]
+[Sente "YohaanSethNathan"]
+[Gote "YoBot_v2"]
+[Result "0-1"]
+[UTCDate "2021.04.08"]
+[UTCTime "05:33:25"]
+[SenteElo "1500"]
+[GoteElo "1903"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 Gg8 2. Ph5 Pg6 3. Ph6 Pxh6 4. Rh4 Bg7 5. Rg4 Gh7 6. Rh4 Sf8 7. Rh2 Pe6 8. Pg4 Re8 9. Rg2 Sd8 10. Pg5 Be5 11. Pf4 Bxf4 12. Rf2 Bxi1+ 13. Rh2 L*f3 14. Rg2 Lxf1+ 15. Kxf1 Hxh1 16. Ke1 G*f3 17. Kf1 Hxg2 18. Ke1 Hxg1 0-1
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/crmKxDzZ"]
+[Date "2021.04.08"]
+[Sente "YoBot_v2"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.04.08"]
+[UTCTime "05:32:58"]
+[SenteElo "1903"]
+[GoteElo "1500"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Gf1e2 Pb6 2. Pc4 Rb7 3. Ph4 Pb5 4. Bc3 Pc6 5. Ph5 Rb6 6. Ba5 Pb4 7. Bxb6 Gd8 8. R*b7 Sc8 9. Rb8+ Nc7 10. Dxa9 Ke8 11. Ph6 Gd9 12. Pxh7+ Gd8 13. Txh8 Gd9 14. Txg9 Gd8 15. Dxf9 1-0
+
+
+[Event "Casual Rapid game"]
+[Site "https://lishogi.org/Ugiz1Vgi"]
+[Date "2021.04.02"]
+[Sente "lolmen"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.04.02"]
+[UTCTime "14:49:55"]
+[SenteElo "1609"]
+[GoteElo "1223"]
+[Variant "Standard"]
+[TimeControl "300+3+5(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pg6 2. Ph4 Gg8 3. Ph5 Ge8 4. Gc2 Sc8 5. Sg2 Kf8 6. Sh3 Pe6 7. Sh4 Ge7 8. Pg4 Gg7 9. Pg5 Pxg5 10. Sxg5 Sg8 11. Ph6 Pxh6 12. Sxh6 Gxh6 13. Rxh6 Bxb2+ 14. Sxb2 P*h7 15. Rh2 B*e5 16. B*g3 Bxg3+ 17. Nxg3 S*g7 18. Nf5 Gf6 19. Nxg7+ Sxg7 20. B*c9 B*e5 21. Rxh7+ Bxi1+ 22. S*e7 Ke9 23. G*e8 1-0
+
+
+[Event "Casual Standard game"]
+[Site "https://lishogi.org/PYBU9Xf8"]
+[Date "2021.03.30"]
+[Sente "YohaanSethNathan"]
+[Gote "CtripleA"]
+[Result "1-0"]
+[UTCDate "2021.03.30"]
+[UTCTime "07:58:04"]
+[SenteElo "1223"]
+[GoteElo "1718"]
+[Variant "From Position"]
+[TimeControl "600+0+30(1)"]
+[ECO "?"]
+[Termination "Normal"]
+[FEN "4k4/9/ppppppppp/9/9/9/PPPPPPPPP/1B5R1/LNSGKGSNL w - 2"]
+[SetUp "1"]
+
+1... Kf8 2. Pc4 Pe6 3. Bd4 Ke7 4. Bxa7+ Kd6 5. Hxb7 Pc6 6. Hb6 Pe5 7. Gd2 Pf6 8. Gf2 Pf5 9. Pg4 Pg6 10. Gg3 Kd5 11. Gc3 Pe4 12. Pxe4 Kxe4 13. Hxc6 Ke5 14. Re2 Kf6 15. Hxd7 Pg5 16. Re6 Kg7 17. Pxg5 Ph6 18. Re7+ Kh8 19. Hxf5 Ph5 20. Dh7 Kg9 21. He6 1-0
+
+
+[Event "Rated Bullet game"]
+[Site "https://lishogi.org/yYgqrMuS"]
+[Date "2021.03.20"]
+[Sente "YohaanSethNathan"]
+[Gote "uenopanda"]
+[Result "0-1"]
+[UTCDate "2021.03.20"]
+[UTCTime "15:53:36"]
+[SenteElo "1500"]
+[GoteElo "2153"]
+[SenteRatingDiff "-17"]
+[GoteRatingDiff "+4"]
+[GoteTitle "BgM"]
+[Variant "Standard"]
+[TimeControl "120+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pg6 2. Bxh8+ Rxh8 3. Sc2 Sf8 4. Gd2 Kd8 5. Kf2 Kc8 6. Gf1e2 Gf9e8 7. Sc3 Sg7 8. Pd4 Pi6 9. Ph4 Kb8 10. Pe4 Sc8 11. Ge2e3 Pd6 12. Gd2d3 Pg5 13. Pf4 Sf6 14. Sg2 B*c2 15. Sf3 Bxb1+ 16. Pg4 Hxa1 17. Kg3 Pxg4 18. Sxg4 P*g5 19. B*b2 Pxg4 20. Kxg4 Rg8 21. Kf3 Hxb2 22. Sxb2 B*d1 23. B*e2 N*g5 24. Kf2 S*f3 25. Ke1 Bxe2+ 26. Gxe2 Sxe2+ 27. Kxe2 Nh3+ 28. Rg2 Rxg2+ 29. Ke3 R*e2 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/gEPPXqib"]
+[Date "2021.03.03"]
+[Sente "YohaanSethNathan"]
+[Gote "Solal"]
+[Result "0-1"]
+[UTCDate "2021.03.03"]
+[UTCTime "18:38:30"]
+[SenteElo "1500"]
+[GoteElo "1500"]
+[Variant "Standard"]
+[TimeControl "60+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pg6 2. Bxh8+ Rxh8 3. Gc2 B*g7 4. Ke2 Bxa1+ 5. B*b2 Hxb1 6. Ge1 Pb6 7. Gd1 L*b8 8. Sg2 Pb5 9. Pb4 Pxb4 10. Ba1 Hxa1 11. Sb2 Ha2 12. Gb3 Pxb3+ 0-1
+
+
+[Event "Wolverine Team Battle"]
+[Site "https://lishogi.org/JELsUObW"]
+[Date "2021.03.01"]
+[Sente "YohaanSethNathan"]
+[Gote "jienjien"]
+[Result "0-1"]
+[UTCDate "2021.03.01"]
+[UTCTime "06:41:35"]
+[SenteElo "1293"]
+[GoteElo "1473"]
+[SenteRatingDiff "-70"]
+[GoteRatingDiff "+6"]
+[Variant "Standard"]
+[TimeControl "600+2+2(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pg6 2. Gc2 Pf6 3. Pf4 Sf8 4. Pf5 Bg7 5. Pxf6 Pb6 6. Pf7+ Bxb2+ 7. Sxb2 Sxf7 8. Rf2 P*f6 9. Ge2 Pb5 10. Sc3 Gg8 11. Sg2 B*h2 12. B*f3 Bxi1+ 13. Rf1 L*f4 14. Rg1 Lxf3+ 15. Gxf3 Hh2 16. Rf1 Hxg2 17. P*f2 Kf9 18. Ke2 Sd8 19. Gd2 Pd6 20. Pe4 Sd7 21. Gd2e3 S*c2 22. Pg4 Hxh3 23. L*h2 Hxh2 24. Ge3f4 L*f5 25. Ke3 Lxf4 26. Gxf4 Sd7e6 27. Kf3 Sf5 28. Gxf5 0-1
+
+
+[Event "Wolverine Team Battle"]
+[Site "https://lishogi.org/b17FNNkJ"]
+[Date "2021.03.01"]
+[Sente "YohaanSethNathan"]
+[Gote "Jiroro"]
+[Result "0-1"]
+[UTCDate "2021.03.01"]
+[UTCTime "06:00:03"]
+[SenteElo "1500"]
+[GoteElo "1438"]
+[SenteRatingDiff "-207"]
+[GoteRatingDiff "+25"]
+[Variant "Standard"]
+[TimeControl "600+2+2(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pg6 2. Gc2 Pf6 3. Ge2 Sg8 4. Sg2 Rf8 5. Kf1 Kd8 6. Pi4 Pi6 7. Ph4 Bg7 8. Sh3 Pf5 9. Kf2 Pf4 10. Sg4 Pxf3+ 11. Sxf3 Kc8 12. Pg4 Bxb2+ 13. Sxb2 Sg7 14. Pe4 Kb8 15. Ge3 Sc8 16. Gc3 Pa6 17. Pa4 Gf9e8 18. Na3 Pa5 19. Pxa5 Lxa5 20. B*b4 Lxa3+ 21. Sxa3 N*b5 22. Gc2 Nxa3+ 23. Lxa3 P*a7 24. P*a5 B*b6 25. Pd4 Pc6 26. Gc2d3 Bc7 27. N*a4 Bxh2+ 28. Ng3 Hxi1 29. Ge2 L*f4 30. Kg2 Lxf3+ 31. Gxf3 S*e2 32. Gf2 Sxd3+ 33. Gf1 Ae3 34. Gg1 Rf3+ 35. Kh3 Dxg3 0-1
+
+
+[Event "Mipha Rook Handicap simul"]
+[Site "https://lishogi.org/7pp3bM2j"]
+[Date "2021.02.13"]
+[Sente "YohaanSethNathan"]
+[Gote "tsea1483"]
+[Result "0-1"]
+[UTCDate "2021.02.13"]
+[UTCTime "16:18:46"]
+[SenteElo "1500"]
+[GoteElo "1500"]
+[Variant "From Position"]
+[TimeControl "1200+0+60(1)"]
+[ECO "?"]
+[Termination "Normal"]
+[FEN "lnsgkgsnl/7b1/ppppppppp/9/9/9/PPPPPPPPP/1B5R1/LNSGKGSNL w - 2"]
+[SetUp "1"]
+
+1... Pg6 2. Pc4 Pf6 3. Gc2 Sf8 4. Ge2 Sf7 5. Pd4 Kd8 6. Ge2d3 Kc8 7. Ke2 Sd8 8. Sf2 Bg7 9. Bc3 Gd9e8 10. Sd2 Gg8 11. Ph4 Pe6 12. Pe4 Pd6 13. Sf2e3 Pc6 14. Pf4 Gd7 15. Rh3 Nc7 16. Pb4 Se7 17. Gb3 Pd5 18. Pa4 Pa6 19. La2 Sd6 20. Ga3 Pb6 21. Gb3 Pxd4 22. Sxd4 P*d5 23. Sd4e3 Pc5 24. P*d4 Pxc4 25. Gb3xc4 P*c5 26. Pxd5 Nxd5 27. Gxd5 Sxd5 28. P*d4 Sc4 29. Gxc4 Pxc4 30. Bb2 G*b3 31. P*c7 Gxc7 32. Bc1 Gc2 33. Ba3 G*b3 34. Sd3 Pc3+ 35. Sxc2 Txc2 36. S*d3 Gxa3 37. Sxc2 Gxa2 38. Nc3 P*d6 39. Pd5 P*c4 40. Pxd6 Pxc3+ 41. Sxc3 N*d5 42. Sc3d4 Nxe3+ 43. Sxe3 Pf5 44. Pxf5 Bc3+ 45. G*d3 Hxd3 46. Kxd3 B*f1 47. B*e2 Bxh3+ 48. Pd7+ Kxd7 49. P*d6 Gxd6 50. P*d5 Gxd5 51. P*d6 Kxd6 52. P*d4 S*c4 53. Kd2 L*d3 54. Bxd3 Sxd3+ 55. Kxd3 Hf1 56. S*e2 B*c4 57. Kd2 Hxe2 58. Kc3 Hd3 0-1
+
+
+[Event "Casual Blitz game"]
+[Site "https://lishogi.org/9gnRAGtW"]
+[Date "2021.02.12"]
+[Sente "YohaanSethNathan"]
+[Gote "lishogi AI level 1"]
+[Result "0-1"]
+[UTCDate "2021.02.12"]
+[UTCTime "10:58:06"]
+[SenteElo "1299"]
+[GoteElo "?"]
+[Variant "Standard"]
+[TimeControl "300+3+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pb6 2. Sc2 Pi6 3. Gd2 Pi5 4. Rg2 Gg8 5. Sh2 Pd6 6. Gf2 Pc6 7. Sc3 Pg6 8. Pg4 Sc8 9. Pb4 Pb5 10. Pxb5 Rxb5 11. P*b4 Rb8 12. Pd4 Pe6 13. Gd3 Pa6 14. Pa4 Nc7 15. Ge4 Sd7 16. Pd5 Nxd5 17. Gxd5 Pxd5 18. Kd2 Pi4 19. Pxi4 Pd4 20. N*e2 Pc5 21. Pxc5 Pg5 22. P*d3 Pxg4 23. Rxg4 P*c4 24. Sxd4 Rxb4 25. Kc2 G*d2 26. Kxd2 Rxb2+ 27. G*c2 Dxb1 28. La3 P*b3 29. P*b2 Li7 30. Pxb3 Bf6 31. Rf4 P*d5 32. Gg3 Sf8 33. Rxf6 Pxf6 34. Gg4 Kf9 35. Pe4 Df1 0-1
+
+
+[Event "Casual Blitz game"]
+[Site "https://lishogi.org/KDQsQxPl"]
+[Date "2021.02.12"]
+[Sente "lishogi AI level 1"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.02.12"]
+[UTCTime "10:48:51"]
+[SenteElo "?"]
+[GoteElo "1299"]
+[Variant "Standard"]
+[TimeControl "300+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 Pg6 2. Gc2 Gg8 3. Sg2 Ge8 4. Pi4 Sc8 5. Pi5 Kd9 6. Pa4 Pb6 7. Pi6 Pa6 8. Pxi7+ Lxi7 9. Lxi7+ Bxi7 10. Ge2 Sh8 11. Ph5 Sg7 12. Pc4 Pf6 13. Ph6 Pxh6 14. Sf1 Gh7 15. Ri2 Gf7 16. Sd2 Ph5 17. Ri5 Sh6 18. Rxi7+ Sxi7 19. B*g8 R*h8 20. Bxf7+ L*e8 21. Bxf6 Sh6 22. Bxh8+ Gxh8 23. Hxg6 Sg7 24. Hxh5 P*h6 25. Hi4 B*g6 26. Hxg6 Sxg6 27. Kd1 B*i2 28. Pe4 Bxh1+ 29. Ge1 Hxf3 30. Kc1 Hxg3 31. Pa5 N*f3 32. Sf2 Hg2 33. Sxf3 Hxf3 34. P*g5 Sxg5 35. P*f2 Hxe4 36. Pxa6 S*a8 37. Kb2 He5 38. Pd4 Hxd4 39. Sc3 1-0
+
+
+[Event "Rated Bullet game"]
+[Site "https://lishogi.org/UMjcW1NS"]
+[Date "2021.02.12"]
+[Sente "karakoro"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.02.12"]
+[UTCTime "10:34:14"]
+[SenteElo "1857"]
+[GoteElo "1313"]
+[SenteRatingDiff "+1"]
+[GoteRatingDiff "-14"]
+[Variant "Standard"]
+[TimeControl "0+0+10(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Sf2 Pg6 2. Pg4 Pf6 3. Sg3 Gg8 4. Rg2 Ke8 5. Sh4 Ge9 6. Pg5 Sf8 7. Pxg6 Sf7 8. Sg5 Ge9f8 9. Rg4 Rc8 10. Ng3 Ph6 11. Sxh6 Sxg6 12. Rxg6 Gf8g7 13. Sxg7+ Gxg7 14. Rg4 Kf7 15. P*g5 S*h7 16. S*h5 P*g6 17. Pxg6 Sxg6 18. Sxg6 Gxg6 19. S*h7 P*g5 20. Sxg6+ Kxg6 21. G*h5 Kf7 22. Rxg5 S*g7 23. P*g6 Sxg6 24. Gxg6 Kf8 25. Rh5 Bg9 26. S*f7 Kf9 27. Rxh9+ S*e2 28. Gf1xe2 Rh8 29. N*g7 Ke9 30. Dxg9 Kd8 31. G*d9 Kc8 32. Gxc9 Kd8 33. Dd9 1-0
+
+
+[Event "Casual Rapid game"]
+[Site "https://lishogi.org/UcoODIDK"]
+[Date "2021.02.12"]
+[Sente "Omega0"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.02.12"]
+[UTCTime "10:11:05"]
+[SenteElo "1465"]
+[GoteElo "1500"]
+[Variant "Standard"]
+[TimeControl "180+15+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Gc2 Pg6 2. Pc4 Gg8 3. Kd1 Ge8 4. Ph4 Ge8f8 5. Ph5 Bg7 6. Bxg7+ Gf8xg7 7. Sd2 Sf8 8. Kc1 Sd8 9. Pg4 Pf6 10. Pa4 B*c6 11. Gf2 Sf7 12. Pc5 Bd5 13. Pd4 Be6 14. Pe4 Pd6 15. Nc3 Pb6 16. B*i2 Bd7 17. Pf4 Pc6 18. Ng3 Pxc5 19. Gd3 Rc8 20. Pg5 Bxi2+ 21. Lxi2 Pxg5 22. Pe5 Pc4 23. B*b7 Sd7 24. Bxc8+ Sxc8 25. Gxc4 P*c6 26. P*c7 Sxc7 27. R*c9 Kd8 28. Rxb9+ B*b8 29. Dxh9 B*h8 30. Pf5 Pe6 31. Pxf6 Gxf6 32. P*f5 Gxe5 33. N*f6 Sxf6 34. Pxf6 P*f7 35. S*g7 Bxg7 36. Dxg8 S*f8 37. G*f9 N*g4 38. Rg2 Pc5 39. Gxf8 Bxf8 40. Dxf8 Kc9 41. N*d7 Kb9 42. S*c8 Ka8 43. B*b7 1-0
+
+
+[Event "Casual Rapid game"]
+[Site "https://lishogi.org/mMYPmQBg"]
+[Date "2021.02.09"]
+[Sente "Dimitarkadiev"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.02.09"]
+[UTCTime "17:45:10"]
+[SenteElo "1366"]
+[GoteElo "1500"]
+[Variant "Standard"]
+[TimeControl "600+0+3(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Rc2 Pg6 2. Gf1e2 Gd9e8 3. Kf2 Kd8 4. Kg2 Gg8 5. Kh2 Kc8 6. Sg2 Sd8 7. Pc4 Bxb2+ 8. Sxb2 Sh8 9. Pc5 Pg5 10. Gd1d2 Gg7 11. Pe4 Pb6 12. B*f4 Gg6 13. Pc6 Rb7 14. Pa4 B*f6 15. Pxc7+ Sxc7 16. P*c6 Sd8 17. Bxa9+ P*c7 18. L*c3 Bxc3+ 19. Pxc7+ Sxc7 20. Rxc3 L*c6 21. P*c5 Sb8 22. Hxb8 Kxb8 23. Pxc6 P*c7 24. B*e5 B*d6 25. Bxh8+ Pe6 26. Pxc7+ Rxc7 27. Hxi9 Rxc3+ 28. Sxc3 R*c9 29. R*i8 Gd8 30. Rxd8+ Rc8 31. Dxd7 Ng7 32. Dxd6 Rc9 33. Hh8 Rc8 34. Hxi7 Gh6 35. L*c4 P*i8 36. Dxb6 Kc9 37. B*e7 Kd9 38. L*d4 Ke8 39. Hxh6 Pxh6 40. Dxe6 Rxc4 41. Sxc4 1-0
+
+
+[Event "SuperBlitz Shield Arena"]
+[Site "https://lishogi.org/mDH4CKbj"]
+[Date "2021.02.09"]
+[Sente "YohaanSethNathan"]
+[Gote "DenisKoro"]
+[Result "0-1"]
+[UTCDate "2021.02.09"]
+[UTCTime "17:39:52"]
+[SenteElo "1418"]
+[GoteElo "1562"]
+[SenteRatingDiff "-105"]
+[GoteRatingDiff "+4"]
+[Variant "Standard"]
+[TimeControl "180+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pg6 2. Gf1e2 Pb6 3. Kf1 Pb5 4. Sc2 Bxb2+ 5. Sc3 Hxb1 0-1
+
+
+[Event "Casual UltraBullet game"]
+[Site "https://lishogi.org/lNleYUmM"]
+[Date "2021.02.07"]
+[Sente "YohaanSethNathan"]
+[Gote "YoBot_v2"]
+[Result "0-1"]
+[UTCDate "2021.02.07"]
+[UTCTime "18:46:32"]
+[SenteElo "1500"]
+[GoteElo "1356"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "15+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pf4 Pg6 2. Pg4 Kd8 3. Pg5 Pxg5 4. Ph4 Pb6 5. Rg2 Pb5 6. Rxg5 Pb4 7. Rb5 Rxb5 8. Pxb4 Rxb4 9. Pc4 Bxb2+ 10. Pc5 Hxb1 11. Pc6 N*f3 12. Kf2 Nxg1+ 13. Kf3 Mxf1 14. Kg4 B*e6 15. Kh5 S*g4 16. Kg6 R*g7 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/zypMBYWr"]
+[Date "2021.01.22"]
+[Sente "YohaanSethNathan"]
+[Gote "YoBot_v2"]
+[Result "0-1"]
+[UTCDate "2021.01.22"]
+[UTCTime "03:58:07"]
+[SenteElo "1418"]
+[GoteElo "1662"]
+[GoteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "180+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pg4 Pg6 2. Pg5 Pxg5 3. Rg2 Rg8 4. Rxg5 Rxg5 5. Ng3 Rxg3+ 6. Sg2 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/zFSmOEUo"]
+[Date "2021.01.20"]
+[Sente "YohaanSethNathan"]
+[Gote "caxmati"]
+[Result "0-1"]
+[UTCDate "2021.01.20"]
+[UTCTime "16:15:46"]
+[SenteElo "1418"]
+[GoteElo "1066"]
+[Variant "Standard"]
+[TimeControl "180+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pc4 Pg6 2. Bxh8+ Sxh8 3. B*b2 Gg8 4. Sc2 Rf8 5. Gd1e2 Kd8 6. Kf2 Kc8 7. Kg2 Kb8 8. Pg4 Sc8 9. Gf1f2 Pf6 10. Ng3 Pf5 11. Nc3 Pf4 12. Li2 Sg7 13. Pe4 Sh6 14. Ge2e3 Pxf3+ 15. Gf2xf3 Pg5 16. Ge3f4 Pxg4 17. Gf3xg4 Sg5 18. Kf3 Sxf4 19. Gxf4 Rxf4 20. Kxf4 B*d2 21. Kf3 Be3+ 0-1
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/mp5DBUxp"]
+[Date "2021.01.20"]
+[Sente "caxmati"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.01.20"]
+[UTCTime "16:11:44"]
+[SenteElo "1066"]
+[GoteElo "1418"]
+[Variant "Standard"]
+[TimeControl "180+0+0(1)"]
+[ECO "?"]
+[Termination "Normal"]
+
+1. Pc4 Pb6 2. Bc3 Pe6 3. Pd4 Gd8 4. Rb2 Pg6 5. Kf2 Kf8 6. Kg2 Sg8 7. Kh2 Gg9 8. Sg2 Ge7 9. Gc2 Sg7 10. Sd2 Sd8 11. Pb4 Rb7 12. Sd3 Sh6 13. Pc5 La8 14. Sc4 Gd6 15. Pb5 Pxb5 16. Sxb5 Gxc5 17. Sb6 Rxb6 18. Rxb6 Gc6 19. Rxb9+ 1-0
+
+
+[Event "Casual Bullet game"]
+[Site "https://lishogi.org/X4D0UvXr"]
+[Date "2021.01.20"]
+[Sente "YohaanSethNathan"]
+[Gote "caxmati"]
+[Result "0-1"]
+[UTCDate "2021.01.20"]
+[UTCTime "16:07:34"]
+[SenteElo "1418"]
+[GoteElo "1066"]
+[Variant "Standard"]
+[TimeControl "180+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pg4 Pg6 2. Rg2 Pf6 3. Pg5 Pxg5 4. Rxg5 Gg8 5. Sf2 Sf8 6. P*g6 P*g7 7. Pxg7+ Sxg7 8. Ng3 Rf8 9. Pc4 Kd8 10. Gc2 Kc8 11. Be5 Gd8 12. Pc5 Pa6 13. Gb2 Pe6 14. Bd4 Sh6 15. Rg4 Sh5 16. Rf4 Sg6 17. Sg1 Sg5 18. Ri4 Pi6 19. P*g4 Pi5 0-1
+
+
+[Event "Rated Blitz game"]
+[Site "https://lishogi.org/Tnnt51cX"]
+[Date "2021.01.05"]
+[Sente "YoBot_v2"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.01.05"]
+[UTCTime "18:17:15"]
+[SenteElo "1662"]
+[GoteElo "1418"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "300+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Ph4 Gf8 2. Ph5 Gg8 3. Ph6 Rf8 4. Pxh7+ 1-0
+
+
+[Event "Rated Blitz game"]
+[Site "https://lishogi.org/3YCc0D60"]
+[Date "2021.01.05"]
+[Sente "YoBot_v2"]
+[Gote "YohaanSethNathan"]
+[Result "1-0"]
+[UTCDate "2021.01.05"]
+[UTCTime "17:51:13"]
+[SenteElo "1500"]
+[GoteElo "1500"]
+[SenteRatingDiff "+162"]
+[GoteRatingDiff "-82"]
+[SenteTitle "BOT"]
+[Variant "Standard"]
+[TimeControl "300+0+0(1)"]
+[ECO "?"]
+[Termination "Time forfeit"]
+
+1. Pg4 Pc6 2. Pc4 1-0
+
+
